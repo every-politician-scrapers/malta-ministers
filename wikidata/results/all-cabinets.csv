@@ -1,18 +1,18 @@
-item,itemLabel,inception,startTime,abolished,endTime,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-Q24952673,5th Borg Olivier Cabinet,1966-04-07T00:00:00Z,,1971-06-21T00:00:00Z,,Q3112083,Cabinet of Malta,,,,,,,,,,
-Q24952675,2nd Mintoff Cabinet,1971-06-21T00:00:00Z,,1976-09-25T00:00:00Z,,Q3112083,Cabinet of Malta,,,,,,,,,,
-Q24952677,3rd Mintoff Cabinet,1976-09-25T00:00:00Z,,1981-12-20T00:00:00Z,,Q3112083,Cabinet of Malta,,,,,,,,,,
-Q24952676,4th Mintoff Cabinet,1981-12-20T00:00:00Z,,1983-09-03T00:00:00Z,,Q3112083,Cabinet of Malta,,,,,,,,,,
-Q24952679,5th Mintoff Cabinet,1983-09-03T00:00:00Z,,1984-12-22T00:00:00Z,,Q3112083,Cabinet of Malta,,,,,,,,,,
-Q24952682,Bonniċi Cabinet,1984-12-22T00:00:00Z,,1987-05-12T00:00:00Z,,Q3112083,Cabinet of Malta,,,,,,,,,,
-Q24952681,1st Adami Cabinet,1987-05-12T00:00:00Z,,1990-05-03T00:00:00Z,,Q3112083,Cabinet of Malta,,,,,,,,,,
-Q24952680,2nd Adami Cabinet,1990-05-03T00:00:00Z,,1992-02-27T00:00:00Z,,Q3112083,Cabinet of Malta,,,,,,,,,,
-Q24952683,3rd Adami Cabinet,1992-02-27T00:00:00Z,,1996-10-28T00:00:00Z,,Q3112083,Cabinet of Malta,,,,,Q24952680,2nd Adami Cabinet,,,,
-Q24952684,Sant Cabinet,1996-10-28T00:00:00Z,,1998-09-06T00:00:00Z,,Q3112083,Cabinet of Malta,,,Q24952683,3rd Adami Cabinet,,,,,,
-Q15939267,4th Adami Cabinet,1998-09-06T00:00:00Z,,2003-04-12T00:00:00Z,,Q3112083,Cabinet of Malta,,,Q24952684,Sant Cabinet,Q16639664,Adami 5th Cabinet,,,Q16639664,Adami 5th Cabinet
-Q15939242,1st Gonzi Cabinet,2003-04-12T00:00:00Z,,2008-03-10T00:00:00Z,,Q3112083,Cabinet of Malta,,,Q16639664,Adami 5th Cabinet,Q1720099,2nd Gonzi Cabinet,Q16639664,Adami 5th Cabinet,Q1720099,2nd Gonzi Cabinet
-Q16639664,Adami 5th Cabinet,2003-04-15T00:00:00Z,,2004-03-23T00:00:00Z,,Q3112083,Cabinet of Malta,,,Q15939267,4th Adami Cabinet,Q15939242,1st Gonzi Cabinet,Q15939267,4th Adami Cabinet,Q15939242,1st Gonzi Cabinet
-Q1720099,2nd Gonzi Cabinet,2008-03-11T00:00:00Z,,2013-03-10T00:00:00Z,,Q3112083,Cabinet of Malta,,,Q15939242,1st Gonzi Cabinet,Q13828291,Maltese Government 2013–17,Q15939242,1st Gonzi Cabinet,Q13828291,Maltese Government 2013–17
-Q24952692,2nd Muscat Cabinet,2014-04-02T00:00:00Z,,2017-06-09T00:00:00Z,,Q3112083,Cabinet of Malta,,,,,Q30217220,3rd Muscat Cabinet,,,,
-Q30217220,3rd Muscat Cabinet,2017-06-09T00:00:00Z,,2020-01-13T00:00:00Z,,Q3112083,Cabinet of Malta,,,Q24952692,2nd Muscat Cabinet,Q86725348,Abela Cabinet,,,,
-Q86725348,Abela Cabinet,2020-01-13T00:00:00Z,,,,Q3112083,Cabinet of Malta,,,Q30217220,3rd Muscat Cabinet,,,,,,
+ordinal,item,itemLabel,inception,startTime,abolished,endTime,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q24952673,5th Borg Olivier Cabinet,1966-04-07T00:00:00Z,,1971-06-21T00:00:00Z,,Q3112083,Cabinet of Malta,,,,,,,,,,
+,Q24952675,2nd Mintoff Cabinet,1971-06-21T00:00:00Z,,1976-09-25T00:00:00Z,,Q3112083,Cabinet of Malta,,,,,,,,,,
+,Q24952677,3rd Mintoff Cabinet,1976-09-25T00:00:00Z,,1981-12-20T00:00:00Z,,Q3112083,Cabinet of Malta,,,,,,,,,,
+,Q24952676,4th Mintoff Cabinet,1981-12-20T00:00:00Z,,1983-09-03T00:00:00Z,,Q3112083,Cabinet of Malta,,,,,,,,,,
+,Q24952679,5th Mintoff Cabinet,1983-09-03T00:00:00Z,,1984-12-22T00:00:00Z,,Q3112083,Cabinet of Malta,,,,,,,,,,
+,Q24952682,Bonniċi Cabinet,1984-12-22T00:00:00Z,,1987-05-12T00:00:00Z,,Q3112083,Cabinet of Malta,,,,,,,,,,
+,Q24952681,1st Adami Cabinet,1987-05-12T00:00:00Z,,1990-05-03T00:00:00Z,,Q3112083,Cabinet of Malta,,,,,,,,,,
+,Q24952680,2nd Adami Cabinet,1990-05-03T00:00:00Z,,1992-02-27T00:00:00Z,,Q3112083,Cabinet of Malta,,,,,,,,,,
+,Q24952683,3rd Adami Cabinet,1992-02-27T00:00:00Z,,1996-10-28T00:00:00Z,,Q3112083,Cabinet of Malta,,,,,Q24952680,2nd Adami Cabinet,,,,
+,Q24952684,Sant Cabinet,1996-10-28T00:00:00Z,,1998-09-06T00:00:00Z,,Q3112083,Cabinet of Malta,,,Q24952683,3rd Adami Cabinet,,,,,,
+,Q15939267,4th Adami Cabinet,1998-09-06T00:00:00Z,,2003-04-12T00:00:00Z,,Q3112083,Cabinet of Malta,,,Q24952684,Sant Cabinet,Q16639664,Adami 5th Cabinet,,,Q16639664,Adami 5th Cabinet
+,Q15939242,1st Gonzi Cabinet,2003-04-12T00:00:00Z,,2008-03-10T00:00:00Z,,Q3112083,Cabinet of Malta,,,Q16639664,Adami 5th Cabinet,Q1720099,2nd Gonzi Cabinet,Q16639664,Adami 5th Cabinet,Q1720099,2nd Gonzi Cabinet
+,Q16639664,Adami 5th Cabinet,2003-04-15T00:00:00Z,,2004-03-23T00:00:00Z,,Q3112083,Cabinet of Malta,,,Q15939267,4th Adami Cabinet,Q15939242,1st Gonzi Cabinet,Q15939267,4th Adami Cabinet,Q15939242,1st Gonzi Cabinet
+,Q1720099,2nd Gonzi Cabinet,2008-03-11T00:00:00Z,,2013-03-10T00:00:00Z,,Q3112083,Cabinet of Malta,,,Q15939242,1st Gonzi Cabinet,Q13828291,Maltese Government 2013–17,Q15939242,1st Gonzi Cabinet,Q13828291,Maltese Government 2013–17
+,Q24952692,2nd Muscat Cabinet,2014-04-02T00:00:00Z,,2017-06-09T00:00:00Z,,Q3112083,Cabinet of Malta,,,,,Q30217220,3rd Muscat Cabinet,,,,
+,Q30217220,3rd Muscat Cabinet,2017-06-09T00:00:00Z,,2020-01-13T00:00:00Z,,Q3112083,Cabinet of Malta,,,Q24952692,2nd Muscat Cabinet,Q86725348,Abela Cabinet,,,,
+,Q86725348,Abela Cabinet,2020-01-13T00:00:00Z,,,,Q3112083,Cabinet of Malta,,,Q30217220,3rd Muscat Cabinet,,,,,,
