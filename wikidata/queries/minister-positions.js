@@ -7,7 +7,9 @@ module.exports = function () {
                   ?partOf ?partOfLabel ?partStart ?partEnd
                   ?isa ?isaLabel ?ministry ?ministryLabel
   WHERE {
-    ?item wdt:P279* wd:Q83307 ; wdt:P1001 wd:${meta.jurisdiction.id} .
+    { ?item wdt:P279* wd:Q83307 ; wdt:P1001 wd:${meta.jurisdiction.id} } UNION
+    { ?item wdt:P361 wd:${meta.cabinet.parent} }
+
     OPTIONAL {
       ?item          p:P361  ?partStatement .
       ?partStatement ps:P361 ?partOf .
