@@ -8,7 +8,6 @@ module.exports = function () {
           ?ordinal ?replaces ?replacesLabel ?replacedBy ?replacedByLabel
           ?nature ?natureLabel
           ?source ?sourceName ?statedName
-          ?gender ?genderLabel ?dob ?dobPrecision
          (STRAFTER(STR(?held), '/statement/') AS ?psid)
   WHERE {
     # All ministerial/cabinet positions in this jurisdiction
@@ -32,13 +31,6 @@ module.exports = function () {
       ?ref pr:P854 ?source .
       OPTIONAL { ?ref pr:P1810 ?sourceName }
       OPTIONAL { ?ref pr:P1932 ?statedName }
-    }
-
-    OPTIONAL { ?item wdt:P21 ?gender }
-    OPTIONAL { # truthiest DOB, with precison
-      ?item p:P569 ?ts .
-      ?ts a wikibase:BestRank .
-      ?ts psv:P569 [wikibase:timeValue ?dob ; wikibase:timePrecision ?dobPrecision] .
     }
 
     SERVICE wikibase:label { bd:serviceParam wikibase:language "en".  }
