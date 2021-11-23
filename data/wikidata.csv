@@ -1,12 +1,12 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q18206002,Chris Fearne,Chris Fearne,male,1963-03-12T00:00:00Z,11,,Q5261066,Deputy Prime Minister of Malta,Q18206002-B8A5B9F9-E811-4704-976F-F2FD1FAFAB31
-Q18206002,Chris Fearne,Chris Fearne,male,1963-03-12T00:00:00Z,11,,Q108265384,Minister for Health,Q18206002-11C337F5-AA21-4E82-A072-4AB57432904F
-Q102423681,Clint Camilleri,Clint Camilleri,male,1988-02-24T00:00:00Z,11,,Q108265813,Minister for Gozo,Q102423681-00A4B480-2547-4B7C-A96E-01144EA3E99E
-Q108384543,Clyde Caruana,Clyde Caruana,male,,,,Q5449540,Finance Minister of Malta,Q108384543-FFA84E9B-4743-47F9-81ED-2309E108CE28
-Q37861343,Edward Zammit Lewis,Edward Zammit Lewis,male,1973-06-21T00:00:00Z,11,,Q108265741,Minister for Justice and Governance,Q37861343-5BF6E37D-2B8A-4CB4-BD4C-07E43FCAAC05
-Q5416069,Evarist Bartolo,Evarist Bartolo,male,1952-10-14T00:00:00Z,11,,Q25713883,Minister for Foreign Affairs,Q5416069-72B9098D-C754-4F75-8E44-74D79D4E748A
-Q1871727,Louis Grech,Louis Grech,male,1947-03-22T00:00:00Z,11,,Q5261066,Deputy Prime Minister of Malta,Q1871727-116B70F4-A4AE-4BD4-BD34-3F5463A7941C
-Q17315715,Miriam Dalli,Miriam Dalli,female,1976-05-19T00:00:00Z,11,,Q108266313,"Minister for Energy, Enterprise and Sustainable Development",Q17315715-39068AC9-A7F8-4507-888B-C1BF590506F9
-Q16199692,Owen Bonnici,Owen Bonnici,male,1980-05-24T00:00:00Z,11,,Q108265751,"Minister for Equality, Research and Innovation",Q16199692-97735DDD-1DA0-491D-AEEE-053391471210
-Q37860840,Robert Abela,Robert Abela,male,1977-12-07T00:00:00Z,11,,Q152814,Prime Minister of Malta,Q37860840-6948e451-44f2-8284-cd40-dc61af09d081
-Q23881652,Silvio Schembri,Silvio Schembri,male,1985-05-21T00:00:00Z,11,,Q108265621,Minister for the Economy and Industry,Q23881652-0885E8FE-373E-43DF-868B-D4EE86396811
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
+Q102423681,Clint Camilleri,Clint Camilleri,male,1988-02-24,11,,,Q108265813,Minister for Gozo,Q102423681-00A4B480-2547-4B7C-A96E-01144EA3E99E
+Q108384543,Clyde Caruana,Clyde Caruana,male,,,,,Q5449540,Finance Minister of Malta,Q108384543-FFA84E9B-4743-47F9-81ED-2309E108CE28
+Q16199692,Owen Bonnici,Owen Bonnici,male,1980-05-24,11,,,Q108265751,"Minister for Equality, Research and Innovation",Q16199692-97735DDD-1DA0-491D-AEEE-053391471210
+Q17315715,Miriam Dalli,Miriam Dalli,female,1976-05-19,11,,,Q108266313,"Minister for Energy, Enterprise and Sustainable Development",Q17315715-39068AC9-A7F8-4507-888B-C1BF590506F9
+Q18206002,Chris Fearne,Chris Fearne,male,1963-03-12,11,,,Q108265384,Minister for Health,Q18206002-11C337F5-AA21-4E82-A072-4AB57432904F
+Q18206002,Chris Fearne,Chris Fearne,male,1963-03-12,11,,,Q5261066,Deputy Prime Minister of Malta,Q18206002-B8A5B9F9-E811-4704-976F-F2FD1FAFAB31
+Q1871727,Louis Grech,Louis Grech,male,1947-03-22,11,,,Q5261066,Deputy Prime Minister of Malta,Q1871727-116B70F4-A4AE-4BD4-BD34-3F5463A7941C
+Q23881652,Silvio Schembri,Silvio Schembri,male,1985-05-21,11,,,Q108265621,Minister for the Economy and Industry,Q23881652-0885E8FE-373E-43DF-868B-D4EE86396811
+Q37860840,Robert Abela,Robert Abela,male,1977-12-07,11,,,Q152814,Prime Minister of Malta,Q37860840-6948e451-44f2-8284-cd40-dc61af09d081
+Q37861343,Edward Zammit Lewis,Edward Zammit Lewis,male,1973-06-21,11,,,Q108265741,Minister for Justice and Governance,Q37861343-5BF6E37D-2B8A-4CB4-BD4C-07E43FCAAC05
+Q5416069,Evarist Bartolo,Evarist Bartolo,male,1952-10-14,11,,,Q25713883,Minister for Foreign Affairs,Q5416069-72B9098D-C754-4F75-8E44-74D79D4E748A
