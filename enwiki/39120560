@@ -1,0 +1,181 @@
+{
+  "title": "Ian Borg",
+  "pageID": 39120560,
+  "categories": [
+    "1986 births",
+    "Living people",
+    "People from Dingli",
+    "Government ministers of Malta",
+    "Labour Party (Malta) politicians",
+    "Alumni of the University of Malta",
+    "21st-century Maltese politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ian Borg (born 28 February 1986) is a Maltese politician and Minister of Transport, Infrastructure, and Capital Projects.",
+              "formatting": {
+                "bold": [
+                  "Ian Borg"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as Parliamentary Secretary for European Affairs.",
+              "links": [
+                {
+                  "text": "European Affairs",
+                  "type": "internal",
+                  "page": "European affairs"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Ian Borg (cropped).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Ian_Borg_(cropped).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Ian_Borg_(cropped).jpg",
+          "caption": "Ian Borg in 2017",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Maltese politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Ian Borg marries, month after becoming minister",
+          "url": "https://timesofmalta.com/articles/view/ian-borg-marries-month-after-becoming-minister.652783",
+          "access-date": "2020-07-14",
+          "website": "Times of Malta",
+          "language": "en-gb",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2017-07-06",
+          "title": "borg ian",
+          "url": "https://parlament.mt/13th-leg/political-groups/partit-laburista/borg-ian/",
+          "access-date": "2020-07-14",
+          "website": "Parliament of Malta",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Borg holds a doctor of laws degree from the University of Malta.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Malta"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Mentors – LEAD",
+          "url": "http://www.lead.org.mt/downloads/",
+          "access-date": "2020-07-14",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He started his political career elected as mayor of Dingli, his native town in 2005, and was re-elected in 2008.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dingli"
+                }
+              ]
+            },
+            {
+              "text": "There, he was also elected as executive member of Local Councils Association serving in the North Regional Committee and Users Committee of the Malta Environment and Planning Authority till 2010.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Malta"
+                }
+              ]
+            },
+            {
+              "text": "Soon after, he was elected member of the Maltese delegation to the Committee of the Regions together with being President of the Labour Party Councillors Sectors and in 2012 he was reelected as mayor of his home town as member of Labour Party.",
+              "links": [
+                {
+                  "text": "Maltese",
+                  "type": "internal",
+                  "page": "Maltese people"
+                },
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "Labour Party (Malta)"
+                }
+              ]
+            },
+            {
+              "text": "Borg was Parliamentary Secretary of the EU Presidency in 2017 and EU Funds.",
+              "links": [
+                {
+                  "text": "EU Presidency",
+                  "type": "internal",
+                  "page": "EU presidency"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Ian Borg, 29",
+          "url": "https://www.forbes.com/pictures/edhd45llg/ian-borg-29/",
+          "access-date": "2020-07-14",
+          "website": "Forbes",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Notes",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

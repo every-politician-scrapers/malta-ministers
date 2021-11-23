@@ -1,0 +1,157 @@
+{
+  "title": "Clayton Bartolo",
+  "pageID": 63713037,
+  "categories": [
+    "1987 births",
+    "Living people",
+    "People from Pietà, Malta",
+    "21st-century Maltese politicians",
+    "Labour Party (Malta) politicians",
+    "Alumni of the University of Malta"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Clayton Bartolo (born 2 June 1987) is a Maltese Partit Laburista (Labour Party) politician and the Minister for Tourism and Consumer Protection in Prime Minister Robert Abela's cabinet in early 2020.",
+              "links": [
+                {
+                  "text": "Maltese",
+                  "type": "internal",
+                  "page": "Malta"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Clayton Bartolo"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was elected as a member of the Parliament of Malta in June 2017."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Maltese politician (born 1987)",
+          "template": "short description"
+        },
+        {
+          "date": "January 2020",
+          "template": "engvarb"
+        },
+        {
+          "date": "January 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1987",
+          "month": "6",
+          "day": "2",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "MP"
+          },
+          "name": {
+            "text": "Clayton Bartolo"
+          },
+          "office": {
+            "text": "Member of the Maltese Parliament",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maltese Parliament"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister for Tourism and Consumer Protection"
+          },
+          "birth_date": {
+            "text": "June 2, 1987"
+          },
+          "birth_place": {
+            "text": "Pieta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pieta"
+              }
+            ]
+          },
+          "party": {
+            "text": "Labour Party (Malta) (national) Socialists & Democrats (European)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Labour Party (Malta)"
+              },
+              {
+                "text": "Socialists & Democrats",
+                "type": "internal",
+                "page": "Progressive Alliance of Socialists and Democrats"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Malta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Malta"
+              }
+            ]
+          },
+          "website": {
+            "text": "claytonbartolo.com"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "These are Robert Abela's ministers and parliamentary secretaries",
+          "date": "15 January 2020",
+          "work": "Times of Malta",
+          "url": "https://timesofmalta.com/articles/view/these-are-robert-abelas-ministers-and-parliamentary-secretaries.763578",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Hon. Clayton Bartolo MP",
+          "website": "Parliament of Malta",
+          "url": "https://parlament.mt/13th-leg/political-groups/partit-laburista/bartolo-clayton/",
+          "accessdate": "21 April 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "malta-politician-stub"
+        }
+      ]
+    }
+  ]
+}
