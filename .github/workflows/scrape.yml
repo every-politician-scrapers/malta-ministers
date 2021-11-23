@@ -3,6 +3,7 @@ name: Compare current data
 on:
   schedule:
     - cron:  '14 2 * * *'
+  workflow_dispatch: {}
 
 jobs:
   scheduled:
