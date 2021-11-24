@@ -4,10 +4,12 @@
 <html dir="ltr" class="ms-isBot" lang="en-GB">
     <head><meta name="GENERATOR" content="Microsoft SharePoint" /><meta http-equiv="Content-type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=10" /><meta http-equiv="Expires" content="0" /><meta name="msapplication-TileImage" content="/_layouts/15/images/SharePointMetroAppTile.png" /><meta name="msapplication-TileColor" content="#0072C6" /><title>
 	
-	
+    
+    Portfolio
 
 </title><link rel="shortcut icon" href="/SiteAssets/favicon.ico?v=2" type="image/vnd.microsoft.icon" id="favicon" /><link rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/Themable/corev15.css?rev=f4ES4o33Y5B6OSnm1GOXLA%3D%3DTAG0"/>
 <link rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/Themable/searchv15.css?rev=Lyort9GAreb47O499k8%2Fnw%3D%3DTAG0"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Themable/Core%20Styles/controls15.css"/>
 <script type="text/javascript" src="/_layouts/15/1033/initstrings.js?rev=2WxjgxyM2qXGgY9r2nHW8A%3D%3DTAG0"></script>
 <script type="text/javascript" src="/_layouts/15/init.js?rev=slYEfbCr5WcSs7jgtA8u%2BQ%3D%3DTAG0"></script>
 <script type="text/javascript" src="/style%20library/gov/js/gov.compilemenuscriptlink.js"></script>
@@ -47,6 +49,7 @@
 <script type="text/javascript">RegisterSod("profilebrowserscriptres.resx", "\u002f_layouts\u002f15\u002f1033\u002fprofilebrowserscriptres.js?rev=qwf69WaVc1mYlJLXqmZmVA\u00253D\u00253DTAG0");</script>
 <script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=lIQfSxRAJ5McjhVFQqCgCw\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.mysitecommon.js", "sp.init.js");RegisterSodDep("sp.ui.mysitecommon.js", "sp.runtime.js");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
 <script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=1\u00252BTSf30wTP1\u00252Bw7\u00252FDVJpT1g\u00253D\u00253DTAG0");RegisterSodDep("browserScript", "strings.js");</script>
+<script type="text/javascript">RegisterSod("datepicker.js", "\u002f_layouts\u002f15\u002fdatepicker.js?rev=p\u00252FiLJy466bDWu4M2cTax7Q\u00253D\u00253DTAG0");RegisterSodDep("datepicker.js", "strings.js");</script>
 <script type="text/javascript">RegisterSod("dragdrop.js", "\u002f_layouts\u002f15\u002fdragdrop.js?rev=RmS2ewKOTLcfQ0\u00252FyyXvaGQ\u00253D\u00253DTAG0");RegisterSodDep("dragdrop.js", "strings.js");</script>
 <script type="text/javascript">RegisterSod("quicklaunch.js", "\u002f_layouts\u002f15\u002fquicklaunch.js?rev=31CaWLuu0CzWRj3ZXdyG7A\u00253D\u00253DTAG0");RegisterSodDep("quicklaunch.js", "strings.js");RegisterSodDep("quicklaunch.js", "dragdrop.js");</script>
 <link type="text/xml" rel="alternate" href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/_vti_bin/spsdisco.aspx" />
@@ -102,14 +105,30 @@
 		div.tooltip {
 			display: none;
 		}
-		.add-image-picker {
+        .add-image-picker {
             display: none;
         }
 	</style>
     <script type="text/javascript" src="/Style Library/GOV/js/Gov.ImageGallery.js?v=0.09 "></script>
-	
+    <script type="text/javascript">
+        (function (window, $) {
 
-            <link rel="canonical" href="https://www.gov.mt:443/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/default.aspx" />
+            $(document).ready(function () {
+
+                $(document).on("change", "#ctl00_PlaceHolderMain_ctl03_HasSideBarBorder_ctl00_BooleanField", function (e) {
+                    $(".genericPageRight").toggleClass("sidebar");
+                });
+
+                if ($("#Gov_HasSideBarBorder").text().trim().toLowerCase() === "yes") {
+                    $(".genericPageRight").addClass("sidebar");
+                }
+
+            });
+        })(window, jQuery);
+    </script>
+    
+
+            <link rel="canonical" href="https://www.gov.mt:443/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Akkomodazzjoni.aspx" />
             
         
 
@@ -136,7 +155,7 @@
 
         <noscript><div class='noindex'>You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page.</div></noscript>
         
-        <form method="post" action="./default.aspx" id="aspnetForm">
+        <form method="post" action="./Akkomodazzjoni.aspx" id="aspnetForm">
 <input type="hidden" name="_wpcmWpid" id="_wpcmWpid" value="" />
 <input type="hidden" name="wpcmVal" id="wpcmVal" value="" />
 <input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
@@ -157,7 +176,7 @@
 <input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
 <input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
 <input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWBAIBD2QWBAIGD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTYuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAkUPZBYCAgMPZBYCZg9kFgJmDzwrAAYAZAIND2QWDAIBD2QWAgIBD2QWAgUmZ19lMzVlYTRiM19hNGFkXzQ2MTBfYmMwY18wODgwYWYyYjlmMDAPZBYEZg8WAh4HVmlzaWJsZWhkAgEPFgIfAWhkAhMPZBYCAgIPZBYCAgEPZBYCAgMPFgIfAWgWAmYPZBYEAgMPZBYGAgEPFgIfAWhkAgMPFgIfAWhkAgUPFgIfAWhkAgQPDxYCHglBY2Nlc3NLZXkFAS9kZAIVD2QWAgIBDw8WBB4LTmF2aWdhdGVVcmwFOi9lbi9Hb3Zlcm5tZW50L0dvdmVybm1lbnQgb2YgTWFsdGEvTWluaXN0cmllcyBhbmQgRW50aXRpZXMeB1Rvb2xUaXAFF01pbmlzdHJpZXMgYW5kIEVudGl0aWVzZGQCHQ9kFgICAQ9kFgICAQ88KwAFAQAPFgIeFVBhcmVudExldmVsc0Rpc3BsYXllZGZkZAIhD2QWAgIBD2QWAgINDw8WAh8BaGQWAgIDD2QWAmYPZBYCAgMPZBYCAgUPZBYCAgEPPCsACQEADxYEHg1QYXRoU2VwYXJhdG9yBAgeDU5ldmVyRXhwYW5kZWRnZGQCJQ9kFgICAg9kFgYCAQ8WAh8ACysEAWQCAw8WAh8ACysEAWQCBw8WAh8ACysEAWQYAQUsY3RsMDAkUGxhY2VIb2xkZXJUb3BOYXZCYXIkVG9wTmF2aWdhdGlvbk1lbnUPD2QFD01haW5cR292ZXJubWVudGQkTpvll5cr0F1Jz6DU6KCZFV+N2SDbbQBz26PI1qwBow==" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWBAIBD2QWBAIGD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTYuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAkUPZBYCAgMPZBYCZg9kFgJmDzwrAAYAZAIND2QWDAIBD2QWAgIBD2QWAgUmZ18xYzg1MGI4OV8xN2Y2XzQ0MjFfYWJjOF9kZTViMzZhNjJjMDEPZBYCAgEPDxYEHgtQYXJhbVZhbHVlczLZAwABAAAA/////wEAAAAAAAAADAIAAABYTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTYuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwUBAAAAPU1pY3Jvc29mdC5TaGFyZVBvaW50LldlYlBhcnRQYWdlcy5QYXJhbWV0ZXJOYW1lVmFsdWVIYXNodGFibGUBAAAABV9jb2xsAxxTeXN0ZW0uQ29sbGVjdGlvbnMuSGFzaHRhYmxlAgAAAAkDAAAABAMAAAAcU3lzdGVtLkNvbGxlY3Rpb25zLkhhc2h0YWJsZQcAAAAKTG9hZEZhY3RvcgdWZXJzaW9uCENvbXBhcmVyEEhhc2hDb2RlUHJvdmlkZXIISGFzaFNpemUES2V5cwZWYWx1ZXMAAAMDAAUFCwgcU3lzdGVtLkNvbGxlY3Rpb25zLklDb21wYXJlciRTeXN0ZW0uQ29sbGVjdGlvbnMuSUhhc2hDb2RlUHJvdmlkZXII7FE4PwEAAAAKCgMAAAAJBAAAAAkFAAAAEAQAAAABAAAABgYAAAAKRmlsdGVyTGluaxAFAAAAAQAAAAYHAAAAAT8LHhBGaWx0ZXJPcGVyYXRpb25zMo0FAAEAAAD/////AQAAAAAAAAAEAQAAAJMCU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuRGljdGlvbmFyeWAyW1tTeXN0ZW0uU3RyaW5nLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldLFtNaWNyb3NvZnQuU2hhcmVQb2ludC5XZWJQYXJ0UGFnZXMuRmlsdGVyT3BlcmF0aW9uLCBNaWNyb3NvZnQuU2hhcmVQb2ludCwgVmVyc2lvbj0xNi4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj03MWU5YmNlMTExZTk0MjljXV0DAAAAB1ZlcnNpb24IQ29tcGFyZXIISGFzaFNpemUAAwAIkgFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5HZW5lcmljRXF1YWxpdHlDb21wYXJlcmAxW1tTeXN0ZW0uU3RyaW5nLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldXQgAAAAACQIAAAAAAAAABAIAAACSAVN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkdlbmVyaWNFcXVhbGl0eUNvbXBhcmVyYDFbW1N5c3RlbS5TdHJpbmcsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV1dAAAAAAtkZAITD2QWAgICD2QWAgIBD2QWAgIDDxYCHgdWaXNpYmxlaBYCZg9kFgQCAw9kFgYCAQ8WAh8DaGQCAw8WAh8DaGQCBQ8WAh8DaGQCBA8PFgIeCUFjY2Vzc0tleQUBL2RkAhUPZBYCAgEPDxYEHgtOYXZpZ2F0ZVVybAU6L2VuL0dvdmVybm1lbnQvR292ZXJubWVudCBvZiBNYWx0YS9NaW5pc3RyaWVzIGFuZCBFbnRpdGllcx4HVG9vbFRpcAUXTWluaXN0cmllcyBhbmQgRW50aXRpZXNkZAIdD2QWAgIBD2QWAgIBDzwrAAUBAA8WAh4VUGFyZW50TGV2ZWxzRGlzcGxheWVkZmRkAiEPZBYCAgEPZBYCAg0PDxYCHwNoZBYCAgMPZBYCZg9kFgICAw9kFgICBQ9kFgICAQ88KwAJAQAPFgQeDVBhdGhTZXBhcmF0b3IECB4NTmV2ZXJFeHBhbmRlZGdkZAIlD2QWAgICD2QWCgIBDxYCHwALKwQBZAIDDxYCHwALKwQBZAIHDxYCHwALKwQBZAILDxYCHwALKwQBZAIRDxYCHwALKwQBFgJmDw9kZGQYAQUsY3RsMDAkUGxhY2VIb2xkZXJUb3BOYXZCYXIkVG9wTmF2aWdhdGlvbk1lbnUPD2QFD01haW5cR292ZXJubWVudGRLg3KNakXxw+k31MtPKUpn9BOkKg0pxje6sTAbkbc7Qw==" />
 
 
 <script type="text/javascript">
@@ -166,17 +185,24 @@ var MSOWebPartPageFormName = 'aspnetForm';
 var g_presenceEnabled = true;
 var g_wsaEnabled = false;
 
-var g_correlationId = '703006a0-5bbc-a0a7-4c12-336040589c25';
+var g_correlationId = '743006a0-cb8f-a0a7-4c12-3f9c90ad3e90';
 var g_wsaQoSEnabled = false;
 var g_wsaQoSDataPoints = [];
 var g_wsaRUMEnabled = false;
 var g_wsaLCID = 1033;
 var g_wsaListTemplateId = 850;
 var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
-var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fdefault.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2021-11-24T07:30:17.2041110Z") - new Date(), updateFormDigestPageLoaded: new Date("2021-11-24T07:30:17.2041110Z"), siteClientTag: "687$$16.0.5173.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:21, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/en\/Government\/Government of Malta\/Ministries and Entities"};
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries Nov 2020\u002fAkkomodazzjoni.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2021-11-24T07:30:32.8758208Z") - new Date(), updateFormDigestPageLoaded: new Date("2021-11-24T07:30:32.8758208Z"), siteClientTag: "687$$16.0.5173.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:54, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};
+                            function DoCallBack(filterText)
+                            {WebForm_DoCallback('ctl00$ctl72$g_1c850b89_17f6_4421_abc8_de5b36a62c01$ctl01',filterText,UpdateFilterCallback,0,CallBackError,true)
+                            }
+                            function CallBackError(result, clientsideString)
+                            {                
+                            }
+                        document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/en\/Government\/Government of Malta\/Ministries and Entities"};
 function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type) {
 
-    CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fdefault.aspx");
+    CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries Nov 2020\u002fAkkomodazzjoni.aspx");
 
 }
 Flighting.ExpFeatures = [480215056,1880287568,1561350208,302071836,3212816,69472768,4194310,-2113396707,268502022,-872284160,1049232,-2147421952,65536,65536,2097472,917504,-2147474174,1372324107,67108882,0,0,-2147483648,2097152,0,0,32768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32768]; (function()
@@ -455,7 +481,7 @@ $.noConflict();(function(){
 
   <span id="DeltaPlaceHolderPageTitleInTitleArea">
 	
-	  <span><span><a title="default" href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/default.aspx">default</a></span></span>
+	  <span><span><a title="Akkomodazzjoni" href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Akkomodazzjoni.aspx">Akkomodazzjoni</a></span></span>
 	
   </span>
   <div id="DeltaPlaceHolderPageDescription" class="ms-displayInlineBlock ms-normalWrap">
@@ -528,203 +554,59 @@ $.noConflict();(function(){
                                 <a id="mainContent" name="mainContent" tabindex="-1"></a>
                                 
     <div style="display:none;">
-		<span id="Gov_PageBannerImage"></span>
+        <span id="Gov_PageBannerImage"></span>
+        <span id="Gov_HasSideBarBorder">No</span>
     </div>
-	<div id="content">
-		<div class="row">
-			<div class="large-12 columns">
-				<div class="breadcrumbs-wrapper">
-					<ul class="breadcrumbs float-right">
-					</ul>
-				</div>
-			</div>
-            <div class="content-padding mt50 mb50">
-                <div class="large-12 columns">
-		            <div class="header margin-bottom-20">
-		                <div class="max-width-490">
-		                    <h2 class="theme-color-2">&#160;</h2>
-		                </div>
-		            </div>
-		        </div>
-                <div class="ms-webpart-zone ms-fullWidth">
-		<div id="MSOZoneCell_WebPartWPQ3" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
-			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
-				<div WebPartID="e35ea4b3-a4ad-4610-bc0c-0880af2b9f00" HasPers="false" id="WebPartWPQ3" width="100%" class="ms-WPBody " allowDelete="false" style="" ><div class="ms-rtestate-field"><div class="mt50 mb50 main-content-inner-wrapper">
-   <div class="row">
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%202020/opm.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​opm</span></span><span class="theme-color-5">OFFICE OF THE PRIME MINISTER​</span></a><!-- <ul>
-            <li> 
-               <a href="#">THE CABINET OFFICE</a></li>
-            <li> 
-               <a href="#">INTERNAL AUDIT INVESTIGATIONS</a></li>
-            <li> 
-               <a href="#">PUBLIC ADMINISTRATION</a></li>
-            <li> 
-               <a href="#">CENTRE FOR DEVELOPMENT, RESEARCH AND TRAINING</a></li>
-            <li> 
-               <a href="#">STRATEGIC POLICY COORDINATION</a></li>
-            <li> 
-               <a href="#">MANAGEMENT EFFICIENCY UNIT</a></li>
-            <li> 
-               <a href="#">INFORMATION</a></li>
-            <li> 
-               <a href="#">COORDINATION OF PLANNING, POLICY AND PRIORITIES </a></li>
-            <li> 
-               <a href="#">MALTA ENVIRONMENT AND PLANNING AUTHORITY</a></li>
-            <li> 
-               <a href="#">GOVERNMENT PRINTING PRESS</a></li>
-            <li> 
-               <a href="#">LANDS</a></li>
-            <li> 
-               <a href="#">JOINT OFFICE</a></li>
-            </ul> --> </div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%202020/health.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​mfh</span> </span><span class="theme-color-5">MINISTRY FOR HEALTH</span></a>
-         <ul>
-         </ul>&#160;</div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%202020/foreign.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​mfea</span></span><span class="theme-color-5">MINISTRY FOR FOREIGN AND EUROPEAN AFFAIRS</span></a>
-         <ul>
-         </ul>&#160;</div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/anzjanita.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MSCA</span></span><span class="theme-color-5">MINISTRY FOR SENIOR CITIZENS AND ACTIVE AGEING</span></a>
-         <ul>
-         </ul>&#160;</div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/strategy-covid-19.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MFER</span> </span><span class="theme-color-5">MINISTRY FOR EQUALITY,&#160;​RES​EARCH&#160;AND&#160;​INNOVATION&#160;<br/></span></a>
-         <ul>
-         </ul>​&#160;</div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Wirt-Nazzjonali.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MHAL</span></span><span class="theme-color-5">MINISTRY FOR THE NATIONAL HERITAGE, THE ARTS AND LOCAL GOVERNMENT</span></a>
-         <ul>
-         </ul>&#160;</div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%202020/mopm.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MSD</span></span><span class="theme-color-5">MINISTER WITHIN THE OFFICE OF THE PRIME MINISTER</span></a>
-         <ul>
-         </ul>&#160;</div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Trasport.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MTIP</span> </span><span class="theme-color-5">MINISTRY FOR TRANSPORT, INFRASTRUCTURE AND CAPITAL PROJECTS</span></a>
-         <ul>
-         </ul>&#160;</div> 
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Solidarjeta.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MSFC</span> </span><span class="theme-color-5">MINISTRY FOR SOCIAL JUSTICE AND SOLIDARITY, THE FAMILY AND CHILDREN&#39;S RIGHTS</span></a>
-         <ul>
-         </ul>&#160;</div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Gustizzja.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MFJG</span> </span><span class="theme-color-5">MINISTRY FOR JUSTICE​&#160;​AND GOVERNANCE</span></a>
-         <ul>
-         </ul>&#160;<br/></div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Agrikoltura.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MAFA</span> </span><span class="theme-color-5">MINISTRY FOR AGRICULTURE, FISHERIES, FOOD AND ANIMAL RIGHTS</span></a>
-         <ul>
-         </ul>&#160;<br/></div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Akkomodazzjoni.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​msa</span> </span><span class="theme-color-5">MINISTRY FOR SOCIAL ACCOMM​ODATION</span></a>
-         <ul>
-         </ul>&#160;</div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Edukazzjoni.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MFED</span></span><span class="theme-color-5">MINISTRY FOR EDUCATION</span></a>
-         <ul>
-         </ul>&#160;<br/></div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/ekonomija.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MEI</span> </span><span class="theme-color-5">MINISTRY FOR THE ECONOMY AND INDUSTRY</span></a>
-         <ul> ​​​​​​</ul> 
-         <br/> 
-      </div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Inkluzjoni.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MISW</span> </span><span class="theme-color-5">MINISTRY FOR INCLUSION AND SOCIAL WELLBEING</span></a>
-         <ul>
-         </ul>&#160;<br/></div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Ambjent.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MECP</span> </span><span class="theme-color-5">MINISTRY FOR THE ENVIRONMENT, CLIMATE CHANGE AND PLANNING</span></a>
-         <ul>
-         </ul>&#160;</div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Gozo.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MGOZ</span></span><span class="theme-color-5">MINISTRY FOR GOZO</span></a>
-         <ul>
-         </ul>&#160;​​<br/></div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Intern.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MHSE</span></span><span class="theme-color-5">MINISTRY FOR HOME AFFAIRS, NATIONAL SECURITY AND LAW ENFORCEMENT</span></a>
-         <ul>
-         </ul>&#160;​​<br/></div> 
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Turizmu.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MTCP</span></span><span class="theme-color-5">MINISTRY FOR TOURISM AND CONSUMER PROTECTION</span></a>
-         <ul>
-         </ul>&#160;​​<br/></div> 
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Energija.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MESD</span></span><span class="theme-color-5">MINISTRY FOR ENERGY, ENTERPRISE AND SUSTAINABLE DEVELOPMENT</span></a>
-         <ul>
-         </ul>&#160;​​<br/></div> 
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/finanzi.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MFE</span></span><span class="theme-color-5">MINISTRY FOR FINANCE AND EMPLOYMENT</span></a>
-         <ul>
-         </ul>&#160;​​<br/></div> 
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Officially%20Appointed%20Bodies/Pages/1-Officially-Appointed-Bodies.aspx"> 
-            <span class="the-circle-letters">​</span><span class="theme-color-5">OFFICIALLY APPOINTED BODIES</span></a>
-         <ul>​​​​<br/><br/><br/><br/><br/><br/><br/><br/><br/></ul>​​​<br/><br/><br/><br/><br/><br/><br/>​<br/>​​<br/>​<br/>​<br/>​<br/>​<br/>​<br/>​​<br/>​<br/>​<br/>​<br/></div>
-   </div> 
-</div></div><div class="ms-clear"></div></div>
-			</div>
-		</div>
-	</div>
-                <div id="ctl00_PlaceHolderMain_ctl02_label" style='display:none'>Main Content</div><div id="ctl00_PlaceHolderMain_ctl02__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl02_label">
-
-​
-<span style="font-family&#58;&quot;segoe ui&quot;;font-size&#58;14px;">​​​​
-​​​​​</span><div><span style="font-family&#58;&quot;segoe ui&quot;;font-size&#58;14px;">​​​<br></span></div></div>
+    <div id="content">
+        <div class="row">
+            <div class="large-12 columns">
+                <div class="breadcrumbs-wrapper">
+                    <ul class="breadcrumbs float-right"></ul>
+                </div>
+            </div>
+            <div class="full-width-zone mt50">
                 <menu class="ms-hide">
 		<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
 
 		</ie:menuitem>
 	</menu>
             </div>
+            <div class="left-column genericPageLeft large-8 medium-8 columns mt50 mb50">
+                <div class="header margin-bottom-20">
+                    <div class="max-width-490">
+                        <h2 class="theme-color-2">Portfolio</h2>
+                    </div>
+                </div>
+                
+                <div id="ctl00_PlaceHolderMain_ctl03_label" style='display:none'>Main Content</div><div id="ctl00_PlaceHolderMain_ctl03__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl03_label"><p><strong>​​​​​​​​​​​​​​​​​​​MINISTRY FOR SOCIAL ACCOMMODATION​</strong><br><strong>Minister&#58; ​Mr Roderick Galdes BPlan, MA(ISSS), MACP, MP​<br></strong><span style="font-size&#58;1rem;"><br>​Social Housing<br></span><span style="font-size&#58;1rem;">Affordable Housing<br></span><span style="font-size&#58;1rem;">Rent<br></span><span style="font-size&#58;1rem;">​Housing Projects Management and Embellishment</span><span style="font-size&#58;1rem;">​​</span></p></div>
+                <div class="ms-webpart-zone ms-fullWidth">
+		<div id="MSOZoneCell_WebPartWPQ3" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div class="ms-webpart-chrome-title" id="WebPartWPQ3_ChromeTitle">
+					<span title="Officially Appointed Bodies - The &quot;OAB Rollup&quot; Web Part is based on the SharePoint OOTB &quot;Content Search&quot; Web Part. It comes pre-packaged with a KQL query specifically designed for Officially Appointed Body pages. Add this Web Part to any page and configure as necessary to retrieve Officially Appointed Body pages filtered by Ministry, Body Type or both." id="WebPartTitleWPQ3" class="js-webpart-titleCell"><h2 style="text-align:justify;" class="ms-webpart-titleText">&nbsp;<span>Officially Appointed Bodies</span><span id="WebPartCaptionWPQ3"></span></h2></span>
+				</div><div WebPartID="1c850b89-17f6-4421-abc8-de5b36a62c01" HasPers="false" id="WebPartWPQ3" width="100%" class="ms-WPBody ms-wpContentDivSpace " allowDelete="false" style="" ><div class="ms-webpart-chrome ms-webpart-chrome-fullWidth ">
+					<div class="ms-webpart-chrome-title" id="WebPartWPQ4_ChromeTitle">
+						<span title="" id="WebPartTitleWPQ4" class="js-webpart-titleCell"><h2 style="text-align:justify;" class="ms-webpart-titleText">&nbsp;<span></span><span id="WebPartCaptionWPQ4"></span></h2></span>
+					</div><div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ4" width="100%" class="ms-WPBody ms-WPBorder ms-wpContentDivSpace " OnlyForMePart="true" allowDelete="false" style="" ><noscript><div id="ctl00_ctl72_g_1c850b89_17f6_4421_abc8_de5b36a62c01_ctl00_noscript">It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.</div></noscript><div id="ctl00_ctl72_g_1c850b89_17f6_4421_abc8_de5b36a62c01_ctl00">
+
+					</div><div class="ms-clear"></div></div>
+				</div><div class="ms-webpart-chrome ms-webpart-chrome-fullWidth ">
+					<div class="ms-webpart-chrome-title" id="WebPartWPQ5_ChromeTitle">
+						<span title="" id="WebPartTitleWPQ5" class="js-webpart-titleCell"><h2 style="text-align:justify;" class="ms-webpart-titleText">&nbsp;<span></span><span id="WebPartCaptionWPQ5"></span></h2></span>
+					</div><div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ5" width="100%" class="ms-WPBody ms-WPBorder ms-wpContentDivSpace " OnlyForMePart="true" allowDelete="false" style="" ><?xml version="1.0" encoding="utf-8"?><p><table><tr><td><a href="https://www.gov.mt/en/Government/Government of Malta/Ministries and Entities/Officially Appointed Bodies/Pages/Authorities/Housing-Authority.aspx">Housing Authority Board</a></td><td>https://www.gov.mt/en/Government/Government of Malta/Ministries and Entities/Officially Appointed Bodies/Pages/Authorities/Housing-Authority.aspx</td><td>Housing Authority Board</td><td></td><td></td></tr><tr><td><a href="https://www.gov.mt/en/Government/Government of Malta/Ministries and Entities/Officially Appointed Bodies/Pages/Companies/Housing-Maintenance-.aspx">Housing Maintenance and Embellishment Unit Board</a></td><td>https://www.gov.mt/en/Government/Government of Malta/Ministries and Entities/Officially Appointed Bodies/Pages/Companies/Housing-Maintenance-.aspx</td><td>Housing Maintenance and Embellishment Unit Board</td><td></td><td></td></tr><tr><td><a href="https://www.gov.mt/en/Government/Government of Malta/Ministries and Entities/Officially Appointed Bodies/Pages/Panels/Private-Residential-Leases---Adjudicating-Panel.aspx">Private Residential Leases - Adjudicating Panel</a></td><td>https://www.gov.mt/en/Government/Government of Malta/Ministries and Entities/Officially Appointed Bodies/Pages/Panels/Private-Residential-Leases---Adjudicating-Panel.aspx</td><td>Private Residential Leases - Adjudicating Panel</td><td></td><td></td></tr><tr><td><a href="https://www.gov.mt/en/Government/Government of Malta/Ministries and Entities/Officially Appointed Bodies/Pages/Companies/Social-Project-Management-.aspx">Social Projects Management Ltd</a></td><td>https://www.gov.mt/en/Government/Government of Malta/Ministries and Entities/Officially Appointed Bodies/Pages/Companies/Social-Project-Management-.aspx</td><td>Social Projects Management Ltd</td><td></td><td></td></tr></table></p><div class="ms-clear"></div></div>
+				</div><div class="ms-clear"></div></div>
+			</div>
 		</div>
-        
 	</div>
-	
+            </div>
+            <div class="right-column large-4 medium-4 columns sidebar genericPageRight mt50 mb50">
+                
+				<div id="ctl00_PlaceHolderMain_SummaryLinkFieldControl1__ControlWrapper_SummaryLinkFieldControl" style="display:inline"><div id="slwp_ctl00_PlaceHolderMain_SummaryLinkFieldControl1_SummaryLinkFieldControl1" class="slm-layout-main slwpmarker" xmlns:pcm="urn:PageContentManager"><div class="dfwp-column" style="width:100%" ><div class="slm-layout-main groupmarker"><ul class="dfwp-list"><li><div class="item"><div class="link-item"><a href="https://socialaccommodation.gov.mt/PSSA/Pages/Contact-Us.aspx" title="" onclick="javascript:this.target=&quot;_blank&quot;">Contact Details</a><div class="description"></div></div></div></li ><li><div class="item"><div class="link-item"><a href="http://www.socialaccommodation.gov.mt" title="" onclick="javascript:this.target=&quot;_blank&quot;">socialaccommodation.gov.mt</a><div class="description"></div></div></div></li ></ul><div class="footermarker"><!--empty--></div></div></div></div></div>
+            </div>
+        </div>
+        
+    </div>
+    
 <div style='display:none' id='hidZone'></div>
                             
 </div>
@@ -737,7 +619,7 @@ $.noConflict();(function(){
         if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
             (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
         {
-            formDigestElement.value = '0x240E95B42E675E671875BCBA94F647D3B61423FE0145013CFAD7400BFB5430C13EEBE976E905FA8B84DA81714C6368CF11F891EDB15CC4694C9964CE51381F39,24 Nov 2021 07:30:17 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+            formDigestElement.value = '0x21B684CF1572C52BDF029AE9D3FD760C1DF0D159547CADD70B7FB5A5DEC626B9CF0500C4AEA7B0F9D490B3C89342FCF376EADD91FEBEF69547376A6E73D313F3,24 Nov 2021 07:30:33 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
         }
         //]]>
         </script>
@@ -780,7 +662,13 @@ $.noConflict();(function(){
 
 <script type="text/javascript">
 //<![CDATA[
-var _spFormDigestRefreshInterval = 1440000;function loadMDN2() { EnsureScript('MDN.js', typeof(loadFilterFn), null); }
+var _spFormDigestRefreshInterval = 1440000;var sdpWPQ4=$get('WebPartWPQ4');
+                            if (sdpWPQ4 != null) { // webpart body div
+                                sdpWPQ4 = sdpWPQ4.parentNode;
+                                if (sdpWPQ4 != null) { // webpart div
+                                    sdpWPQ4.className='display-none';
+                                }
+                            }function loadMDN2() { EnsureScript('MDN.js', typeof(loadFilterFn), null); }
 function loadMDN1() { ExecuteOrDelayUntilScriptLoaded(loadMDN2, 'sp.ribbon.js'); }
 _spBodyOnLoadFunctionNames.push('loadMDN1');
 function _spNavigateHierarchyEx(nodeDiv, dataSourceId, dataPath, url, listInContext, type, additionalQString) {
@@ -793,7 +681,7 @@ _spNavigateHierarchy = _spNavigateHierarchyEx;
  IsSPSocialSwitchEnabled = function() { return true; };var _fV4UI = true;
 function _RegisterWebPartPageCUI()
 {
-    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",itemId: 21,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: false,forceCheckout: true,rootFolderUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages",itemPermissions:{High:16,Low:196673}};
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",itemId: 54,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: false,forceCheckout: true,rootFolderUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages",itemPermissions:{High:16,Low:196673}};
     SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
     var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
     var hid;
@@ -845,7 +733,7 @@ g_QuickLaunchControlIds.push("zz1_TopNavigationMenu");_spBodyOnLoadFunctionNames
                         {
                             if ($isNull($find('ctl00_PlaceHolderSearchArea_SmallSearchInputBoxMobile_csr')))
                             {
-                                var sb = $create(Srch.SearchBox, {"delayLoadTemplateScripts":true,"initialPrompt":"Search...","messages":[],"queryGroupNames":["Default"],"renderTemplateId":"~sitecollection/_catalogs/masterpage/Display Templates/Search/Control_SearchBox.js","resultsPageAddress":"/en/Search/Pages/default.aspx","serverInitialRender":true,"showDataErrors":true,"states":{},"tryInplaceQuery":false}, null, null, $get("ctl00_PlaceHolderSearchArea_SmallSearchInputBoxMobile_csr"));
+                                var sb = $create(Srch.SearchBox, {"delayLoadTemplateScripts":true,"initialPrompt":"Search...","messages":[],"queryGroupNames":["Default"],"renderTemplateId":"~sitecollection/_catalogs/masterpage/Display Templates/Search/Control_SearchBox.js","resultsPageAddress":"/en/Search/Pages/default.aspx","serverInitialRender":true,"states":{},"tryInplaceQuery":false}, null, null, $get("ctl00_PlaceHolderSearchArea_SmallSearchInputBoxMobile_csr"));
                                 sb.activate('Search...', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBoxMobile_csr_sbox', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBoxMobile_csr_sboxdiv', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBoxMobile_csr_NavButton', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBoxMobile_csr_AutoCompList', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBoxMobile_csr_NavDropdownList', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBoxMobile_csr_SearchLink', 'ms-srch-sbprogress', 'ms-srch-sb-prompt ms-helperText');
                             }
                         }, 'Search.ClientControls.js');g_QuickLaunchControlIds.push("zz3_V4QuickLaunchMenu");_spBodyOnLoadFunctionNames.push('QuickLaunchInitDroppable'); var g_zz3_V4QuickLaunchMenu = null; function init_zz3_V4QuickLaunchMenu() { if (g_zz3_V4QuickLaunchMenu == null) g_zz3_V4QuickLaunchMenu = $create(SP.UI.AspMenu, null, null, null, $get('zz3_V4QuickLaunchMenu')); } ExecuteOrDelayUntilScriptLoaded(init_zz3_V4QuickLaunchMenu, 'SP.Core.js');
