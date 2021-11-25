@@ -185,14 +185,14 @@ var MSOWebPartPageFormName = 'aspnetForm';
 var g_presenceEnabled = true;
 var g_wsaEnabled = false;
 
-var g_correlationId = '733006a0-0bb4-a0a7-6a55-a700d6dfab69';
+var g_correlationId = '6d7006a0-dbad-a0a7-4c12-3404c492510a';
 var g_wsaQoSEnabled = false;
 var g_wsaQoSDataPoints = [];
 var g_wsaRUMEnabled = false;
 var g_wsaLCID = 1033;
 var g_wsaListTemplateId = 850;
 var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
-var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries Nov 2020\u002fGustizzja.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2021-11-24T07:30:29.3595125Z") - new Date(), updateFormDigestPageLoaded: new Date("2021-11-24T07:30:29.3595125Z"), siteClientTag: "687$$16.0.5173.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:52, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries Nov 2020\u002fGustizzja.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2021-11-25T02:08:33.5484121Z") - new Date(), updateFormDigestPageLoaded: new Date("2021-11-25T02:08:33.5484121Z"), siteClientTag: "687$$16.0.5173.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:52, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};
                             function DoCallBack(filterText)
                             {WebForm_DoCallback('ctl00$ctl72$g_28908e2a_3ed8_4c78_b597_c1087acca9eb$ctl01',filterText,UpdateFilterCallback,0,CallBackError,true)
                             }
@@ -578,7 +578,7 @@ $.noConflict();(function(){
                     </div>
                 </div>
                 
-                <div id="ctl00_PlaceHolderMain_ctl03_label" style='display:none'>Main Content</div><div id="ctl00_PlaceHolderMain_ctl03__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl03_label"><p><strong>​​​​​​​​​​​​​​​​​​​MINISTRY FOR JUSTICE&#160;​AND GOVERNANCE</strong><br><strong>Minister&#58; Dr Edward Zammit Lewis BA, LLD, MP​​</strong><br></p><p>​​<br></p><p><span style="font-size&#58;1rem;">Courts of Justice<br></span><span style="font-size&#58;1rem;">A</span><span style="font-size&#58;1rem;">ttorney General's Office<br></span><span style="font-size&#58;1rem;">State Advocate's Office<br></span><span style="font-size&#58;1rem;">Notary to Government<br></span><span style="font-size&#58;1rem;">Data Protection<br></span><span style="font-size&#58;1rem;">Freedom of Information</span><span style="font-size&#58;1rem;">&#160;​</span><span style="font-size&#58;1rem;">​​</span></p></div>
+                <div id="ctl00_PlaceHolderMain_ctl03_label" style='display:none'>Main Content</div><div id="ctl00_PlaceHolderMain_ctl03__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl03_label"><p><strong>​​​​​​​​​​​​​​​​​​​​MINISTRY FOR JUSTICE&#160;​AND GOVERNANCE</strong><br><strong>Minister&#58; Dr Edward Zammit Lewis BA, LLD, MP​​</strong><br></p><p>​​<br></p><p><span style="font-size&#58;1rem;">Courts of Justice<br></span><span style="font-size&#58;1rem;">A</span><span style="font-size&#58;1rem;">ttorney General's Office<br></span><span style="font-size&#58;1rem;">State Advocate's Office<br></span><span style="font-size&#58;1rem;">Notary to Government<br></span><span style="font-size&#58;1rem;">Data Protection<br></span><span style="font-size&#58;1rem;">Freedom of Information</span><span style="font-size&#58;1rem;">&#160;​</span><span style="font-size&#58;1rem;">​​</span></p></div>
                 <div class="ms-webpart-zone ms-fullWidth">
 		<div id="MSOZoneCell_WebPartWPQ4" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
 			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
@@ -635,7 +635,7 @@ $.noConflict();(function(){
         if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
             (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
         {
-            formDigestElement.value = '0x34FA0B05FCD94030427EEC30A3EEB248E5694E55A8A3345B84297DF76B38854517524A595F4A121BFAF191989CAD6CD34CC5C79AEFBAED87BED4551F4164576B,24 Nov 2021 07:30:29 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+            formDigestElement.value = '0x27650AAED5AAF03EA37ACD0676D307CD1C9A49FC2EF82CC442C447CCBDB213EE12B428E9D4C19D8EFD8719A16005DFDFCB4F3F5BA2592C04F023CCDDE1B70C1F,25 Nov 2021 02:08:33 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
         }
         //]]>
         </script>
