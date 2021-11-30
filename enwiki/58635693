@@ -88,59 +88,6 @@
           "inline": {}
         }
       ]
-    },
-    {
-      "title": "Political career",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "She was first elected to Parliament in 2003 and successively in 2008, 2013 and 2017, always from her native Gozo constituency."
-            },
-            {
-              "text": "She served as the Parliamentary Secretary for Rights of Persons with Disability and Active Ageing from 2014 to 2017."
-            },
-            {
-              "text": "In Opposition she was Spokesperson for Youth, Culture, Sports, Family, Children and Persons with Disability."
-            },
-            {
-              "text": "Caruana was regional representative of the UK, British Isles and Mediterranean Region on the Steering Committee of the Commonwealth Women Parliamentarians and currently represents Malta on its Regional British Isles and Mediterranean Steering Committee."
-            },
-            {
-              "text": "In 2016, Caruana was nominated as Malta's ambassador in the Women in Parliaments Global Forum."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "She is a member of Social Affairs Committee."
-            },
-            {
-              "text": "A Lawyer by profession, Caruana she specialized in family law and canonical and civil litigation."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "list": [
-            "2"
-          ],
-          "template": "reflist"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "malta-politician-stub"
-        }
-      ]
     }
   ]
 }
