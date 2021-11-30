@@ -400,6 +400,29 @@
         {
           "sentences": [
             {
+              "text": "He also successfully oversaw Valletta’s tenure as the European capital for culture in 2018."
+            },
+            {
+              "text": "This experience effectively gave a new lease of life to the capital city."
+            },
+            {
+              "text": "A final research report on the"
+            },
+            {
+              "text": "impacts of the capital of culture said as follows:"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "''Indeed, in the last five to ten years, Valletta enjoyed what may be called a great revival with various restoration projects that brought back life to the architecture of auberges, churches, palazzos, fortifications, and even streets … This urban regeneration of Valletta has also resulted in the sprawl of commercial activity.''"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
               "text": "In 2015, Bonnici replaced the local enforcement system that was known to be maligned and replaced it with a new agency that would eventually become a regulatory authority."
             }
           ]
@@ -613,6 +636,12 @@
           "access-date": "2021-06-02",
           "website": "Times of Malta",
           "language": "en-gb",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Valletta Final Report",
+          "url": "https://valletta2018.org/wp-content/uploads/2019/03/Final-Report-2018.pdf)",
           "template": "citation",
           "type": "web"
         },
