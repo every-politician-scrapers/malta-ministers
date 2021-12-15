@@ -58,14 +58,7 @@
               "text": "After the 11 months, she was re-appointed to Cabinet on 23 November 2020 as the new Minister for Education by Robert Abela."
             },
             {
-              "text": "",
-              "links": [
-                {
-                  "text": "",
-                  "type": "external",
-                  "site": "https://gozo.news/86985/new-cabinet-announced-justyne-caruana-appointed-education-minister/"
-                }
-              ]
+              "text": "."
             }
           ]
         }
@@ -81,6 +74,12 @@
         }
       ],
       "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
         {
           "template": "citation",
           "type": "inline",
