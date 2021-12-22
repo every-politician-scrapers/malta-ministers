@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Owen Bonnici (born 24 May 1980) is a Maltese politician who was the Minister for Education & Employment from 15 January 2020 to November 2020 and currently serving in the new created portfolio Ministry for Research, Innovation and the Coordination of the Post-COVID-19 Strategy appointed in November 2020.",
+              "text": "Owen Bonnici (born 24 May 1980) is a Maltese politician who is currently serving as the Minister for Equality, Research and Innovation and is also responsible for reforms and the co-ordination of the post-COVID Strategy.",
               "links": [
                 {
                   "text": "Maltese",
@@ -37,10 +37,7 @@
         {
           "sentences": [
             {
-              "text": "Following the March 2013 General Elections, he was appointed as Parliamentary Secretary for Justice."
-            },
-            {
-              "text": "After a cabinet reshuffle he was made Minister of Justice, Culture and Local Government in March 2014."
+              "text": "He previously served as Pariamentary Secretary for Justice, Minister for Justice, Culture and Local Government and Minister for Education and Employment."
             }
           ]
         }
@@ -203,36 +200,14 @@
       ],
       "references": [
         {
-          "last": "Urpani",
-          "first": "David Grech",
-          "date": "2020-11-28",
-          "title": "Becoming Miriam Dalli: How A Young Safi Woman Went From Journalist, To MEP, To Malta's New 'Eco-Warrior' Minister",
-          "url": "https://lovinmalta.com/opinion/analysis/becoming-miriam-dalli-how-a-young-st-julians-woman-went-from-journalist-to-mep-to-maltas-new-eco-warrior-minister/",
-          "access-date": "2020-11-28",
-          "website": "Lovin Malta",
-          "language": "en-US",
+          "title": "Owen Bonnici inherits equality portfolio from Rosianne Cutajar",
+          "url": "https://www.maltatoday.com.mt/news/national/110718/owen_bonnici_inherits_equality_portfolio_from_rosianne_cutajar#.YYyuktnMJR0)",
           "template": "citation",
           "type": "web"
         },
         {
-          "title": "Portfolio",
-          "url": "https://www.gov.mt/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/strategy-covid-19.aspx",
-          "access-date": "2021-05-12",
-          "website": "www.gov.mt",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.independent.com.mt/articles/2014-03-30/news/cabinet-reshuffle-10-changes-to-fill-4-vacancies-4432887813/",
-          "title": "Cabinet reshuffle: 10 changes to fill 4 vacancies - The Malta Independent",
-          "website": "www.independent.com.mt",
-          "access-date": "2017-05-24",
+          "title": "MUT meets new Minister for Education and Employment",
+          "url": "https://mut.org.mt/mut-meets-new-minister-for-education-and-employment",
           "template": "citation",
           "type": "web"
         }
