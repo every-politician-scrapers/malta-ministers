@@ -20,10 +20,15 @@
         {
           "sentences": [
             {
-              "text": "Justyne Caruana, is a Maltese lawyer and politician, and former Minister for Gozo.",
+              "text": "Justyne Caruana is a Maltese lawyer, politician, former Minister for Gozo and former Minister for Education.",
               "links": [
                 {
                   "text": "Minister for Gozo",
+                  "type": "internal",
+                  "page": "Maltese Government 2017–2022"
+                },
+                {
+                  "text": "Minister for Education",
                   "type": "internal",
                   "page": "Maltese Government 2017–2022"
                 }
@@ -35,7 +40,7 @@
               }
             },
             {
-              "text": "She was appointed on 9 June 2017 in the second cabinet of Joseph Muscat and reconfirmed by Robert Abela before resigning one week later on 20 January 2020 and was replaced with Clint Camilleri.",
+              "text": "She was appointed on 9 June 2017 in the second cabinet of Joseph Muscat and reconfirmed by new Prime Minister Robert Abela before resigning one week later on 20 January 2020 and replaced with Clint Camilleri.",
               "links": [
                 {
                   "type": "internal",
@@ -52,13 +57,10 @@
               ]
             },
             {
-              "text": "Caruana stepped downed from her position as Minister for Gozo."
+              "text": "After 11 months, she was re-appointed to Cabinet on 23 November 2020 as the new Minister for Education by Robert Abela."
             },
             {
-              "text": "After the 11 months, she was re-appointed to Cabinet on 23 November 2020 as the new Minister for Education by Robert Abela."
-            },
-            {
-              "text": ". However, resigned on 22nd December 2021 as Minister of Education."
+              "text": ". She then resigned from Minister for Education on 22nd December 2021."
             }
           ]
         }
@@ -81,10 +83,17 @@
           "inline": {}
         },
         {
+          "url": "https://gozo.news/86985/new-cabinet-announced-justyne-caruana-appointed-education-minister/",
+          "title": "New Cabinet announced, Justyne Caruana appointed Education Minister",
+          "date": "21 November 2020",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
+        },
+        {
+          "url": "https://timesofmalta.com/articles/view/justyne-caruana-resigns-as-education-minister-following-report.921295",
+          "title": "Justyne Caruana resigns as education minister following damning report",
+          "template": "citation",
+          "type": "web"
         }
       ]
     }
