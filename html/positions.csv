@@ -1,0 +1,34 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q796593,President of Malta,Q233,Q233,,,1974-12-13,,,,President of Malta
+Q152814,Prime Minister of Malta,Q233,Q233,,Q529718,1921,,,,Prime Minister of Malta
+Q5261066,Deputy Prime Minister of Malta,Q233,Q233,,,1947,,,,Deputy Prime Minister of Malta
+Q109689827,"Minister for Agriculture, Fisheries, Food and Animal Rights",Q233,Q233,,,,,,,
+Q108265621,Minister for the Economy and Industry,Q233,Q233,,,,,,,
+Q109689797,Minister for Education,Q233,Q233,,,,,,,
+Q30107297,Minister for Education and Employment,Q233,Q233,,,,,,,
+Q108266313,"Minister for Energy, Enterprise and Sustainable Development",Q233,Q233,,,,,,,
+Q108265790,"Minister for the Environment, Climate Change and Planning",Q233,Q233,,,,,,,
+Q108265751,"Minister for Equality, Research and Innovation",Q233,Q233,,,,,,,
+Q25631196,Minister of European Affairs,,Q233,,,,,,,
+Q108265821,Minister for European Affairs and Equality,Q233,Q233,,,,,,,
+Q54935312,Minister for Family and Social Solidarity,Q233,Q233,,,,,,,
+Q5449540,Finance Minister of Malta,Q233,Q233,,Q6570844,,,,,Finance Minister of Malta
+Q25713883,Minister for Foreign Affairs,Q233,Q233,,Q666323,,,,,
+Q108265813,Minister for Gozo,Q233,Q233,,,,,,,
+Q108266345,Minister for Home Affairs,Q233,Q233,,,,,,,
+Q54935371,Minister for Home Affairs and National Security,Q233,Q233,,,,,,,
+Q109689444,Minister for Inclusion and Social Wellbeing,Q233,Q233,,,,,,,
+Q108265741,Minister for Justice and Governance,Q233,Q233,,Q28408280,,,,,
+Q109689802,"Minister for the National Heritage, the Arts and Local Government",Q233,Q233,,,,,,,
+Q109689775,Minister for Senior Citizens and Active Aging,Q233,Q233,,,,,,,
+Q109689469,Minister for Social Accommodation,Q233,Q233,,,,,,,
+Q109689786,"Minister for Social Justice and Solidarity, the Family and Children's Rights",Q233,Q233,,,,,,,
+Q108265825,Minister for Tourism,Q233,Q233,,,,,,,
+Q109689478,Minister for Tourism and Consumer Protection,Q233,Q233,,,,,,,
+Q25713888,"Minister for Transport, Communications and Technology",Q233,Q233,,,,,,,
+Q109689807,"Minister for Transport, Infrastructure and Capital Projects",Q233,Q233,,,,,,,
+Q25713889,Minister for Youth and Arts,Q233,Q233,,,,,,,
+Q109689761,Minister within the Office of the Prime Minister,Q233,Q233,,,,,,,
+Q7574273,Speaker of the House of Representatives of Malta,,,,,1921-10,,,,Speaker of the House of Representatives of Malta
+Q109689944,Governor of the Central Bank of Malta,Q233,,,,,,,,
+Q60539022,Commander of the Armed Forces of Malta,,,,,,,,,Commander of the Armed Forces of Malta
