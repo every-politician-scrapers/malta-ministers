@@ -166,14 +166,14 @@ var MSOWebPartPageFormName = 'aspnetForm';
 var g_presenceEnabled = true;
 var g_wsaEnabled = false;
 
-var g_correlationId = '326211a0-fb73-a0a7-4c12-3c6bed998549';
+var g_correlationId = '95b411a0-0b9e-a0a7-4c12-359c6581871d';
 var g_wsaQoSEnabled = false;
 var g_wsaQoSDataPoints = [];
 var g_wsaRUMEnabled = false;
 var g_wsaLCID = 1033;
 var g_wsaListTemplateId = 850;
 var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
-var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fdefault.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2021-12-29T02:13:00.9101932Z") - new Date(), updateFormDigestPageLoaded: new Date("2021-12-29T02:13:00.9101932Z"), siteClientTag: "687$$16.0.5227.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:21, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/en\/Government\/Government of Malta\/Ministries and Entities"};
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fdefault.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2021-12-30T02:12:50.3196828Z") - new Date(), updateFormDigestPageLoaded: new Date("2021-12-30T02:12:50.3196828Z"), siteClientTag: "687$$16.0.5227.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:21, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/en\/Government\/Government of Malta\/Ministries and Entities"};
 function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type) {
 
     CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fdefault.aspx");
@@ -549,163 +549,128 @@ $.noConflict();(function(){
                 <div class="ms-webpart-zone ms-fullWidth">
 		<div id="MSOZoneCell_WebPartWPQ3" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
 			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
-				<div WebPartID="e35ea4b3-a4ad-4610-bc0c-0880af2b9f00" HasPers="false" id="WebPartWPQ3" width="100%" class="ms-WPBody " allowDelete="false" style="" ><div class="ms-rtestate-field"><div class="mt50 mb50 main-content-inner-wrapper">
-   <div class="row">
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%202020/opm.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​opm</span></span><span class="theme-color-5">OFFICE OF THE PRIME MINISTER​</span></a><!-- <ul>
-            <li> 
-               <a href="#">THE CABINET OFFICE</a></li>
-            <li> 
-               <a href="#">INTERNAL AUDIT INVESTIGATIONS</a></li>
-            <li> 
-               <a href="#">PUBLIC ADMINISTRATION</a></li>
-            <li> 
-               <a href="#">CENTRE FOR DEVELOPMENT, RESEARCH AND TRAINING</a></li>
-            <li> 
-               <a href="#">STRATEGIC POLICY COORDINATION</a></li>
-            <li> 
-               <a href="#">MANAGEMENT EFFICIENCY UNIT</a></li>
-            <li> 
-               <a href="#">INFORMATION</a></li>
-            <li> 
-               <a href="#">COORDINATION OF PLANNING, POLICY AND PRIORITIES </a></li>
-            <li> 
-               <a href="#">MALTA ENVIRONMENT AND PLANNING AUTHORITY</a></li>
-            <li> 
-               <a href="#">GOVERNMENT PRINTING PRESS</a></li>
-            <li> 
-               <a href="#">LANDS</a></li>
-            <li> 
-               <a href="#">JOINT OFFICE</a></li>
-            </ul> --> </div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%202020/health.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​mfh</span> </span><span class="theme-color-5">MINISTRY FOR HEALTH</span></a>
-         <ul>
-         </ul>&#160;</div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%202020/foreign.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​mfea</span></span><span class="theme-color-5">MINISTRY FOR FOREIGN AND EUROPEAN AFFAIRS</span></a>
-         <ul>
-         </ul>&#160;</div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/anzjanita.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MSCA</span></span><span class="theme-color-5">MINISTRY FOR SENIOR CITIZENS AND ACTIVE AGEING</span></a>
-         <ul>
-         </ul>&#160;</div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/strategy-covid-19.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MFER</span> </span><span class="theme-color-5">MINISTRY FOR EQUALITY,&#160;​RES​EARCH&#160;AND&#160;​INNOVATION&#160;<br/></span></a>
-         <ul>
-         </ul>​&#160;</div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Wirt-Nazzjonali.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MHAL</span></span><span class="theme-color-5">MINISTRY FOR THE NATIONAL HERITAGE, THE ARTS AND LOCAL GOVERNMENT</span></a>
-         <ul>
-         </ul>&#160;</div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%202020/mopm.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MSD</span></span><span class="theme-color-5">MINISTER WITHIN THE OFFICE OF THE PRIME MINISTER</span></a>
-         <ul>
-         </ul>&#160;</div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Trasport.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MTIP</span> </span><span class="theme-color-5">MINISTRY FOR TRANSPORT, INFRASTRUCTURE AND CAPITAL PROJECTS</span></a>
-         <ul>
+				<div WebPartID="e35ea4b3-a4ad-4610-bc0c-0880af2b9f00" HasPers="false" id="WebPartWPQ3" width="100%" class="ms-WPBody " allowDelete="false" style="" ><div class="ms-rtestate-field"><div class="mt50 mb50 main-content-inner-wrapper"> 
+   <div class="row"> 
+      <div class="ministry-block large-6 medium-12 small-12 columns"> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%202020/opm.aspx"><span class="the-circle-letters"><span>​opm</span></span><span class="theme-color-5">OFFICE OF THE PRIME MINISTER​</span></a><!-- <ul> 
+            <li>
+               <a href="#">THE CABINET OFFICE</a></li> 
+            <li>
+               <a href="#">INTERNAL AUDIT INVESTIGATIONS</a></li> 
+            <li>
+               <a href="#">PUBLIC ADMINISTRATION</a></li> 
+            <li>
+               <a href="#">CENTRE FOR DEVELOPMENT, RESEARCH AND TRAINING</a></li> 
+            <li>
+               <a href="#">STRATEGIC POLICY COORDINATION</a></li> 
+            <li>
+               <a href="#">MANAGEMENT EFFICIENCY UNIT</a></li> 
+            <li>
+               <a href="#">INFORMATION</a></li> 
+            <li>
+               <a href="#">COORDINATION OF PLANNING, POLICY AND PRIORITIES </a></li> 
+            <li>
+               <a href="#">MALTA ENVIRONMENT AND PLANNING AUTHORITY</a></li> 
+            <li>
+               <a href="#">GOVERNMENT PRINTING PRESS</a></li> 
+            <li>
+               <a href="#">LANDS</a></li> 
+            <li>
+               <a href="#">JOINT OFFICE</a></li> 
+            </ul> --> </div> 
+      <div class="ministry-block large-6 medium-12 small-12 columns"> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%202020/health.aspx"><span class="the-circle-letters"><span>​mfh</span> </span>
+            <span class="theme-color-5">MINISTRY FOR HEALTH</span></a> 
+         <ul> 
          </ul>&#160;</div> 
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Solidarjeta.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MSFC</span> </span><span class="theme-color-5">MINISTRY FOR SOCIAL JUSTICE AND SOLIDARITY, THE FAMILY AND CHILDREN&#39;S RIGHTS</span></a>
-         <ul>
+      <div class="ministry-block large-6 medium-12 small-12 columns"> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%202020/foreign.aspx"><span class="the-circle-letters"><span>​mfea</span></span><span class="theme-color-5">MINISTRY FOR FOREIGN AND EUROPEAN AFFAIRS</span></a> 
+         <ul> 
+         </ul>&#160;</div> 
+      <div class="ministry-block large-6 medium-12 small-12 columns"> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/anzjanita.aspx"><span class="the-circle-letters"><span>​MSCA</span></span><span class="theme-color-5">MINISTRY FOR SENIOR CITIZENS AND ACTIVE AGEING</span></a> 
+         <ul> 
+         </ul>&#160;</div> 
+      <div class="ministry-block large-6 medium-12 small-12 columns"> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/strategy-covid-19.aspx"><span class="the-circle-letters"><span>​MFER</span> </span>
+            <span class="theme-color-5">MINISTRY FOR EQUALITY,&#160;​RES​EARCH&#160;AND&#160;​INNOVATION&#160;<br/></span></a> 
+         <ul> 
+         </ul>​&#160;</div> 
+      <div class="ministry-block large-6 medium-12 small-12 columns"> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Wirt-Nazzjonali.aspx"><span class="the-circle-letters"><span>​MHAL</span></span><span class="theme-color-5">MINISTRY FOR THE NATIONAL HERITAGE, THE ARTS AND LOCAL GOVERNMENT</span></a> 
+         <ul> 
+         </ul>&#160;</div> 
+      <div class="ministry-block large-6 medium-12 small-12 columns"> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%202020/mopm.aspx"><span class="the-circle-letters"><span>​MSD</span></span><span class="theme-color-5">MINISTER WITHIN THE OFFICE OF THE PRIME MINISTER</span></a> 
+         <ul> 
+         </ul>&#160;</div> 
+      <div class="ministry-block large-6 medium-12 small-12 columns"> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Trasport.aspx"><span class="the-circle-letters"><span>​MTIP</span> </span>
+            <span class="theme-color-5">MINISTRY FOR TRANSPORT, INFRASTRUCTURE AND CAPITAL PROJECTS</span></a> 
+         <ul> 
          </ul>&#160;</div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Gustizzja.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MFJG</span> </span><span class="theme-color-5">MINISTRY FOR JUSTICE​&#160;​AND GOVERNANCE</span></a>
-         <ul>
-         </ul>&#160;<br/></div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Agrikoltura.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MAFA</span> </span><span class="theme-color-5">MINISTRY FOR AGRICULTURE, FISHERIES, FOOD AND ANIMAL RIGHTS</span></a>
-         <ul>
-         </ul>&#160;<br/></div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Akkomodazzjoni.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​msa</span> </span><span class="theme-color-5">MINISTRY FOR SOCIAL ACCOMM​ODATION</span></a>
-         <ul>
-         </ul>&#160;</div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Edukazzjoni.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MFED</span></span><span class="theme-color-5">MINISTRY FOR EDUCATION</span></a>
-         <ul>
-         </ul>&#160;<br/></div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/ekonomija.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MEI</span> </span><span class="theme-color-5">MINISTRY FOR THE ECONOMY AND INDUSTRY</span></a>
-         <ul> ​​​​​​</ul> 
-         <br/> 
-      </div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Inkluzjoni.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MISW</span> </span><span class="theme-color-5">MINISTRY FOR INCLUSION AND SOCIAL WELLBEING</span></a>
-         <ul>
-         </ul>&#160;<br/></div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Ambjent.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MECP</span> </span><span class="theme-color-5">MINISTRY FOR THE ENVIRONMENT, CLIMATE CHANGE AND PLANNING</span></a>
-         <ul>
-         </ul>&#160;</div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Gozo.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MGOZ</span></span><span class="theme-color-5">MINISTRY FOR GOZO</span></a>
-         <ul>
+      <div class="ministry-block large-6 medium-12 small-12 columns"> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Solidarjeta.aspx"><span class="the-circle-letters"><span>​MSFC</span> </span>
+            <span class="theme-color-5">MINISTRY FOR SOCIAL JUSTICE AND SOLIDARITY, THE FAMILY AND CHILDREN&#39;S RIGHTS</span></a> 
+         <ul> 
+         </ul>&#160;</div> 
+      <div class="ministry-block large-6 medium-12 small-12 columns"> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Gustizzja.aspx"><span class="the-circle-letters"><span>​MFJG</span> </span>
+            <span class="theme-color-5">MINISTRY FOR JUSTICE​&#160;​AND GOVERNANCE</span></a> 
+         <ul> 
+         </ul>&#160;<br/></div> 
+      <div class="ministry-block large-6 medium-12 small-12 columns"> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Agrikoltura.aspx"><span class="the-circle-letters"><span>​MAFA</span> </span>
+            <span class="theme-color-5">MINISTRY FOR AGRICULTURE, FISHERIES, FOOD AND ANIMAL RIGHTS</span></a> 
+         <ul> 
+         </ul>&#160;<br/></div> 
+      <div class="ministry-block large-6 medium-12 small-12 columns"> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Akkomodazzjoni.aspx"><span class="the-circle-letters"><span>​msa</span> </span>
+            <span class="theme-color-5">MINISTRY FOR SOCIAL ACCOMM​ODATION</span></a> 
+         <ul> 
+         </ul>&#160;</div> 
+      <div class="ministry-block large-6 medium-12 small-12 columns"> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Edukazzjoni.aspx"><span class="the-circle-letters"><span>​MEDS</span></span><span class="theme-color-5">MINISTRY FOR EDUCATION AND SPORT</span></a> 
+         <ul> 
+         </ul>&#160;<br/></div> 
+      <div class="ministry-block large-6 medium-12 small-12 columns"> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/ekonomija.aspx"><span class="the-circle-letters"><span>​MEI</span> </span>
+            <span class="theme-color-5">MINISTRY FOR THE ECONOMY AND INDUSTRY</span></a> 
+         <ul> ​​​​​​</ul>​<br/></div> 
+      <div class="ministry-block large-6 medium-12 small-12 columns"> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Inkluzjoni.aspx"><span class="the-circle-letters"><span>​MIWV</span> </span>
+            <span class="theme-color-5">MINISTRY FOR INCLUSION, SOCIAL WELLBEING AND VOLUNTARY ORGANISATIONS</span></a> 
+         <ul> 
+         </ul>&#160;<br/></div> 
+      <div class="ministry-block large-6 medium-12 small-12 columns"> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Ambjent.aspx"><span class="the-circle-letters"><span>​MECP</span> </span>
+            <span class="theme-color-5">MINISTRY FOR THE ENVIRONMENT, CLIMATE CHANGE AND PLANNING</span></a> 
+         <ul> 
+         </ul>&#160;</div> 
+      <div class="ministry-block large-6 medium-12 small-12 columns"> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Gozo.aspx"><span class="the-circle-letters"><span>​MGOZ</span></span><span class="theme-color-5">MINISTRY FOR GOZO</span></a> 
+         <ul> 
+         </ul>&#160;​​<br/></div> 
+      <div class="ministry-block large-6 medium-12 small-12 columns"> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Intern.aspx"><span class="the-circle-letters"><span>​MHSE</span></span><span class="theme-color-5">MINISTRY FOR HOME AFFAIRS, NATIONAL SECURITY AND LAW ENFORCEMENT</span></a> 
+         <ul> 
          </ul>&#160;​​<br/></div>
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Intern.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MHSE</span></span><span class="theme-color-5">MINISTRY FOR HOME AFFAIRS, NATIONAL SECURITY AND LAW ENFORCEMENT</span></a>
-         <ul>
-         </ul>&#160;​​<br/></div> 
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Turizmu.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MTCP</span></span><span class="theme-color-5">MINISTRY FOR TOURISM AND CONSUMER PROTECTION</span></a>
-         <ul>
-         </ul>&#160;​​<br/></div> 
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Energija.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MESD</span></span><span class="theme-color-5">MINISTRY FOR ENERGY, ENTERPRISE AND SUSTAINABLE DEVELOPMENT</span></a>
-         <ul>
-         </ul>&#160;​​<br/></div> 
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/finanzi.aspx"> 
-            <span class="the-circle-letters"> 
-               <span>​MFE</span></span><span class="theme-color-5">MINISTRY FOR FINANCE AND EMPLOYMENT</span></a>
-         <ul>
-         </ul>&#160;​​<br/></div> 
-      <div class="ministry-block large-6 medium-12 small-12 columns">
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Officially%20Appointed%20Bodies/Pages/1-Officially-Appointed-Bodies.aspx"> 
-            <span class="the-circle-letters">​</span><span class="theme-color-5">OFFICIALLY APPOINTED BODIES</span></a>
-         <ul>​​​​<br/><br/><br/><br/><br/><br/><br/><br/><br/></ul>​​​<br/><br/><br/><br/><br/><br/><br/>​<br/>​​<br/>​<br/>​<br/>​<br/>​<br/>​<br/>​​<br/>​<br/>​<br/>​<br/></div>
-   </div> 
+      <div class="ministry-block large-6 medium-12 small-12 columns"> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Turizmu.aspx"><span class="the-circle-letters"><span>​MTCP</span></span><span class="theme-color-5">MINISTRY FOR TOURISM AND CONSUMER PROTECTION</span></a> 
+         <ul> 
+         </ul>&#160;​​<br/></div>
+      <div class="ministry-block large-6 medium-12 small-12 columns"> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/Energija.aspx"><span class="the-circle-letters"><span>​MESD</span></span><span class="theme-color-5">MINISTRY FOR ENERGY, ENTERPRISE AND SUSTAINABLE DEVELOPMENT</span></a> 
+         <ul> 
+         </ul>&#160;​​<br/></div>
+      <div class="ministry-block large-6 medium-12 small-12 columns"> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%20Nov%202020/finanzi.aspx"><span class="the-circle-letters"><span>​MFE</span></span><span class="theme-color-5">MINISTRY FOR FINANCE AND EMPLOYMENT</span></a> 
+         <ul> 
+         </ul>&#160;​​<br/></div>
+      <div class="ministry-block large-6 medium-12 small-12 columns"> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Officially%20Appointed%20Bodies/Pages/1-Officially-Appointed-Bodies.aspx"><span class="the-circle-letters">​</span><span class="theme-color-5">OFFICIALLY APPOINTED BODIES</span></a> 
+         <ul>​​​​<br/><br/><br/><br/><br/><br/><br/><br/><br/></ul>​​​<br/><br/><br/><br/><br/><br/><br/>​<br/>​​<br/>​<br/>​<br/>​<br/>​<br/>​<br/>​​<br/>​<br/>​<br/>​<br/>​​<br/></div> 
+   </div>
 </div></div><div class="ms-clear"></div></div>
 			</div>
 		</div>
@@ -737,7 +702,7 @@ $.noConflict();(function(){
         if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
             (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
         {
-            formDigestElement.value = '0xC2867495A0A21D32E772E0333A4516F7FDA6CDD916CA08B3369DDE8AA7EE3ABB11E8B8C991962D4DBB9DF292B7A4F088F86ED5040A7C71DD6832624D4BC2947E,29 Dec 2021 02:13:00 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+            formDigestElement.value = '0xBE745322374991F55A7E310C384BFABE59D78C2C289CB0A04FE0CE456A65DB12502B75AAC9D40042217EE1E79481428B755E5F1C84A90B0CF6A521E769FB1D95,30 Dec 2021 02:12:50 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
         }
         //]]>
         </script>

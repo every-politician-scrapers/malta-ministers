@@ -185,14 +185,14 @@ var MSOWebPartPageFormName = 'aspnetForm';
 var g_presenceEnabled = true;
 var g_wsaEnabled = false;
 
-var g_correlationId = '356211a0-1bdc-a0a7-6a55-a16052a885a4';
+var g_correlationId = '98b411a0-cbfe-a0a7-4c12-34e11c9ba956';
 var g_wsaQoSEnabled = false;
 var g_wsaQoSDataPoints = [];
 var g_wsaRUMEnabled = false;
 var g_wsaLCID = 1033;
 var g_wsaListTemplateId = 850;
 var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
-var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries Nov 2020\u002fInkluzjoni.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2021-12-29T02:13:14.8483592Z") - new Date(), updateFormDigestPageLoaded: new Date("2021-12-29T02:13:14.8483592Z"), siteClientTag: "687$$16.0.5227.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:57, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries Nov 2020\u002fInkluzjoni.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2021-12-30T02:13:04.1397238Z") - new Date(), updateFormDigestPageLoaded: new Date("2021-12-30T02:13:04.1397238Z"), siteClientTag: "687$$16.0.5227.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:57, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};
                             function DoCallBack(filterText)
                             {WebForm_DoCallback('ctl00$ctl72$g_5e7396c6_0809_4d19_be0c_8d3d5f8ae557$ctl01',filterText,UpdateFilterCallback,0,CallBackError,true)
                             }
@@ -578,7 +578,7 @@ $.noConflict();(function(){
                     </div>
                 </div>
                 
-                <div id="ctl00_PlaceHolderMain_ctl03_label" style='display:none'>Main Content</div><div id="ctl00_PlaceHolderMain_ctl03__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl03_label"><p><strong>​​​​​​​​​​​​​​​​​​​​​​​​​​​MINISTRY FOR INCLUSION AND SOCIAL WELLBEING</strong><br><strong>Minister&#58; Ms Julia Farrugia Portelli MP​</strong><br></p><p><strong>PARLIAMENTARY SECRETARIAT FOR SPORT, RECREATION AND VOLUNTARY ORGANISATIONS<br>Parliamentary Secretary&#58;&#160;<strong></strong>Dr Clifton Grima LLB, LLD, MP​​</strong></p><p><span style="font-size&#58;1rem;"><br>Inclusion<br></span><span style="font-size&#58;1rem;">P</span><span style="font-size&#58;1rem;">ersons with Disability<br></span><span style="font-size&#58;1rem;">Care for Persons with Disability<br></span><span style="font-size&#58;1rem;">Youth<br></span><span style="font-size&#58;1rem;">​<br><br>Sport and Sport Complexes<br></span><span style="font-size&#58;1rem;">Non Governmental and Voluntary Organisations</span><span style="font-size&#58;1rem;">​​</span></p></div>
+                <div id="ctl00_PlaceHolderMain_ctl03_label" style='display:none'>Main Content</div><div id="ctl00_PlaceHolderMain_ctl03__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl03_label"><p><strong>​​​​​​​​​​​​​​​​​​​​​​​​​​​MINISTRY FOR INCLUSION, SOCIAL WELLBEING AND VOLUNTARY ORGANISATIONS</strong><br><strong>Minister&#58; Ms Julia Farrugia Portelli MP​</strong><br></p><p><span style="font-size&#58;1rem;"></span></p><p>Inclusion<br><span style="font-size&#58;1rem;">Persons with Disability<br></span><span style="font-size&#58;1rem;">Care for Persons with Disability<br></span><span style="font-size&#58;1rem;">Youth<br></span><span style="font-size&#58;1rem;">Non Governmental and Voluntary Organisations</span><span style="font-size&#58;1rem;">​</span><span style="font-size&#58;1rem;"><br></span></p><p><span style="font-size&#58;1rem;"></span><span style="font-size&#58;1rem;">​​</span></p></div>
                 <div class="ms-webpart-zone ms-fullWidth">
 		<div id="MSOZoneCell_WebPartWPQ4" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
 			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
@@ -643,7 +643,7 @@ $.noConflict();(function(){
         if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
             (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
         {
-            formDigestElement.value = '0xEC1F128FDADC97FCA352F83FD5EDF3EA52FC88BD60EBD22178811CE8BEFD20D95FFEC8BEE18C03105093CF8E1548C8CBD088AE2B3D3AC6313E26688303EA31FB,29 Dec 2021 02:13:15 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+            formDigestElement.value = '0x64416D865E85BD7794F8F55DB87ED81C476E83BC3D204F9785D18579DF852E8DB0711020490A987FD81513086EBBD26D95E059B4288A9EF4CD7275429D9B83E8,30 Dec 2021 02:13:04 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
         }
         //]]>
         </script>
