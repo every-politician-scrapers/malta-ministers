@@ -89,27 +89,6 @@
           "description": "Maltese politician",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.maltatoday.com.mt/news/election-2017/77961/prime_minister_to_announce_cabinet_today#.XDNOglxKjct",
-          "title": "Prime Minister announces Cabinet of Ministers",
-          "last": "Pace",
-          "first": "Yannick",
-          "date": "8 June 2017",
-          "work": "MaltaToday",
-          "access-date": "7 January 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Cabinet: full list of ministries, parliamentary secretaries and responsibilities",
-          "url": "http://www.maltatoday.com.mt/news/national/25374/cabinet-full-list-of-ministries-parliamentary-secretaries-and-responsibilities-20130314#.VYAa5Pmqqko",
-          "website": "MaltaToday",
-          "access-date": "16 June 2015",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
