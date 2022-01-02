@@ -52,27 +52,6 @@
           "description": "Maltese politician",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "title": "Ian Borg marries, month after becoming minister",
-          "url": "https://timesofmalta.com/articles/view/ian-borg-marries-month-after-becoming-minister.652783",
-          "access-date": "2020-07-14",
-          "website": "Times of Malta",
-          "language": "en-gb",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2017-07-06",
-          "title": "borg ian",
-          "url": "https://parlament.mt/13th-leg/political-groups/partit-laburista/borg-ian/",
-          "access-date": "2020-07-14",
-          "website": "Parliament of Malta",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

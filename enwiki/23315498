@@ -357,35 +357,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last1": "Scicluna",
-          "first1": "Luke",
-          "title": "George Vella approved as Malta's next President",
-          "url": "https://www.timesofmalta.com/articles/view/20190402/local/george-vella-approved-as-maltas-next-president.706317",
-          "access-date": "2 April 2019",
-          "work": "Times of Malta",
-          "date": "2 April 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://foreignaffairs.gov.mt/en/Pages/The%20Minister.aspx",
-          "title": "Archived copy",
-          "access-date": "2015-03-02",
-          "archive-url": "https://web.archive.org/web/20150206062942/http://foreignaffairs.gov.mt/en/Pages/The%20Minister.aspx",
-          "archive-date": "2015-02-06",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.malta.galileokl.net/minister-of-foreign-affairs/",
-          "title": "Minister of Foreign Affairs - Maltese Consulate",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
