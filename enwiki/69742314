@@ -16,7 +16,14 @@
         {
           "sentences": [
             {
-              "text": "Clyde Caruana (born 21 February 1985) is a Maltese politician within the Labour Party, currently serving as the Minister for Finance and Employment.",
+              "text": "Clyde Caruana (born 21 February 1985) is a Maltese politician within the Labour Party, since November 2021 Minister for Finance and Employment.",
+              "links": [
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "Labour Party (Malta)"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Clyde Caruana"
