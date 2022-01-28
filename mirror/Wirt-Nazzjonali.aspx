@@ -15,7 +15,7 @@
 <script type="text/javascript" src="/style%20library/gov/js/gov.compilemenuscriptlink.js"></script>
 <script type="text/javascript" src="/style%20library/gov/js/third-party/jquery-2.2.4.min.js"></script>
 <script type="text/javascript" src="/style%20library/gov/js/exigy.system.js"></script>
-<script type="text/javascript" src="/ScriptResource.axd?d=IXcJlhRvPK7Mf8XjKOmeNDaN2VSyCFhMkpUwikr6evS5s3529H5ryMDvJDASBeAahMjwjW6H7wVcGCSsPdwow--84lNFZPtTZ8SQk_ZgryUohmJ5Ual7PLFVKVspgwRGO7sl9KssgpNeO23mn3DGKkqEta6B2UTNgIyR_S-l1cuRMu4t7-Bbtex0nByno2vA0&amp;t=2fe674eb"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=IXcJlhRvPK7Mf8XjKOmeNDaN2VSyCFhMkpUwikr6evS5s3529H5ryMDvJDASBeAahMjwjW6H7wVcGCSsPdwow--84lNFZPtTZ8SQk_ZgryUohmJ5Ual7PLFVKVspgwRGO7sl9KssgpNeO23mn3DGKkqEta6B2UTNgIyR_S-l1cuRMu4t7-Bbtex0nByno2vA0&amp;t=ffffffff8333b97c"></script>
 <script type="text/javascript" src="/_layouts/15/blank.js?rev=OKhmnW0NlfL6LAtitpfZpA%3D%3DTAG0"></script>
 <script type="text/javascript">RegisterSod("require.js", "\u002f_layouts\u002f15\u002frequire.js?rev=4UhLIF\u00252FezOvmGnh\u00252Fs0LLpA\u00253D\u00253DTAG0");</script>
 <script type="text/javascript">RegisterSod("strings.js", "\u002f_layouts\u002f15\u002f1033\u002fstrings.js?rev=k\u00252FSaOdWtcHDDvsb\u00252FUFykOA\u00253D\u00253DTAG0");</script>
@@ -185,14 +185,14 @@ var MSOWebPartPageFormName = 'aspnetForm';
 var g_presenceEnabled = true;
 var g_wsaEnabled = false;
 
-var g_correlationId = '6cb71aa0-2b0a-a0a7-6a55-a8e3f2c1a979';
+var g_correlationId = 'd1091ba0-8b14-a0a7-4c12-3bc36cac2613';
 var g_wsaQoSEnabled = false;
 var g_wsaQoSDataPoints = [];
 var g_wsaRUMEnabled = false;
 var g_wsaLCID = 1033;
 var g_wsaListTemplateId = 850;
 var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
-var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries Nov 2020\u002fWirt-Nazzjonali.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2022-01-27T02:07:44.8490673Z") - new Date(), updateFormDigestPageLoaded: new Date("2022-01-27T02:07:44.8490673Z"), siteClientTag: "687$$16.0.5227.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:49, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries Nov 2020\u002fWirt-Nazzjonali.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2022-01-28T02:07:41.9126033Z") - new Date(), updateFormDigestPageLoaded: new Date("2022-01-28T02:07:41.9126033Z"), siteClientTag: "687$$16.0.5227.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:49, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};
                             function DoCallBack(filterText)
                             {WebForm_DoCallback('ctl00$ctl72$g_c6b4aa6a_2bd3_460b_8ed1_d65261762162$ctl01',filterText,UpdateFilterCallback,0,CallBackError,true)
                             }
@@ -619,7 +619,7 @@ $.noConflict();(function(){
         if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
             (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
         {
-            formDigestElement.value = '0x49664C3AE2A950BC92F546CAA809DD9DFB3D1E4DF38ABFDFC6C4C943647F5DE8FA63CC6703B0E5F40F8DE175775DCFA8E8EFFAFC02B8344B35AFA65EBE46F3D0,27 Jan 2022 02:07:45 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+            formDigestElement.value = '0x08145910C78EFD14EE87F19A036B647CCFF70327585A0A3F01F4A684D0D616B98BFA6EC60F63F29F17444A297C082DABBEB25EFD30B2A07663BE6E9FA8D685BD,28 Jan 2022 02:07:42 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
         }
         //]]>
         </script>
