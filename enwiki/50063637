@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Silvio Schembri (born 21 May 1985) is a Maltese politician and academic currently serving as a Member of Parliament on the Labour Party ticket.",
+              "text": "Silvio Schembri (born 21 May 1985) is a Maltese politician and academic currently serving as a Minister for the Economy and Industry on the Labour Party ticket.",
               "links": [
                 {
                   "text": "Maltese",
@@ -26,6 +26,7 @@
                   "page": "Malta"
                 },
                 {
+                  "text": "Minister for the Economy and Industry",
                   "type": "internal",
                   "page": "Member of Parliament"
                 },
