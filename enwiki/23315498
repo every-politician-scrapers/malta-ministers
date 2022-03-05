@@ -26,7 +26,7 @@
         {
           "sentences": [
             {
-              "text": "George William Vella (born 24 April 1942) is a Maltese politician serving as the tenth president of Malta since 2019.",
+              "text": "George William Vella (born 24 April 1942) is a Maltese politician serving as the tenth president of Malta.",
               "links": [
                 {
                   "text": "Maltese",
@@ -49,6 +49,9 @@
                   "George William Vella"
                 ]
               }
+            },
+            {
+              "text": "He assumed office on 4 April 2019."
             },
             {
               "text": "A member of the Labour Party, Vella previously served as the minister for foreign affairs from 1996 to 1998 and again from 2013 to 2017 under two governments.",
