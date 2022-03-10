@@ -1,249 +1,27 @@
 {
-  "title": "Carmelo Abela",
-  "pageID": 26575059,
-  "categories": [
-    "1972 births",
-    "Labour Party (Malta) politicians",
-    "Living people",
-    "Maltese Roman Catholics",
-    "Members of the House of Representatives of Malta",
-    "Foreign ministers of Malta",
-    "Interior ministers of Malta",
-    "Trade ministers of Malta",
-    "20th-century Maltese politicians",
-    "21st-century Maltese politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Carmelo Abela (born 10 February 1972) is a Maltese politician and is serving as an incumbent Labour MP and was the Minister for Home Affairs and National Security.",
-              "links": [
-                {
-                  "text": "Maltese",
-                  "type": "internal",
-                  "page": "Maltese people"
-                },
-                {
-                  "text": "Labour",
-                  "type": "internal",
-                  "page": "Partit Laburista"
-                },
-                {
-                  "text": "MP",
-                  "type": "internal",
-                  "page": "House of Representatives of Malta"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Carmelo Abela"
-                ]
-              }
-            },
-            {
-              "text": "He also served as Minister for Foreign Affairs and Trade Promotion.",
-              "links": [
-                {
-                  "text": "Minister for Foreign Affairs and Trade Promotion",
-                  "type": "internal",
-                  "page": "List of Ministers for Foreign Affairs of Malta"
-                }
-              ]
-            },
-            {
-              "text": "and as Deputy Speaker of the House of Representatives of Malta.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Speaker of the House of Representatives of Malta"
-                }
-              ]
-            },
-            {
-              "text": "On 15 January 2020 he was appointed as Minister within the OPM in PM Robert Abela's cabinet."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Maltese politician",
-          "template": "short description"
-        },
-        {
-          "year": "1972",
-          "month": "2",
-          "day": "10",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "PRESS CONFERENCE 2016-09-20 PRAGUE PROCESS Abela cropped.jpg"
-          },
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Carmelo Abela"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Parliament of Malta"
-              }
-            ]
-          },
-          "office": {
-            "text": "Minister within the Office of the Prime Minister (OPM)\n(Social Dialogue and the Electoral Manifesto's Implemenation)"
-          },
-          "primeminister": {
-            "text": "Robert Abela",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Robert Abela"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "15 January 2020"
-          },
-          "predecessor": {
-            "text": "Office Established",
-            "formatting": {
-              "italic": [
-                "Office Established"
-              ]
-            }
-          },
-          "office1": {
-            "text": "Minister for Foreign Affairs and Trade Promotion",
-            "links": [
-              {
-                "text": "Minister for Foreign Affairs and Trade Promotion",
-                "type": "internal",
-                "page": "List of Ministers for Foreign Affairs of Malta"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Joseph Muscat",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joseph Muscat"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "9 June 2017"
-          },
-          "term_end1": {
-            "text": "15 January 2020"
-          },
-          "predecessor1": {
-            "text": "George Vella",
-            "links": [
-              {
-                "type": "internal",
-                "page": "George Vella"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Evarist Bartolo\nResponsible for European & Foreign Affairs",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Evarist Bartolo"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister for Home Affairs and National Security",
-            "links": [
-              {
-                "text": "Minister for Home Affairs and National Security",
-                "type": "internal",
-                "page": "List of Ministers for Home Affairs of Malta"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Joseph Muscat"
-          },
-          "term_start2": {
-            "text": "9 December 2014"
-          },
-          "term_end2": {
-            "text": "9 June 2017"
-          },
-          "predecessor2": {
-            "text": "Emmanuel Mallia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Emmanuel Mallia"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Michael Farrugia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Michael Farrugia"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "February 10, 1972"
-          },
-          "birth_place": {
-            "text": "Malta",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Malta"
-              }
-            ]
-          },
-          "party": {
-            "text": "Labour Party",
-            "links": [
-              {
-                "text": "Labour Party",
-                "type": "internal",
-                "page": "Labour Party (Malta)"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Melanie Bugeja"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          }
-        }
-      ]
-    }
-  ]
+  "image": "PRESS CONFERENCE 2016-09-20 PRAGUE PROCESS Abela cropped.jpg",
+  "honorific-prefix": "The Honourable",
+  "name": "Carmelo Abela",
+  "honorific-suffix": "MP",
+  "office": "Minister within the Office of the Prime Minister (OPM)\n(Social Dialogue and the Electoral Manifesto's Implemenation)",
+  "primeminister": "Robert Abela",
+  "term_start": "15 January 2020",
+  "predecessor": "Office Established",
+  "office1": "Minister for Foreign Affairs and Trade Promotion",
+  "primeminister1": "Joseph Muscat",
+  "term_start1": "9 June 2017",
+  "term_end1": "15 January 2020",
+  "predecessor1": "George Vella",
+  "successor1": "Evarist Bartolo\nResponsible for European & Foreign Affairs",
+  "office2": "Minister for Home Affairs and National Security",
+  "primeminister2": "Joseph Muscat",
+  "term_start2": "9 December 2014",
+  "term_end2": "9 June 2017",
+  "predecessor2": "Emmanuel Mallia",
+  "successor2": "Michael Farrugia",
+  "birth_date": "February 10, 1972",
+  "birth_place": "Malta",
+  "party": "Labour Party",
+  "spouse": "Melanie Bugeja",
+  "children": "2"
 }

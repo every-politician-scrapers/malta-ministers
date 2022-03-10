@@ -1,288 +1,32 @@
 {
-  "title": "Chris Fearne",
-  "pageID": 43962528,
-  "categories": [
-    "Alumni of the University of Malta",
-    "Labour Party (Malta) politicians",
-    "Living people",
-    "Maltese paediatricians",
-    "Members of the House of Representatives of Malta",
-    "University of Malta faculty",
-    "1963 births",
-    "People from Attard",
-    "Deputy Prime Ministers of Malta",
-    "Government ministers of Malta",
-    "21st-century Maltese physicians",
-    "20th-century Maltese physicians",
-    "21st-century Maltese politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Christopher Fearne (born 12 March 1963) is a Maltese physician and politician.",
-              "formatting": {
-                "bold": [
-                  "Christopher Fearne"
-                ]
-              }
-            },
-            {
-              "text": "He was appointed Parliamentary Secretary for Health in April 2014 and Minister for Health since April 2016."
-            },
-            {
-              "text": "In July 2017, the Labour Party elected him as Deputy Leader for Parliamentary Affairs, thus assuming the role of Deputy Prime Minister of Malta and Leader of the House.",
-              "links": [
-                {
-                  "text": "Labour Party",
-                  "type": "internal",
-                  "page": "Labour Party (Malta)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Deputy Prime Minister of Malta"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Maltese physician and politician",
-          "bot": "PearBOT 5",
-          "template": "short description"
-        },
-        {
-          "year": "1963",
-          "month": "3",
-          "day": "12",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Chris Fearne"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "image": {
-            "text": "Informal meeting of health ministers (iEPSCO). Arrivals Chris Fearne (35653640850) (cropped).jpg"
-          },
-          "caption": {
-            "text": "Chris Fearne (2017)"
-          },
-          "party": {
-            "text": "Labour Party",
-            "links": [
-              {
-                "text": "Labour Party",
-                "type": "internal",
-                "page": "Labour Party (Malta)"
-              }
-            ]
-          },
-          "office": {
-            "text": "Deputy Prime Minister of Malta",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Deputy Prime Minister of Malta"
-              }
-            ]
-          },
-          "president": {
-            "text": "Marie Louise Coleiro Preca George Vella",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Marie Louise Coleiro Preca"
-              },
-              {
-                "type": "internal",
-                "page": "George Vella"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Joseph Muscat Robert Abela",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joseph Muscat"
-              },
-              {
-                "type": "internal",
-                "page": "Robert Abela"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "17 July 2017"
-          },
-          "predecessor": {
-            "text": "Louis Grech",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Louis Grech"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Health",
-            "links": [
-              {
-                "text": "Minister of Health",
-                "type": "internal",
-                "page": "Cabinet of Malta"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Konrad Mizzi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Konrad Mizzi"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Joseph Muscat Robert Abela",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joseph Muscat"
-              },
-              {
-                "type": "internal",
-                "page": "Robert Abela"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "28 April 2016"
-          },
-          "office2": {
-            "text": "Parliamentary Secretary for Health",
-            "links": [
-              {
-                "text": "Parliamentary Secretary for Health",
-                "type": "internal",
-                "page": "Cabinet of Malta"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Position Established"
-          },
-          "primeminister2": {
-            "text": "Joseph Muscat",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joseph Muscat"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Position Abolished"
-          },
-          "term_start2": {
-            "text": "1 April 2014"
-          },
-          "term_end2": {
-            "text": "28 April 2016"
-          },
-          "order3": {
-            "text": "Deputy Leader of the Labour Party Parliamentary Affairs",
-            "links": [
-              {
-                "text": "Deputy Leader of the Labour Party",
-                "type": "internal",
-                "page": "Labour Party (Malta)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "15 July 2017"
-          },
-          "predecessor3": {
-            "text": "Louis Grech",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Louis Grech"
-              }
-            ]
-          },
-          "order4": {
-            "text": "Member of Parliament",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of Parliament",
-                "anchor": "Malta"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "13 March 2013"
-          },
-          "birth_date": {
-            "text": "March 12, 1963"
-          },
-          "birth_place": {
-            "text": "Attard, Crown Colony of Malta",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Attard"
-              },
-              {
-                "type": "internal",
-                "page": "Crown Colony of Malta"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Astrid"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "alma_mater": {
-            "text": "University of Malta St Aloysius’ College",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Malta"
-              },
-              {
-                "text": "St Aloysius’ College",
-                "type": "internal",
-                "page": "St Aloysius' College (Malta)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Chris Fearne",
+  "honorific-suffix": "MP",
+  "image": "Informal meeting of health ministers (iEPSCO). Arrivals Chris Fearne (35653640850) (cropped).jpg",
+  "caption": "Chris Fearne (2017)",
+  "party": "Labour Party",
+  "office": "Deputy Prime Minister of Malta",
+  "president": "Marie Louise Coleiro Preca George Vella",
+  "primeminister": "Joseph Muscat Robert Abela",
+  "term_start": "17 July 2017",
+  "predecessor": "Louis Grech",
+  "office1": "Minister of Health",
+  "predecessor1": "Konrad Mizzi",
+  "primeminister1": "Joseph Muscat Robert Abela",
+  "term_start1": "28 April 2016",
+  "office2": "Parliamentary Secretary for Health",
+  "predecessor2": "Position Established",
+  "primeminister2": "Joseph Muscat",
+  "successor2": "Position Abolished",
+  "term_start2": "1 April 2014",
+  "term_end2": "28 April 2016",
+  "order3": "Deputy Leader of the Labour Party Parliamentary Affairs",
+  "term_start3": "15 July 2017",
+  "predecessor3": "Louis Grech",
+  "order4": "Member of Parliament",
+  "term_start4": "13 March 2013",
+  "birth_date": "March 12, 1963",
+  "birth_place": "Attard, Crown Colony of Malta",
+  "spouse": "Astrid",
+  "children": "3",
+  "alma_mater": "University of Malta St Aloysius’ College"
 }
