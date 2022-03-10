@@ -1,203 +1,25 @@
 {
-  "title": "Owen Bonnici",
-  "pageID": 38972744,
-  "categories": [
-    "Members of the House of Representatives of Malta",
-    "1980 births",
-    "Living people",
-    "Labour Party (Malta) politicians",
-    "Government ministers of Malta",
-    "People from Żejtun",
-    "Human rights abuses in Malta"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Owen Bonnici (born 24 May 1980) is a Maltese politician who is currently serving as the Minister for Equality, Research and Innovation and is also responsible for reforms and the co-ordination of the post-COVID Strategy.",
-              "links": [
-                {
-                  "text": "Maltese",
-                  "type": "internal",
-                  "page": "Malta"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Owen Bonnici"
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He previously served as Pariamentary Secretary for Justice, Minister for Justice, Culture and Local Government and Minister for Education and Employment."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Maltese politician",
-          "bot": "PearBOT 5",
-          "template": "short description"
-        },
-        {
-          "date": "May 2013",
-          "template": "blp sources"
-        },
-        {
-          "date": "June 2021",
-          "template": "undisclosed paid"
-        },
-        {
-          "template": "multiple issues"
-        },
-        {
-          "date": "April 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1980",
-          "month": "05",
-          "day": "24",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "Hon. Owen Bonnici MP - Minister for Justice, Culture and Local Government Malta at the Europeana Strategy meeting “Migration and culture- how can our past educate our present” (34024402984).jpg"
-          },
-          "name": {
-            "text": "Owen Bonnici"
-          },
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "House of Representatives of Malta"
-              }
-            ]
-          },
-          "order": {
-            "text": "Minister for Education & Employment"
-          },
-          "primeminister": {
-            "text": "Robert Abela",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Robert Abela"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Evarist Bartolo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Evarist Bartolo"
-              }
-            ]
-          },
-          "successor": {
-            "text": "Justyne Caruana",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Justyne Caruana"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "15 January 2020"
-          },
-          "term_end": {
-            "text": "23 November 2020"
-          },
-          "order2": {
-            "text": "Ministry for Research, Innovation and the Coordination of the Post-COVID-19 Strategy"
-          },
-          "termstart2": {
-            "text": "23 November 2020"
-          },
-          "order1": {
-            "text": "Minister for Justice, Culture and Local Government"
-          },
-          "primeminister1": {
-            "text": "Joseph Muscat",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joseph Muscat"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Chris Said\nResponsible for Justice"
-          },
-          "successor1": {
-            "text": "Edward Zammit Lewis\nResponsible for Justice, Equality & Governance"
-          },
-          "term_start1": {
-            "text": "13 March 2013"
-          },
-          "term_end1": {
-            "text": "13 January 2020"
-          },
-          "term_start2": {
-            "text": "10 May 2008"
-          },
-          "predecessor2": {
-            "text": "new created portfolio"
-          },
-          "birth_date": {
-            "text": "May 24, 1980"
-          },
-          "birth_place": {
-            "text": "Zejtun, Malta",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zejtun"
-              },
-              {
-                "type": "internal",
-                "page": "Malta"
-              }
-            ]
-          },
-          "party": {
-            "text": "Partit Laburista",
-            "links": [
-              {
-                "text": "Partit Laburista",
-                "type": "internal",
-                "page": "Labour Party (Malta)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "image": "Hon. Owen Bonnici MP - Minister for Justice, Culture and Local Government Malta at the Europeana Strategy meeting “Migration and culture- how can our past educate our present” (34024402984).jpg",
+  "name": "Owen Bonnici",
+  "honorific-prefix": "The Honourable",
+  "honorific-suffix": "MP",
+  "order": "Minister for Education & Employment",
+  "primeminister": "Robert Abela",
+  "predecessor": "Evarist Bartolo",
+  "successor": "Justyne Caruana",
+  "term_start": "15 January 2020",
+  "term_end": "23 November 2020",
+  "order2": "Ministry for Research, Innovation and the Coordination of the Post-COVID-19 Strategy",
+  "termstart2": "23 November 2020",
+  "order1": "Minister for Justice, Culture and Local Government",
+  "primeminister1": "Joseph Muscat",
+  "predecessor1": "Chris Said\nResponsible for Justice",
+  "successor1": "Edward Zammit Lewis\nResponsible for Justice, Equality & Governance",
+  "term_start1": "13 March 2013",
+  "term_end1": "13 January 2020",
+  "term_start2": "10 May 2008",
+  "predecessor2": "new created portfolio",
+  "birth_date": "May 24, 1980",
+  "birth_place": "Zejtun, Malta",
+  "party": "Partit Laburista"
 }

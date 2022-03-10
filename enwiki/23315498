@@ -1,366 +1,40 @@
 {
-  "title": "George Vella",
-  "pageID": 23315498,
-  "categories": [
-    "1942 births",
-    "Presidents of Malta",
-    "Deputy Prime Ministers of Malta",
-    "Government ministers of Malta",
-    "Labour Party (Malta) politicians",
-    "Living people",
-    "People from Żejtun",
-    "Maltese general practitioners",
-    "Members of the House of Representatives of Malta",
-    "21st-century Maltese physicians",
-    "20th-century Maltese physicians",
-    "Honorary Knights Commander of the Order of St Michael and St George",
-    "Foreign ministers of Malta",
-    "20th-century Maltese politicians",
-    "21st-century Maltese politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "George William Vella (born 24 April 1942) is a Maltese politician serving as the tenth president of Malta.",
-              "links": [
-                {
-                  "text": "Maltese",
-                  "type": "internal",
-                  "page": "Malta"
-                },
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politics in Malta"
-                },
-                {
-                  "text": "president of Malta",
-                  "type": "internal",
-                  "page": "president of Malta"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "George William Vella"
-                ]
-              }
-            },
-            {
-              "text": "He assumed office on 4 April 2019."
-            },
-            {
-              "text": "A member of the Labour Party, Vella previously served as the minister for foreign affairs from 1996 to 1998 and again from 2013 to 2017 under two governments.",
-              "links": [
-                {
-                  "text": "Labour Party",
-                  "type": "internal",
-                  "page": "Labour Party (Malta)"
-                },
-                {
-                  "text": "minister for foreign affairs",
-                  "type": "internal",
-                  "page": "Ministry of Foreign Affairs (Malta)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "President of Malta",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "Joseph Muscat",
-            "Robert Abela"
-          ],
-          "template": "ubl"
-        },
-        {
-          "year": "1942",
-          "month": "4",
-          "day": "24",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "post-noms": "KOM KCMG",
-          "template": "post-nominals"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "His Excellency",
-            "links": [
-              {
-                "text": "His Excellency",
-                "type": "internal",
-                "page": "Excellency"
-              }
-            ]
-          },
-          "name": {
-            "text": "George Vella"
-          },
-          "image": {
-            "text": "Sebastian Kurz George Vella Federica Mogherini April 2017 (34279674916) (cropped).jpg"
-          },
-          "honorific-suffix": {
-            "text": "KOM KCMG",
-            "links": [
-              {
-                "text": "KOM",
-                "type": "internal",
-                "page": "National Order of Merit (Malta)"
-              },
-              {
-                "text": "KCMG",
-                "type": "internal",
-                "page": "Order of St Michael and St George"
-              }
-            ]
-          },
-          "caption": {
-            "text": "Vella in 2017"
-          },
-          "office": {
-            "text": "10th President of Malta",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President of Malta"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Joseph Muscat\n\nRobert Abela"
-          },
-          "term_start": {
-            "text": "4 April 2019"
-          },
-          "predecessor": {
-            "text": "Marie-Louise Coleiro Preca",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Marie-Louise Coleiro Preca"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister for Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister for Foreign Affairs",
-                "type": "internal",
-                "page": "List of Ministers for Foreign Affairs of Malta"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Joseph Muscat",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joseph Muscat"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "13 March 2013"
-          },
-          "term_end1": {
-            "text": "9 June 2017"
-          },
-          "predecessor1": {
-            "text": "Francis Zammit Dimech",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Francis Zammit Dimech"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Carmelo Abela",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carmelo Abela"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Alfred Sant",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alfred Sant"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "28 October 1996"
-          },
-          "term_end2": {
-            "text": "6 September 1998"
-          },
-          "predecessor2": {
-            "text": "Guido de Marco",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Guido de Marco"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Guido de Marco",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Guido de Marco"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Deputy Prime Minister of Malta",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Deputy Prime Minister of Malta"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Alfred Sant",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alfred Sant"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "28 October 1996"
-          },
-          "term_end3": {
-            "text": "6 September 1998"
-          },
-          "predecessor3": {
-            "text": "Guido de Marco",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Guido de Marco"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Guido de Marco",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Guido de Marco"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Deputy Leader of the Labour Party",
-            "links": [
-              {
-                "text": "Labour Party",
-                "type": "internal",
-                "page": "Labour Party (Malta)"
-              }
-            ]
-          },
-          "leader4": {
-            "text": "Alfred Sant",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alfred Sant"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "26 March 1992"
-          },
-          "term_end4": {
-            "text": "23 May 2003"
-          },
-          "predecessor4": {
-            "text": "Joseph Brincat",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joseph Brincat"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Charles Mangion",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Charles Mangion"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "April 24, 1942"
-          },
-          "birth_place": {
-            "text": "Żejtun, Crown Colony of Malta",
-            "links": [
-              {
-                "text": "Żejtun",
-                "type": "internal",
-                "page": "Żejtun"
-              },
-              {
-                "type": "internal",
-                "page": "Crown Colony of Malta"
-              }
-            ]
-          },
-          "party": {
-            "text": "Labour",
-            "links": [
-              {
-                "text": "Labour",
-                "type": "internal",
-                "page": "Labour Party (Malta)"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Miriam Grima (m.1985)"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "alma_mater": {
-            "text": "University of Malta",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Malta"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "His Excellency",
+  "name": "George Vella",
+  "image": "Sebastian Kurz George Vella Federica Mogherini April 2017 (34279674916) (cropped).jpg",
+  "honorific-suffix": "KOM KCMG",
+  "caption": "Vella in 2017",
+  "office": "10th President of Malta",
+  "primeminister": "Joseph Muscat\n\nRobert Abela",
+  "term_start": "4 April 2019",
+  "predecessor": "Marie-Louise Coleiro Preca",
+  "office1": "Minister for Foreign Affairs",
+  "primeminister1": "Joseph Muscat",
+  "term_start1": "13 March 2013",
+  "term_end1": "9 June 2017",
+  "predecessor1": "Francis Zammit Dimech",
+  "successor1": "Carmelo Abela",
+  "primeminister2": "Alfred Sant",
+  "term_start2": "28 October 1996",
+  "term_end2": "6 September 1998",
+  "predecessor2": "Guido de Marco",
+  "successor2": "Guido de Marco",
+  "office3": "Deputy Prime Minister of Malta",
+  "primeminister3": "Alfred Sant",
+  "term_start3": "28 October 1996",
+  "term_end3": "6 September 1998",
+  "predecessor3": "Guido de Marco",
+  "successor3": "Guido de Marco",
+  "office4": "Deputy Leader of the Labour Party",
+  "leader4": "Alfred Sant",
+  "term_start4": "26 March 1992",
+  "term_end4": "23 May 2003",
+  "predecessor4": "Joseph Brincat",
+  "successor4": "Charles Mangion",
+  "birth_date": "April 24, 1942",
+  "birth_place": "Żejtun, Crown Colony of Malta",
+  "party": "Labour",
+  "spouse": "Miriam Grima (m.1985)",
+  "children": "3",
+  "alma_mater": "University of Malta"
 }

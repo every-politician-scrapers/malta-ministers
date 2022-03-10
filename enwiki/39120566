@@ -1,212 +1,25 @@
 {
-  "title": "Edward Zammit Lewis",
-  "pageID": 39120566,
-  "categories": [
-    "1973 births",
-    "Living people",
-    "21st-century Maltese politicians",
-    "Alumni of the University of Malta",
-    "Government ministers of Malta",
-    "Labour Party (Malta) politicians",
-    "Maltese lawyers"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Edward Zammit Lewis (born 21 June 1973) is a Maltese politician within the Labour Party and is currently Minister for Justice and Governance.",
-              "links": [
-                {
-                  "text": "Labour Party",
-                  "type": "internal",
-                  "page": "Labour Party (Malta)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Edward Zammit Lewis"
-                ]
-              }
-            },
-            {
-              "text": "He has been a member of the Maltese House of Representatives since 2013."
-            },
-            {
-              "text": "Following the general elections held on 9 March 2013, won by the Labour Party, he was appointed to serve as Parliamentary Secretary for Competitiveness and Economic Growth.",
-              "links": [
-                {
-                  "text": "general elections held on 9 March 2013",
-                  "type": "internal",
-                  "page": "2013 Maltese general election"
-                }
-              ]
-            },
-            {
-              "text": "In April 2014, he was appointed Minister for Tourism, a post which he occupied up until June 2017."
-            },
-            {
-              "text": "This was followed by his appointment as Minister for European Affairs and Equality in July of 2019 till January of 2020."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He is married to Notary Public Dr Elena Farrugia with whom he has one daughter."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "August 2021",
-          "template": "blp more sources"
-        },
-        {
-          "description": "Maltese politician and Lawyers with the courts of Malta",
-          "bot": "PearBOT 5",
-          "template": "short description"
-        },
-        {
-          "date": "July 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1973",
-          "month": "6",
-          "day": "21",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Edward Zammit Lewis"
-          },
-          "image": {
-            "text": "15th EUROPEAN TOURISM FORUM Edward Zammit Lewis (30278550415).jpg"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament"
-              }
-            ]
-          },
-          "office": {
-            "text": "Minister for Justice and Governance"
-          },
-          "term_start": {
-            "text": "January 2020"
-          },
-          "primeminister": {
-            "text": "Robert Abela",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Robert Abela"
-              }
-            ]
-          },
-          "order1": {
-            "text": "Parliament of Malta",
-            "links": [
-              {
-                "text": "Parliament of Malta",
-                "type": "internal",
-                "page": "Member of Parliament",
-                "anchor": "Malta"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "9 March 2013"
-          },
-          "order2": {
-            "text": "Minister for European Affairs and Equality"
-          },
-          "term2": {
-            "text": "July 2019 to January 2020"
-          },
-          "primeminister2": {
-            "text": "Joseph Muscat",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joseph Muscat"
-              }
-            ]
-          },
-          "order3": {
-            "text": "Minister for Tourism"
-          },
-          "term3": {
-            "text": "April 2014 - June 2017"
-          },
-          "primeminister3": {
-            "text": "Joseph Muscat"
-          },
-          "order4": {
-            "text": "Parliamentary Secretary for Competitiveness and Economic Growth"
-          },
-          "term4": {
-            "text": "March 2013 - April 2014"
-          },
-          "primeminister4": {
-            "text": "Joseph Muscat"
-          },
-          "birth_date": {
-            "text": "June 21, 1973"
-          },
-          "birth_place": {
-            "text": "Pietà, State of Malta",
-            "links": [
-              {
-                "text": "Pietà",
-                "type": "internal",
-                "page": "Pietà, Malta"
-              },
-              {
-                "type": "internal",
-                "page": "State of Malta"
-              }
-            ]
-          },
-          "party": {
-            "text": "Labour Party",
-            "links": [
-              {
-                "text": "Labour Party",
-                "type": "internal",
-                "page": "Labour Party (Malta)"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Bachelor of Laws and Doctorate of Laws at the University of Malta"
-          },
-          "website": {
-            "text": "https://edwardzammitlewis.com/"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Edward Zammit Lewis",
+  "image": "15th EUROPEAN TOURISM FORUM Edward Zammit Lewis (30278550415).jpg",
+  "honorific-suffix": "MP",
+  "office": "Minister for Justice and Governance",
+  "term_start": "January 2020",
+  "primeminister": "Robert Abela",
+  "order1": "Parliament of Malta",
+  "term_start1": "9 March 2013",
+  "order2": "Minister for European Affairs and Equality",
+  "term2": "July 2019 to January 2020",
+  "primeminister2": "Joseph Muscat",
+  "order3": "Minister for Tourism",
+  "term3": "April 2014 - June 2017",
+  "primeminister3": "Joseph Muscat",
+  "order4": "Parliamentary Secretary for Competitiveness and Economic Growth",
+  "term4": "March 2013 - April 2014",
+  "primeminister4": "Joseph Muscat",
+  "birth_date": "June 21, 1973",
+  "birth_place": "Pietà, State of Malta",
+  "party": "Labour Party",
+  "alma_mater": "Bachelor of Laws and Doctorate of Laws at the University of Malta",
+  "website": "https://edwardzammitlewis.com/"
 }

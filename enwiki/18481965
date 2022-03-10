@@ -1,224 +1,24 @@
 {
-  "title": "Angelo Farrugia",
-  "pageID": 18481965,
-  "categories": [
-    "Speakers of the House of Representatives of Malta",
-    "Members of the House of Representatives of Malta",
-    "1955 births",
-    "Living people",
-    "Labour Party (Malta) politicians",
-    "People from Mosta",
-    "Maltese police officers",
-    "20th-century Maltese politicians",
-    "21st-century Maltese politicians",
-    "Alumni of the University of Malta"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Angelo \"Anġlu\" Farrugia (born 29 December 1955) is a Maltese politician and the current Speaker of the House of Representatives of Malta.",
-              "links": [
-                {
-                  "text": "Maltese",
-                  "type": "internal",
-                  "page": "Malta"
-                },
-                {
-                  "type": "internal",
-                  "page": "Speaker of the House of Representatives of Malta"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Angelo \"Anġlu\" Farrugia"
-                ]
-              }
-            },
-            {
-              "text": "Previously he served Deputy Leader of the Labour Party, a Member of Parliament and Shadow Minister for work, workers' rights and parliamentary affairs.",
-              "links": [
-                {
-                  "text": "Labour Party",
-                  "type": "internal",
-                  "page": "Labour Party (Malta)"
-                },
-                {
-                  "text": "Member of Parliament",
-                  "type": "internal",
-                  "page": "House of Representatives of Malta"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Maltese politician",
-          "template": "short description"
-        },
-        {
-          "year": "1955",
-          "month": "12",
-          "day": "29",
-          "mf": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Angelo Farrugia (Anġlu)"
-          },
-          "honorific-prefix": {
-            "text": "Mr. Speaker"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "House of Representatives of Malta"
-              }
-            ]
-          },
-          "image": {
-            "text": "Press Conference - Bratislava Informal Parliamentary Summit 2016-10-07 (29542926073).jpg"
-          },
-          "birth_date": {
-            "text": "December 29, 1955"
-          },
-          "birth_place": {
-            "text": "Mosta, British Malta",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mosta"
-              },
-              {
-                "type": "internal",
-                "page": "British Malta"
-              }
-            ]
-          },
-          "residence": {
-            "text": "Mosta, Malta",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mosta"
-              },
-              {
-                "type": "internal",
-                "page": "Malta"
-              }
-            ]
-          },
-          "order": {
-            "text": "Speaker of the House of Representatives",
-            "links": [
-              {
-                "text": "Speaker of the House of Representatives",
-                "type": "internal",
-                "page": "Speaker of the House of Representatives of Malta"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "6 April 2013"
-          },
-          "predecessor": {
-            "text": "Michael Frendo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Michael Frendo"
-              }
-            ]
-          },
-          "order1": {
-            "text": "Deputy Leader of the Labour Party",
-            "links": [
-              {
-                "text": "Deputy Leader of the Labour Party",
-                "type": "internal",
-                "page": "Labour Party (Malta)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "13 June 2008"
-          },
-          "term_end1": {
-            "text": "20 December 2012"
-          },
-          "predecessor1": {
-            "text": "Charles Mangion",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Charles Mangion"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Louis Grech",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Louis Grech"
-              }
-            ]
-          },
-          "order2": {
-            "text": "Member of Parliament",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "House of Representatives of Malta"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "27 October 1996"
-          },
-          "term_end2": {
-            "text": "9 March 2013"
-          },
-          "party": {
-            "text": "Labour (PL)",
-            "links": [
-              {
-                "text": "Labour",
-                "type": "internal",
-                "page": "Labour Party (Malta)"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Carmen née Zammit"
-          },
-          "children": {
-            "text": "Caroline"
-          },
-          "profession": {
-            "text": "Advocate",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Advocate"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Angelo Farrugia (Anġlu)",
+  "honorific-prefix": "Mr. Speaker",
+  "honorific-suffix": "MP",
+  "image": "Press Conference - Bratislava Informal Parliamentary Summit 2016-10-07 (29542926073).jpg",
+  "birth_date": "December 29, 1955",
+  "birth_place": "Mosta, British Malta",
+  "residence": "Mosta, Malta",
+  "order": "Speaker of the House of Representatives",
+  "term_start": "6 April 2013",
+  "predecessor": "Michael Frendo",
+  "order1": "Deputy Leader of the Labour Party",
+  "term_start1": "13 June 2008",
+  "term_end1": "20 December 2012",
+  "predecessor1": "Charles Mangion",
+  "successor1": "Louis Grech",
+  "order2": "Member of Parliament",
+  "term_start2": "27 October 1996",
+  "term_end2": "9 March 2013",
+  "party": "Labour (PL)",
+  "spouse": "Carmen née Zammit",
+  "children": "Caroline",
+  "profession": "Advocate"
 }

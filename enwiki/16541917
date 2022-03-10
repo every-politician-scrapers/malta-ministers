@@ -1,293 +1,33 @@
 {
-  "title": "Evarist Bartolo",
-  "pageID": 16541917,
-  "categories": [
-    "Living people",
-    "Members of the House of Representatives of Malta",
-    "1952 births",
-    "Labour Party (Malta) politicians",
-    "Government ministers of Malta",
-    "21st-century Maltese politicians",
-    "People from Mellieħa",
-    "Alumni of the University of Malta",
-    "Alumni of Cardiff University"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Evarist Bartolo (born 14 October 1952) is a Maltese politician within the Labour Party and he is currently Minister for European & Foreign Affairs.",
-              "links": [
-                {
-                  "text": "Labour Party",
-                  "type": "internal",
-                  "page": "Labour Party (Malta)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Evarist Bartolo"
-                ]
-              }
-            },
-            {
-              "text": "He was also Minister for Education & Employment."
-            },
-            {
-              "text": "Bartolo was born on 14 October 1952 in Mellieha."
-            },
-            {
-              "text": "He has been a member of the Maltese Parliament since 1992."
-            },
-            {
-              "text": "In the general elections held on 9 March 2013 he was once again elected from two districts, the 10th (Gzira, Pemboke, Sliema, St Julians) and the 12th (Mellieha, St Paul's Bay and Naxxar)."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Maltese politician",
-          "template": "short description"
-        },
-        {
-          "date": "September 2017",
-          "template": "blp sources"
-        },
-        {
-          "date": "September 2011",
-          "template": "use dmy dates"
-        },
-        {
-          "df": "yes",
-          "year": "1952",
-          "month": "10",
-          "day": "14",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Evarist Bartolo"
-          },
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "House of Representatives of Malta"
-              }
-            ]
-          },
-          "image": {
-            "text": "EvFormal.jpg"
-          },
-          "order2": {
-            "text": "Member of Parliament",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "House of Representatives of Malta"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "October 14, 1952"
-          },
-          "birth_place": {
-            "text": "Mellieħa, Malta",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mellieħa"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "4 April 1992"
-          },
-          "office": {
-            "text": "Minister for European and Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister for European and Foreign Affairs",
-                "type": "internal",
-                "page": "List of Ministers for Foreign Affairs of Malta"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Robert Abela",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Robert Abela"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "15 January 2020"
-          },
-          "predecessor": {
-            "text": "Carmelo Abela\nResponsible for Foreign Affairs & Trade Promotion",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carmelo Abela"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister for Education and Employment"
-          },
-          "primeminister1": {
-            "text": "Joseph Muscat",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joseph Muscat"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "13 March 2013"
-          },
-          "term_end1": {
-            "text": "15 January 2020"
-          },
-          "predecessor1": {
-            "text": "Dolores Cristina",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dolores Cristina"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Owen Bonnici",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Owen Bonnici"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister for Education and National Culture"
-          },
-          "primeminister3": {
-            "text": "Alfred Sant",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alfred Sant"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "28 October 1996"
-          },
-          "term_end3": {
-            "text": "6 September 1998"
-          },
-          "predecessor3": {
-            "text": "Michael Falzon"
-          },
-          "successor3": {
-            "text": "Louis Galea",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Louis Galea"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Maltese",
-            "links": [
-              {
-                "text": "Maltese",
-                "type": "internal",
-                "page": "Malta"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Malta Stanford University University of Cardiff",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Malta"
-              },
-              {
-                "type": "internal",
-                "page": "Stanford University"
-              },
-              {
-                "type": "internal",
-                "page": "University of Cardiff"
-              }
-            ]
-          },
-          "party": {
-            "text": "Labour (PL)",
-            "links": [
-              {
-                "text": "Labour",
-                "type": "internal",
-                "page": "Labour Party (Malta)"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Lecturer Journalist",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lecturer"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Gillian"
-          },
-          "children": {
-            "text": "Katrine, Louisa"
-          },
-          "website": {
-            "text": "www.evaristbartolo.com Partit Laburista",
-            "links": [
-              {
-                "text": "www.evaristbartolo.com",
-                "type": "external",
-                "site": "http://www.evaristbartolo.com"
-              },
-              {
-                "text": "Partit Laburista",
-                "type": "external",
-                "site": "http://www.partitlaburista.org"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Evarist Bartolo",
+  "honorific-prefix": "The Honourable",
+  "honorific-suffix": "MP",
+  "image": "EvFormal.jpg",
+  "order2": "Member of Parliament",
+  "birth_date": "October 14, 1952",
+  "birth_place": "Mellieħa, Malta",
+  "term_start2": "4 April 1992",
+  "office": "Minister for European and Foreign Affairs",
+  "primeminister": "Robert Abela",
+  "term_start": "15 January 2020",
+  "predecessor": "Carmelo Abela\nResponsible for Foreign Affairs & Trade Promotion",
+  "office1": "Minister for Education and Employment",
+  "primeminister1": "Joseph Muscat",
+  "term_start1": "13 March 2013",
+  "term_end1": "15 January 2020",
+  "predecessor1": "Dolores Cristina",
+  "successor1": "Owen Bonnici",
+  "office3": "Minister for Education and National Culture",
+  "primeminister3": "Alfred Sant",
+  "term_start3": "28 October 1996",
+  "term_end3": "6 September 1998",
+  "predecessor3": "Michael Falzon",
+  "successor3": "Louis Galea",
+  "nationality": "Maltese",
+  "alma_mater": "University of Malta Stanford University University of Cardiff",
+  "party": "Labour (PL)",
+  "profession": "Lecturer Journalist",
+  "spouse": "Gillian",
+  "children": "Katrine, Louisa",
+  "website": "www.evaristbartolo.com Partit Laburista"
 }
