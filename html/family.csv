@@ -1,0 +1,10 @@
+id,name,relationship,relative,relativename
+Q152511,Eddie Fenech Adami,spouse,Q6779523,Mary Fenech Adami
+Q167724,Guido de Marco,child,Q441784,Mario de Marco
+Q23881652,Silvio Schembri,relative,Q5080619,Charles Mangion
+Q23881652,Silvio Schembri,spouse,Q110644080,Deandra Schembri
+Q37860840,Robert Abela,father,Q57502,George Abela
+Q441784,Mario de Marco,father,Q167724,Guido de Marco
+Q57502,George Abela,child,Q37860840,Robert Abela
+Q57502,George Abela,spouse,Q6759132,Margaret Abela
+Q6762928,Marie Louise Coleiro Preca,spouse,Q28086248,Edgar Preca
