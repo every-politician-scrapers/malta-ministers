@@ -20,7 +20,7 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q24952681,1st Adami Cabinet,1987-05-12,11,,,1990-05-03,11,,,,,,,,,,
 ,Q24952680,2nd Adami Cabinet,1990-05-03,11,,,1992-02-27,11,,,,,,,,,,
 ,Q24952683,3rd Adami Cabinet,1992-02-27,11,,,1996-10-28,11,,,,,Q24952680,2nd Adami Cabinet,,,,
-,Q24952684,Sant Cabinet,1996-10-28,11,,,1998-09-06,11,,,Q24952683,3rd Adami Cabinet,,,,,,
+,Q24952684,Sant Cabinet,1996-10-28,11,,,1998-09-06,11,,,Q24952683,3rd Adami Cabinet,Q15939267,4th Adami Cabinet,,,,
 ,Q15939267,4th Adami Cabinet,1998-09-06,11,,,2003-04-12,11,,,Q24952684,Sant Cabinet,Q16639664,Adami 5th Cabinet,,,Q16639664,Adami 5th Cabinet
 ,Q15939242,1st Gonzi Cabinet,2003-04-12,11,,,2008-03-10,11,,,Q16639664,Adami 5th Cabinet,Q1720099,2nd Gonzi Cabinet,Q16639664,Adami 5th Cabinet,Q1720099,2nd Gonzi Cabinet
 ,Q16639664,Adami 5th Cabinet,2003-04-15,11,,,2004-03-23,11,,,Q15939267,4th Adami Cabinet,Q15939242,1st Gonzi Cabinet,Q15939267,4th Adami Cabinet,Q15939242,1st Gonzi Cabinet
