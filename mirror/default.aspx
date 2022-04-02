@@ -166,14 +166,14 @@ var MSOWebPartPageFormName = 'aspnetForm';
 var g_presenceEnabled = true;
 var g_wsaEnabled = false;
 
-var g_correlationId = '09542fa0-ab9b-a0a7-6a55-a0f343f0b3c7';
+var g_correlationId = '20a52fa0-ab11-a0a7-6a55-ad6746b2129c';
 var g_wsaQoSEnabled = false;
 var g_wsaQoSDataPoints = [];
 var g_wsaRUMEnabled = false;
 var g_wsaLCID = 1033;
 var g_wsaListTemplateId = 850;
 var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
-var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fdefault.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2022-04-01T03:03:17.2255646Z") - new Date(), updateFormDigestPageLoaded: new Date("2022-04-01T03:03:17.2255646Z"), siteClientTag: "687$$16.0.5227.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:21, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/en\/Government\/Government of Malta\/Ministries and Entities"};
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fdefault.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2022-04-02T02:40:23.8968683Z") - new Date(), updateFormDigestPageLoaded: new Date("2022-04-02T02:40:23.8968683Z"), siteClientTag: "687$$16.0.5227.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:21, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/en\/Government\/Government of Malta\/Ministries and Entities"};
 function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type) {
 
     CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fdefault.aspx");
@@ -587,7 +587,7 @@ $.noConflict();(function(){
          <ul> 
          </ul>&#160;</div> 
       <div class="ministry-block large-6 medium-12 small-12 columns"> 
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%202022/Foreign-Affairs.aspx"><span class="the-circle-letters"><span>​MFEC</span></span><span class="theme-color-5">MINISTRY FOR FOREIGN AND EUROPEAN AFFAIRS AND TRADE</span></a> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%202022/Foreign-Affairs.aspx"><span class="the-circle-letters"><span>​MFET</span></span><span class="theme-color-5">MINISTRY FOR FOREIGN AND EUROPEAN AFFAIRS AND TRADE</span></a> 
          <ul> 
          </ul>&#160;</div> 
       <div class="ministry-block large-6 medium-12 small-12 columns"> 
@@ -599,7 +599,7 @@ $.noConflict();(function(){
          <ul> 
          </ul>&#160;</div> 
       <div class="ministry-block large-6 medium-12 small-12 columns"> 
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%202022/Social-Accomodation.aspx"><span class="the-circle-letters"><span>​MSAA</span></span><span class="theme-color-5">MINISTRY FOR SOCIAL AND AFFORDABLE ACCOMODATION</span></a> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%202022/Social-Accomodation.aspx"><span class="the-circle-letters"><span>​MSAA</span></span><span class="theme-color-5">MINISTRY FOR SOCIAL AND AFFORDABLE ACCOMM​ODATION</span></a> 
          <ul> 
          </ul>&#160;</div> 
       <div class="ministry-block large-6 medium-12 small-12 columns"> 
@@ -626,7 +626,7 @@ $.noConflict();(function(){
          <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%202022/Tourism.aspx"><span class="the-circle-letters"><span>​MFT</span> </span><span class="theme-color-5">MINISTRY FOR TOURISM</span></a> 
          <ul> ​​​​​​</ul>​<br/></div> 
       <div class="ministry-block large-6 medium-12 small-12 columns"> 
-         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%202022/Environment.aspx"><span class="the-circle-letters"><span>​MEEI</span> </span><span class="theme-color-5">MINISTRY FOR THE ENVIRONMENT, ENERGY AND ENTERPRISE</span></a> 
+         <a href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Pages/Ministries%202022/Environment.aspx"><span class="the-circle-letters"><span>​MEEE​</span> </span><span class="theme-color-5">MINISTRY FOR THE ENVIRONMENT, ENERGY AND ENTERPRISE</span></a> 
          <ul> 
          </ul>&#160;<br/></div> 
       <div class="ministry-block large-6 medium-12 small-12 columns"> 
@@ -680,7 +680,7 @@ $.noConflict();(function(){
         if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
             (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
         {
-            formDigestElement.value = '0x9F2835EB1B673256DF48F40A7383141233228FFF826AF1DCD79D544FCDE3EA3001F708DC2193C6A2EA903FDC56155D1516767C7E9CDB26092E4C75580AC56335,01 Apr 2022 03:03:17 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+            formDigestElement.value = '0xC36F1F257680201D0CCE1F5094702729620B642C61567C8BDEDB1CFB1F1E3F8DBAA205E0D467502CD4DBD8C8E26D8968D0F397FE37E11DDD780804C34DA4673E,02 Apr 2022 02:40:23 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
         }
         //]]>
         </script>
