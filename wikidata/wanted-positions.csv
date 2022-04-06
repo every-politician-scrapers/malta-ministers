@@ -2,12 +2,14 @@ position,title
 Q796593,President
 Q152814,Prime Minister
 Q5261066,Deputy Prime Minister
+Q111509237,Minister for Active Aging
 Q109689827,"Minister for Agriculture, Fisheries, Food and Animal Rights"
 Q108265621,Minister for the Economy and Industry
 Q109689797,Minister for Education
 Q30107297,Minister for Education and Employment
 Q108266313,"Minister for Energy, Enterprise and Sustainable Development"
 Q108265790,"Minister for the Environment, Climate Change and Planning"
+Q111509226,"Minister for the Environment, Energy, and Enterprise"
 Q108265751,"Minister for Equality, Research and Innovation"
 Q25631196,Minister for European Affairs
 Q108265821,Minister for European Affairs and Equality
@@ -19,8 +21,10 @@ Q108265384,Minister for Health
 Q108266345,Minister for Home Affairs
 Q54935371,Minister for Home Affairs and National Security
 Q109689444,Minister for Inclusion and Social Wellbeing
+Q111509228,"Minister for Inclusion, Voluntary Organisations, and Consumer Rights"
 Q108265741,Minister for Justice and Governance
 Q109689802,"Minister for the National Heritage, the Arts and Local Government"
+Q111509233,Minister for Public Works and Planning
 Q109689775,Minister for Senior Citizens and Active Aging
 Q109689469,Minister for Social Accommodation
 Q110311419,"Minister for Social Dialogue, Consumer Affairs and Civil Liberties"
