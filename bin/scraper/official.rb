@@ -12,9 +12,7 @@ end
 
 class Member < Scraped::HTML
   field :name do
-    fields.map(&:text).map(&:ztidy)
-          .select { |txt| txt.include? ' MP' }.first
-          .gsub(/(Prime )?Minister: /, '')
+    raw_name.gsub(/^Hon\.? /, '')
   end
 
   field :position do
@@ -34,6 +32,11 @@ class Member < Scraped::HTML
 
   def fields
     noko.css('.ms-rtestate-field strong,span')
+  end
+
+  def raw_name
+    fields.map(&:text).map(&:ztidy).select { |txt| txt =~ / (MP|Hon)/}.first
+          .gsub(/(Prime )?Minist(er|ry): /, '')
   end
 end
 
