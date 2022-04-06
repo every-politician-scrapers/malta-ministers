@@ -27,5 +27,6 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q1720099,2nd Gonzi Cabinet,2008-03-11,11,,,2013-03-10,11,,,Q15939242,1st Gonzi Cabinet,Q13828291,Maltese Government 2013–17,Q15939242,1st Gonzi Cabinet,Q13828291,Maltese Government 2013–17
 ,Q13828291,Maltese Government 2013–17,2013-03-11,11,,,2017-05-01,11,,,Q1720099,2nd Gonzi Cabinet,Q30217220,3rd Muscat Cabinet,Q1720099,2nd Gonzi Cabinet,Q30217220,3rd Muscat Cabinet
 ,Q24952692,2nd Muscat Cabinet,2014-04-02,11,,,2017-06-09,11,,,,,Q30217220,3rd Muscat Cabinet,,,,
-,Q30217220,3rd Muscat Cabinet,2017-06-09,11,,,2020-01-13,11,,,Q24952692,2nd Muscat Cabinet,Q86725348,Abela Cabinet,,,,
-,Q86725348,Abela Cabinet,2020-01-13,11,,,,,,,Q30217220,3rd Muscat Cabinet,,,,,,
+,Q30217220,3rd Muscat Cabinet,2017-06-09,11,,,2020-01-13,11,,,Q24952692,2nd Muscat Cabinet,Q86725348,1st Abela Cabinet,,,,
+,Q86725348,1st Abela Cabinet,2020-01-13,11,,,2022-03-30,11,,,Q30217220,3rd Muscat Cabinet,Q111439067,2nd Abela Cabinet,,,,
+,Q111439067,2nd Abela Cabinet,2022-03-30,11,,,,,,,Q86725348,1st Abela Cabinet,,,,,,
