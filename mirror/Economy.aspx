@@ -185,14 +185,14 @@ var MSOWebPartPageFormName = 'aspnetForm';
 var g_presenceEnabled = true;
 var g_wsaEnabled = false;
 
-var g_correlationId = 'e8ee30a0-0bdb-a0a7-6a55-a0fb968a9f5d';
+var g_correlationId = '194131a0-db05-a0a7-6a55-ab447c3b7520';
 var g_wsaQoSEnabled = false;
 var g_wsaQoSDataPoints = [];
 var g_wsaRUMEnabled = false;
 var g_wsaLCID = 1033;
 var g_wsaListTemplateId = 850;
 var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
-var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries 2022\u002fEconomy.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2022-04-06T02:43:47.7758080Z") - new Date(), updateFormDigestPageLoaded: new Date("2022-04-06T02:43:47.7758080Z"), siteClientTag: "687$$16.0.5227.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:73, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/en\/Government\/Government of Malta\/Ministries and Entities"};
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries 2022\u002fEconomy.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2022-04-07T02:40:08.3164012Z") - new Date(), updateFormDigestPageLoaded: new Date("2022-04-07T02:40:08.3164012Z"), siteClientTag: "687$$16.0.5227.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:73, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/en\/Government\/Government of Malta\/Ministries and Entities"};
 function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type) {
 
     CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries 2022\u002fEconomy.aspx");
@@ -578,7 +578,8 @@ $.noConflict();(function(){
                     </div>
                 </div>
                 
-                <div id="ctl00_PlaceHolderMain_ctl03_label" style='display:none'>Main Content</div><div id="ctl00_PlaceHolderMain_ctl03__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl03_label"><p><strong>​MINISTRY FOR THE ECONOMY, EUROPEAN FUNDS AND LANDS</strong><br><strong>Minister&#58; Hon. Silvio Schembri</strong></p><p><strong>PARLIAMENTARY SECRETARIAT EUROPEAN FUNDS</strong><br><strong>Parliamentary Secretary&#58; Hon Chris Bonett</strong>​</p></div>
+                <div id="ctl00_PlaceHolderMain_ctl03_label" style='display:none'>Main Content</div><div id="ctl00_PlaceHolderMain_ctl03__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl03_label"><div><strong>​MINISTRY FOR THE ECONOMY, EUROPEAN FUNDS AND LANDS</strong><br><strong>Minister&#58; Mr Silvio Schembri,
+BCom(Hons), MA(Econ), MP<br>​<br></strong></div><p style="text-align&#58;justify;">Industry<br><span style="font-size&#58;1rem;">Industrial Parks and Hubs<br></span><span style="font-size&#58;1rem;">Freeport<br></span><span style="font-size&#58;1rem;">Government Investments<br></span><span style="font-size&#58;1rem;">Small Businesses<br></span><span style="font-size&#58;1rem;">Business Registry<br></span><span style="font-size&#58;1rem;">Digital Economy<br></span><span style="font-size&#58;1rem;">Artificial Intelligence<br></span><span style="font-size&#58;1rem;">Communications<br></span><span style="font-size&#58;1rem;">Lands<br></span><span style="font-size&#58;1rem;">Joint Office<br></span><span style="font-size&#58;1rem;">Lands Registry<br></span><span style="font-size&#58;1rem;">Cooperatives​</span><span style="font-size&#58;1rem;">&#160;</span></p><p style="text-align&#58;justify;">European Funds<br></p><p><strong><br></strong></p><p><strong>PARLIAMENTARY SECRETARIAT EUROPEAN FUNDS</strong><br><strong>Parliamentary Secretary&#58; Dr Chris Bonett, BA LLM, LLD, MP​</strong>​</p></div>
                 
             </div>
             <div class="right-column large-4 medium-4 columns sidebar genericPageRight mt50 mb50">
@@ -601,7 +602,7 @@ $.noConflict();(function(){
         if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
             (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
         {
-            formDigestElement.value = '0xEF6C8680EA63D52F016B6BAA4981BD598FF5C2B701EA59DCEC8B5E4303D43B741AFC3F1785255284471FD22B8A03B3D5F04033F31E224B812E16ED52F55A4EF6,06 Apr 2022 02:43:47 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+            formDigestElement.value = '0xC72A206B2B5541FE58F160076D57B3C76333BE371C8FA4D18229F451FB581087F9E4D2904F1E4BCC70F0AD7BAC127AE188710BDE97D1E38C77BFCFD9C01518D0,07 Apr 2022 02:40:08 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
         }
         //]]>
         </script>
