@@ -11,47 +11,47 @@
 <link rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/Themable/searchv15.css?rev=Lyort9GAreb47O499k8%2Fnw%3D%3DTAG0"/>
 <link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Themable/Core%20Styles/controls15.css"/>
 <script type="text/javascript" src="/_layouts/15/1033/initstrings.js?rev=2WxjgxyM2qXGgY9r2nHW8A%3D%3DTAG0"></script>
-<script type="text/javascript" src="/_layouts/15/init.js?rev=e4Z6f%2BfiDgorRbE9jJnglA%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/init.js?rev=0GYeCGOCwdTGU1TLodjW4g%3D%3DTAG0"></script>
 <script type="text/javascript" src="/style%20library/gov/js/gov.compilemenuscriptlink.js"></script>
 <script type="text/javascript" src="/style%20library/gov/js/third-party/jquery-2.2.4.min.js"></script>
 <script type="text/javascript" src="/style%20library/gov/js/exigy.system.js"></script>
 <script type="text/javascript" src="/ScriptResource.axd?d=IXcJlhRvPK7Mf8XjKOmeNDaN2VSyCFhMkpUwikr6evS5s3529H5ryMDvJDASBeAahMjwjW6H7wVcGCSsPdwow--84lNFZPtTZ8SQk_ZgryUohmJ5Ual7PLFVKVspgwRGO7sl9KssgpNeO23mn3DGKkqEta6B2UTNgIyR_S-l1cuRMu4t7-Bbtex0nByno2vA0&amp;t=ffffffff8333b97c"></script>
-<script type="text/javascript" src="/_layouts/15/blank.js?rev=OKhmnW0NlfL6LAtitpfZpA%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/blank.js?rev=nLAehj77f5urJYOdP4%2FYbg%3D%3DTAG0"></script>
 <script type="text/javascript">RegisterSod("require.js", "\u002f_layouts\u002f15\u002frequire.js?rev=4UhLIF\u00252FezOvmGnh\u00252Fs0LLpA\u00253D\u00253DTAG0");</script>
 <script type="text/javascript">RegisterSod("strings.js", "\u002f_layouts\u002f15\u002f1033\u002fstrings.js?rev=k\u00252FSaOdWtcHDDvsb\u00252FUFykOA\u00253D\u00253DTAG0");</script>
 <script type="text/javascript">RegisterSod("sp.res.resx", "\u002f_layouts\u002f15\u002f1033\u002fsp.res.js?rev=wAoMiKx7gNtLcYzRgm0ujg\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("sp.runtime.js", "\u002f_layouts\u002f15\u002fsp.runtime.js?rev=evXBzgwTef01pLzIiNs8ow\u00253D\u00253DTAG0");RegisterSodDep("sp.runtime.js", "sp.res.resx");</script>
-<script type="text/javascript">RegisterSod("sp.js", "\u002f_layouts\u002f15\u002fsp.js?rev=NwgIWG1np7msISCsEkrMig\u00253D\u00253DTAG0");RegisterSodDep("sp.js", "sp.runtime.js");RegisterSodDep("sp.js", "sp.ui.dialog.js");RegisterSodDep("sp.js", "sp.res.resx");</script>
-<script type="text/javascript">RegisterSod("sp.init.js", "\u002f_layouts\u002f15\u002fsp.init.js?rev=D\u00252FZ6o0r\u00252Fd\u00252BF6vNlO6wjuhg\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002f15\u002fsp.ui.dialog.js?rev=GjOGFM7NeWwsMNnSSgtw1w\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.dialog.js", "sp.init.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");</script>
-<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f15\u002fcore.js?rev=QB8Z8Y0MdvNpsSpimNKMPg\u00253D\u00253DTAG0");RegisterSodDep("core.js", "strings.js");</script>
-<script type="text/javascript">RegisterSod("menu.js", "\u002f_layouts\u002f15\u002fmenu.js?rev=4lXB\u00252BD0mtdenqSlDid6cmA\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("mQuery.js", "\u002f_layouts\u002f15\u002fmquery.js?rev=4dn4e6G2RpnkfsGVfSyYAA\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("callout.js", "\u002f_layouts\u002f15\u002fcallout.js?rev=yHki7oEofGXK\u00252BvkCmz5nKA\u00253D\u00253DTAG0");RegisterSodDep("callout.js", "strings.js");RegisterSodDep("callout.js", "mQuery.js");RegisterSodDep("callout.js", "core.js");</script>
-<script type="text/javascript">RegisterSod("sp.core.js", "\u002f_layouts\u002f15\u002fsp.core.js?rev=D4LfAjkN2zf7uHu6IcogAA\u00253D\u00253DTAG0");RegisterSodDep("sp.core.js", "strings.js");RegisterSodDep("sp.core.js", "sp.init.js");RegisterSodDep("sp.core.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("sp.runtime.js", "\u002f_layouts\u002f15\u002fsp.runtime.js?rev=DquW499094TKHJreil\u00252Bcrw\u00253D\u00253DTAG0");RegisterSodDep("sp.runtime.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.js", "\u002f_layouts\u002f15\u002fsp.js?rev=3zYkXKynq3\u00252BTaviM8NWVMQ\u00253D\u00253DTAG0");RegisterSodDep("sp.js", "sp.runtime.js");RegisterSodDep("sp.js", "sp.ui.dialog.js");RegisterSodDep("sp.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.init.js", "\u002f_layouts\u002f15\u002fsp.init.js?rev=\u00252F6kN6Nmt1ls\u00252BOLngsXSdew\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002f15\u002fsp.ui.dialog.js?rev=ZIIsgiw95xWfy3u\u00252Bfw5kuw\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.dialog.js", "sp.init.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f15\u002fcore.js?rev=G06beb\u00252BFy6PgX0o1LLE\u00252F0Q\u00253D\u00253DTAG0");RegisterSodDep("core.js", "strings.js");</script>
+<script type="text/javascript">RegisterSod("menu.js", "\u002f_layouts\u002f15\u002fmenu.js?rev=E5cOvxtnsDZzwGtPf9ZD1A\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("mQuery.js", "\u002f_layouts\u002f15\u002fmquery.js?rev=pf6sZnn6oEUZfa8W4JHYGA\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("callout.js", "\u002f_layouts\u002f15\u002fcallout.js?rev=5ALRKKc33nU44OiNeZdbGg\u00253D\u00253DTAG0");RegisterSodDep("callout.js", "strings.js");RegisterSodDep("callout.js", "mQuery.js");RegisterSodDep("callout.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("sp.core.js", "\u002f_layouts\u002f15\u002fsp.core.js?rev=\u00252FaB5BSancYj1XlYf3XBfgw\u00253D\u00253DTAG0");RegisterSodDep("sp.core.js", "strings.js");RegisterSodDep("sp.core.js", "sp.init.js");RegisterSodDep("sp.core.js", "core.js");</script>
 <script type="text/javascript">RegisterSod("sharedhovercard.strings.js", "\u002f_layouts\u002f15\u002f1033\u002fsharedhovercard.strings.js?rev=sLsS\u00252FNPqFzOSO42e3s6lgw\u00253D\u00253DTAG0");</script>
 <script type="text/javascript">RegisterSod("sharedhovercard.js", "\u002f_layouts\u002f15\u002fsharedhovercard.js?rev=uB89up9szoXj8bAMKPkPSg\u00253D\u00253DTAG0");RegisterSodDep("sharedhovercard.js", "sharedhovercard.strings.js");</script>
-<script type="text/javascript">RegisterSod("clienttemplates.js", "\u002f_layouts\u002f15\u002fclienttemplates.js?rev=B\u00252FfnxzRtnEVw7KNLkcxS4A\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("sharing.js", "\u002f_layouts\u002f15\u002fsharing.js?rev=q07jSKoweav\u00252FrZC9LNsdCw\u00253D\u00253DTAG0");RegisterSodDep("sharing.js", "strings.js");RegisterSodDep("sharing.js", "mQuery.js");RegisterSodDep("sharing.js", "clienttemplates.js");RegisterSodDep("sharing.js", "core.js");</script>
-<script type="text/javascript">RegisterSod("suitelinks.js", "\u002f_layouts\u002f15\u002fsuitelinks.js?rev=MjPFwhxkmYDibAM6WbBRIg\u00253D\u00253DTAG0");RegisterSodDep("suitelinks.js", "strings.js");RegisterSodDep("suitelinks.js", "core.js");</script>
-<script type="text/javascript">RegisterSod("clientrenderer.js", "\u002f_layouts\u002f15\u002fclientrenderer.js?rev=BeGJnYAE0u1Jn\u00252F08h4shnw\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("clienttemplates.js", "\u002f_layouts\u002f15\u002fclienttemplates.js?rev=vidYv5B0dSuHtzraoFQtWA\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sharing.js", "\u002f_layouts\u002f15\u002fsharing.js?rev=pSiskrwiBRCOazA\u00252FRU7iSw\u00253D\u00253DTAG0");RegisterSodDep("sharing.js", "strings.js");RegisterSodDep("sharing.js", "mQuery.js");RegisterSodDep("sharing.js", "clienttemplates.js");RegisterSodDep("sharing.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("suitelinks.js", "\u002f_layouts\u002f15\u002fsuitelinks.js?rev=IUbnYocxoVrwrM4oLELUPA\u00253D\u00253DTAG0");RegisterSodDep("suitelinks.js", "strings.js");RegisterSodDep("suitelinks.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("clientrenderer.js", "\u002f_layouts\u002f15\u002fclientrenderer.js?rev=SZx\u00252FGA\u00252BTD7GIuNGHRslfWg\u00253D\u00253DTAG0");</script>
 <script type="text/javascript">RegisterSod("srch.resources.resx", "\u002f_layouts\u002f15\u002f1033\u002fsrch.resources.js?rev=YFZFsHKXct9hchZcv\u00252BUURA\u00253D\u00253DTAG0");</script>
 <script type="text/javascript">RegisterSod("search.clientcontrols.js", "\u002f_layouts\u002f15\u002fsearch.clientcontrols.js?rev=llkkoa8WzW2Akde91RvLUw\u00253D\u00253DTAG0");RegisterSodDep("search.clientcontrols.js", "sp.init.js");RegisterSodDep("search.clientcontrols.js", "clientrenderer.js");RegisterSodDep("search.clientcontrols.js", "srch.resources.resx");</script>
 <script type="text/javascript">RegisterSod("sp.search.js", "\u002f_layouts\u002f15\u002fsp.search.js?rev=HAx1PXh3dmISREk3Xv5ClQ\u00253D\u00253DTAG0");RegisterSodDep("sp.search.js", "sp.init.js");RegisterSodDep("sp.search.js", "sp.runtime.js");</script>
 <script type="text/javascript">RegisterSod("ajaxtoolkit.js", "\u002f_layouts\u002f15\u002fajaxtoolkit.js?rev=D\u00252BopWJT1QLPe7G8RdEG71A\u00253D\u00253DTAG0");RegisterSodDep("ajaxtoolkit.js", "search.clientcontrols.js");</script>
-<script type="text/javascript">RegisterSod("cui.js", "\u002f_layouts\u002f15\u002fcui.js?rev=r7ppKAReS01DRuLwExTYHg\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=VNCGa6GXg8biAzHyGg8XzA\u00253D\u00253DTAG0");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "clienttemplates.js");RegisterSodDep("inplview", "sp.js");</script>
-<script type="text/javascript">RegisterSod("ribbon", "\u002f_layouts\u002f15\u002fsp.ribbon.js?rev=FIeBKAsh7zmbjG0wXh7mEw\u00253D\u00253DTAG0");RegisterSodDep("ribbon", "strings.js");RegisterSodDep("ribbon", "core.js");RegisterSodDep("ribbon", "sp.core.js");RegisterSodDep("ribbon", "sp.js");RegisterSodDep("ribbon", "cui.js");RegisterSodDep("ribbon", "sp.res.resx");RegisterSodDep("ribbon", "sp.runtime.js");RegisterSodDep("ribbon", "inplview");</script>
+<script type="text/javascript">RegisterSod("cui.js", "\u002f_layouts\u002f15\u002fcui.js?rev=mwJMONkopBP9eXrSEDznwg\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=kr6if\u00252BcNVQXgEkP1W9rggA\u00253D\u00253DTAG0");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "clienttemplates.js");RegisterSodDep("inplview", "sp.js");</script>
+<script type="text/javascript">RegisterSod("ribbon", "\u002f_layouts\u002f15\u002fsp.ribbon.js?rev=PMzyDxmi8\u00252BACDXlrHK8JMQ\u00253D\u00253DTAG0");RegisterSodDep("ribbon", "strings.js");RegisterSodDep("ribbon", "core.js");RegisterSodDep("ribbon", "sp.core.js");RegisterSodDep("ribbon", "sp.js");RegisterSodDep("ribbon", "cui.js");RegisterSodDep("ribbon", "sp.res.resx");RegisterSodDep("ribbon", "sp.runtime.js");RegisterSodDep("ribbon", "inplview");</script>
 <script type="text/javascript">RegisterSod("sp.ui.policy.resources.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EUI\u00252EPolicy\u00252EResources\u0026rev=m2Nvtm13DRgodCVi\u00252BsRukw\u00253D\u00253D");</script>
 <script type="text/javascript">RegisterSod("mdn.js", "\u002f_layouts\u002f15\u002fmdn.js?rev=8NNwivaC8jSLGWcNFulEiA\u00253D\u00253DTAG0");RegisterSodDep("mdn.js", "sp.init.js");RegisterSodDep("mdn.js", "core.js");RegisterSodDep("mdn.js", "sp.runtime.js");RegisterSodDep("mdn.js", "sp.js");RegisterSodDep("mdn.js", "cui.js");RegisterSodDep("mdn.js", "ribbon");RegisterSodDep("mdn.js", "sp.ui.policy.resources.resx");</script>
 <script type="text/javascript">RegisterSod("userprofile", "\u002f_layouts\u002f15\u002fsp.userprofiles.js?rev=cx6U8sP\u00252ByP0OFLjk6ekyIg\u00253D\u00253DTAG0");RegisterSodDep("userprofile", "sp.runtime.js");</script>
-<script type="text/javascript">RegisterSod("followingcommon.js", "\u002f_layouts\u002f15\u002ffollowingcommon.js?rev=QFN9tRvu8Y6A0uJbXJybBg\u00253D\u00253DTAG0");RegisterSodDep("followingcommon.js", "strings.js");RegisterSodDep("followingcommon.js", "sp.js");RegisterSodDep("followingcommon.js", "userprofile");RegisterSodDep("followingcommon.js", "core.js");RegisterSodDep("followingcommon.js", "mQuery.js");</script>
+<script type="text/javascript">RegisterSod("followingcommon.js", "\u002f_layouts\u002f15\u002ffollowingcommon.js?rev=ZnoYZ0\u00252Fv8Yz\u00252BMTejHF\u00252BWWA\u00253D\u00253DTAG0");RegisterSodDep("followingcommon.js", "strings.js");RegisterSodDep("followingcommon.js", "sp.js");RegisterSodDep("followingcommon.js", "userprofile");RegisterSodDep("followingcommon.js", "core.js");RegisterSodDep("followingcommon.js", "mQuery.js");</script>
 <script type="text/javascript">RegisterSod("profilebrowserscriptres.resx", "\u002f_layouts\u002f15\u002f1033\u002fprofilebrowserscriptres.js?rev=qwf69WaVc1mYlJLXqmZmVA\u00253D\u00253DTAG0");</script>
-<script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=rvv6nphnivuhC7rl1njMGg\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.mysitecommon.js", "sp.init.js");RegisterSodDep("sp.ui.mysitecommon.js", "sp.runtime.js");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
-<script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=xyxeENEYHbhX9aJsJ5cvlw\u00253D\u00253DTAG0");RegisterSodDep("browserScript", "strings.js");</script>
-<script type="text/javascript">RegisterSod("dragdrop.js", "\u002f_layouts\u002f15\u002fdragdrop.js?rev=q2ylbWOrW8VfCyfIrhmfuw\u00253D\u00253DTAG0");RegisterSodDep("dragdrop.js", "strings.js");</script>
-<script type="text/javascript">RegisterSod("quicklaunch.js", "\u002f_layouts\u002f15\u002fquicklaunch.js?rev=SCEYlTnarLrrMiTD885oQQ\u00253D\u00253DTAG0");RegisterSodDep("quicklaunch.js", "strings.js");RegisterSodDep("quicklaunch.js", "dragdrop.js");</script>
-<script type="text/javascript">RegisterSod("datepicker.js", "\u002f_layouts\u002f15\u002fdatepicker.js?rev=Kv7XEQXAPkDhZfLIzTNEMQ\u00253D\u00253DTAG0");RegisterSodDep("datepicker.js", "strings.js");</script>
+<script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=jE68FvC077\u00252FmYsLdiBNhqw\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.mysitecommon.js", "sp.init.js");RegisterSodDep("sp.ui.mysitecommon.js", "sp.runtime.js");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
+<script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=P2U9dDCEZopgw4YPtXnuPQ\u00253D\u00253DTAG0");RegisterSodDep("browserScript", "strings.js");</script>
+<script type="text/javascript">RegisterSod("dragdrop.js", "\u002f_layouts\u002f15\u002fdragdrop.js?rev=KV5pLK5QC64VIpeHFRHgEA\u00253D\u00253DTAG0");RegisterSodDep("dragdrop.js", "strings.js");</script>
+<script type="text/javascript">RegisterSod("quicklaunch.js", "\u002f_layouts\u002f15\u002fquicklaunch.js?rev=zIAMJZ0nkdXl66aZs9eSOQ\u00253D\u00253DTAG0");RegisterSodDep("quicklaunch.js", "strings.js");RegisterSodDep("quicklaunch.js", "dragdrop.js");</script>
+<script type="text/javascript">RegisterSod("datepicker.js", "\u002f_layouts\u002f15\u002fdatepicker.js?rev=lR7SW3fcj0T0rqBbp1nOxA\u00253D\u00253DTAG0");RegisterSodDep("datepicker.js", "strings.js");</script>
 <link type="text/xml" rel="alternate" href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/_vti_bin/spsdisco.aspx" />
 
         <!-- GOV CUSTOMIZATIONS START -->
@@ -185,14 +185,14 @@ var MSOWebPartPageFormName = 'aspnetForm';
 var g_presenceEnabled = true;
 var g_wsaEnabled = false;
 
-var g_correlationId = '174131a0-cbd2-a0a7-4c12-3e8c94380067';
+var g_correlationId = '109431a0-6bea-a0a7-4c12-34ac64a968b1';
 var g_wsaQoSEnabled = false;
 var g_wsaQoSDataPoints = [];
 var g_wsaRUMEnabled = false;
 var g_wsaLCID = 1033;
 var g_wsaListTemplateId = 850;
 var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
-var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries 2022\u002fHealth.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2022-04-07T02:40:03.3885502Z") - new Date(), updateFormDigestPageLoaded: new Date("2022-04-07T02:40:03.3885502Z"), siteClientTag: "687$$16.0.5227.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:67, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/en\/Government\/Government of Malta\/Ministries and Entities"};
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries 2022\u002fHealth.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2022-04-08T02:50:06.9178030Z") - new Date(), updateFormDigestPageLoaded: new Date("2022-04-08T02:50:06.9178030Z"), siteClientTag: "687$$16.0.5272.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:67, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/en\/Government\/Government of Malta\/Ministries and Entities"};
 function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type) {
 
     CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries 2022\u002fHealth.aspx");
@@ -216,7 +216,7 @@ function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContex
 } )(); //]]>
 </script>
 
-<script src="/_layouts/15/blank.js?rev=OKhmnW0NlfL6LAtitpfZpA%3D%3DTAG0" type="text/javascript"></script>
+<script src="/_layouts/15/blank.js?rev=nLAehj77f5urJYOdP4%2FYbg%3D%3DTAG0" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 $.noConflict();(function(){
@@ -578,12 +578,12 @@ $.noConflict();(function(){
                     </div>
                 </div>
                 
-                <div id="ctl00_PlaceHolderMain_ctl03_label" style='display:none'>Main Content</div><div id="ctl00_PlaceHolderMain_ctl03__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl03_label"><p><strong>​​​OFFICE OF THE DEPUTY PRIME MINISTER AND MINISTRY FOR HEALTH</strong><br><strong>Deputy Prime&#160;Minister and Minister​&#58; Mr Chris Fearne, MD, FRCS(Ed), MP​</strong></p><p style="text-align&#58;justify;">Health Services Regulation and Standards<br><span style="font-size&#58;1rem;">Health Services<br></span><span style="font-size&#58;1rem;">​Occupational Health and Safety</span><span style="font-size&#58;1rem;">​</span></p><p><strong></strong>​</p></div>
+                <div id="ctl00_PlaceHolderMain_ctl03_label" style='display:none'>Main Content</div><div id="ctl00_PlaceHolderMain_ctl03__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl03_label"><p><strong>​​​​​​OFFICE OF THE DEPUTY PRIME MINISTER AND MINISTRY FOR HEALTH</strong><br><strong>Deputy Prime&#160;Minister and Minister​&#58; Mr Chris Fearne, MD, FRCS(Ed), MP​</strong></p><p style="text-align&#58;justify;">Health Services Regulation and Standards<br><span style="font-size&#58;1rem;">Health Services<br></span><span style="font-size&#58;1rem;">​Occupational Health and Safety</span><span style="font-size&#58;1rem;">​</span></p><p><strong></strong>​</p></div>
                 
             </div>
             <div class="right-column large-4 medium-4 columns sidebar genericPageRight mt50 mb50">
                 
-				<div id="ctl00_PlaceHolderMain_SummaryLinkFieldControl1__ControlWrapper_SummaryLinkFieldControl" style="display:inline"><div id="slwp_ctl00_PlaceHolderMain_SummaryLinkFieldControl1_SummaryLinkFieldControl1" class="slm-layout-main slwpmarker" xmlns:pcm="urn:PageContentManager"><!--empty--></div></div>
+				<div id="ctl00_PlaceHolderMain_SummaryLinkFieldControl1__ControlWrapper_SummaryLinkFieldControl" style="display:inline"><div id="slwp_ctl00_PlaceHolderMain_SummaryLinkFieldControl1_SummaryLinkFieldControl1" class="slm-layout-main slwpmarker" xmlns:pcm="urn:PageContentManager"><div class="dfwp-column" style="width:100%" ><div class="slm-layout-main groupmarker"><ul class="dfwp-list"><li><div class="item"><div class="link-item"><a href="https://deputyprimeminister.gov.mt/en/Pages/Contact-Details.aspx" title="" onclick="javascript:this.target=&quot;_blank&quot;">Contact Details</a><div class="description"></div></div></div></li ><li><div class="item"><div class="link-item"><a href="http://www.health.gov.mt" title="" onclick="javascript:this.target=&quot;_blank&quot;">health.gov.mt</a><div class="description"></div></div></div></li ></ul><div class="footermarker"><!--empty--></div></div></div></div></div>
             </div>
         </div>
         
@@ -601,7 +601,7 @@ $.noConflict();(function(){
         if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
             (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
         {
-            formDigestElement.value = '0x15A16EF8AEE454312A2AFB6A7E14C9DED3392DBFECF99E4AA333024BEF0FFBF142628BA578AD03CA1B8DEB62E5EBFC89A42697D125FE90D668198E5D1E1F4EA9,07 Apr 2022 02:40:03 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+            formDigestElement.value = '0x1D0D77C2D1CAEE2B91FF14CB7A84DBCFFD209FAB848D1582AAB212D96BA99233E8C22B83B45E87CD3FB50EE5E5195614E9809EFC5C4D2399989E7631D883BDAC,08 Apr 2022 02:50:06 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
         }
         //]]>
         </script>
