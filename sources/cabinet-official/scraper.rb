@@ -35,8 +35,7 @@ class Member < Scraped::HTML
   end
 
   def raw_name
-    fields.map(&:text).map(&:ztidy).select { |txt| txt =~ / (MP|Hon)/}.first
-          .gsub(/(Prime )?Minist(er|ry): /, '')
+    fields.map(&:text).map(&:ztidy).find { |txt| txt =~ / (MP|Hon)/ }.split(':').last.tidy
   end
 end
 
