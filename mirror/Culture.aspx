@@ -49,9 +49,9 @@
 <script type="text/javascript">RegisterSod("profilebrowserscriptres.resx", "\u002f_layouts\u002f15\u002f1033\u002fprofilebrowserscriptres.js?rev=qwf69WaVc1mYlJLXqmZmVA\u00253D\u00253DTAG0");</script>
 <script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=jE68FvC077\u00252FmYsLdiBNhqw\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.mysitecommon.js", "sp.init.js");RegisterSodDep("sp.ui.mysitecommon.js", "sp.runtime.js");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
 <script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=P2U9dDCEZopgw4YPtXnuPQ\u00253D\u00253DTAG0");RegisterSodDep("browserScript", "strings.js");</script>
+<script type="text/javascript">RegisterSod("datepicker.js", "\u002f_layouts\u002f15\u002fdatepicker.js?rev=lR7SW3fcj0T0rqBbp1nOxA\u00253D\u00253DTAG0");RegisterSodDep("datepicker.js", "strings.js");</script>
 <script type="text/javascript">RegisterSod("dragdrop.js", "\u002f_layouts\u002f15\u002fdragdrop.js?rev=KV5pLK5QC64VIpeHFRHgEA\u00253D\u00253DTAG0");RegisterSodDep("dragdrop.js", "strings.js");</script>
 <script type="text/javascript">RegisterSod("quicklaunch.js", "\u002f_layouts\u002f15\u002fquicklaunch.js?rev=zIAMJZ0nkdXl66aZs9eSOQ\u00253D\u00253DTAG0");RegisterSodDep("quicklaunch.js", "strings.js");RegisterSodDep("quicklaunch.js", "dragdrop.js");</script>
-<script type="text/javascript">RegisterSod("datepicker.js", "\u002f_layouts\u002f15\u002fdatepicker.js?rev=lR7SW3fcj0T0rqBbp1nOxA\u00253D\u00253DTAG0");RegisterSodDep("datepicker.js", "strings.js");</script>
 <link type="text/xml" rel="alternate" href="/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/_vti_bin/spsdisco.aspx" />
 
         <!-- GOV CUSTOMIZATIONS START -->
@@ -149,8 +149,8 @@
         </div>
         <div id="imgPrefetch" style="display:none">
 <img src="/SiteAssets/favicon.ico?v=2&amp;rev=40" />
-<img src="/Style Library/GOV/vendor/images/gov-emblem.png?rev=40" />
 <img src="/_layouts/15/images/spcommon.png?rev=40" />
+<img src="/Style Library/GOV/vendor/images/gov-emblem.png?rev=40" />
 </div>
 
         <noscript><div class='noindex'>You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page.</div></noscript>
@@ -176,7 +176,7 @@
 <input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
 <input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
 <input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWBAIBD2QWBAIGD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTYuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAkUPZBYCAgMPZBYCZg9kFgJmDzwrAAYAZAIND2QWCgITD2QWAgICD2QWAgIBD2QWAgIDDxYCHgdWaXNpYmxlaBYCZg9kFgQCAw9kFgYCAQ8WAh8BaGQCAw8WAh8BaGQCBQ8WAh8BaGQCBA8PFgIeCUFjY2Vzc0tleQUBL2RkAhUPZBYCAgEPDxYEHgtOYXZpZ2F0ZVVybAU6L2VuL0dvdmVybm1lbnQvR292ZXJubWVudCBvZiBNYWx0YS9NaW5pc3RyaWVzIGFuZCBFbnRpdGllcx4HVG9vbFRpcAUXTWluaXN0cmllcyBhbmQgRW50aXRpZXNkZAIdD2QWAgIBD2QWAgIBDzwrAAUBAA8WAh4VUGFyZW50TGV2ZWxzRGlzcGxheWVkZmRkAiEPZBYCAgEPZBYCAg0PDxYCHwFoZBYCAgMPZBYCZg9kFgICAw9kFgICBQ9kFgICAQ88KwAJAQAPFgQeDVBhdGhTZXBhcmF0b3IECB4NTmV2ZXJFeHBhbmRlZGdkZAIlD2QWAgICD2QWCgIBDxYCHwALKwQBZAIDDxYCHwALKwQBZAIHDxYCHwALKwQBZAILDxYCHwALKwQBZAIRDxYCHwALKwQBFgJmDw9kZGQYAQUsY3RsMDAkUGxhY2VIb2xkZXJUb3BOYXZCYXIkVG9wTmF2aWdhdGlvbk1lbnUPD2QFD01haW5cR292ZXJubWVudGSeDSCahmCKxyW64sJMZf4p9zISYmPuBCPRvhQaD2U91w==" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWBAIBD2QWBAIGD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTYuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAkUPZBYCAgMPZBYCZg9kFgJmDzwrAAYAZAIND2QWDAIBD2QWAgIBD2QWAgUmZ181NDU5NWY2OV9mYzg5XzQzODBfYjFhOV9jN2I1ODRiMDU3NTMPZBYCAgEPDxYEHgtQYXJhbVZhbHVlczLZAwABAAAA/////wEAAAAAAAAADAIAAABYTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTYuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwUBAAAAPU1pY3Jvc29mdC5TaGFyZVBvaW50LldlYlBhcnRQYWdlcy5QYXJhbWV0ZXJOYW1lVmFsdWVIYXNodGFibGUBAAAABV9jb2xsAxxTeXN0ZW0uQ29sbGVjdGlvbnMuSGFzaHRhYmxlAgAAAAkDAAAABAMAAAAcU3lzdGVtLkNvbGxlY3Rpb25zLkhhc2h0YWJsZQcAAAAKTG9hZEZhY3RvcgdWZXJzaW9uCENvbXBhcmVyEEhhc2hDb2RlUHJvdmlkZXIISGFzaFNpemUES2V5cwZWYWx1ZXMAAAMDAAUFCwgcU3lzdGVtLkNvbGxlY3Rpb25zLklDb21wYXJlciRTeXN0ZW0uQ29sbGVjdGlvbnMuSUhhc2hDb2RlUHJvdmlkZXII7FE4PwEAAAAKCgMAAAAJBAAAAAkFAAAAEAQAAAABAAAABgYAAAAKRmlsdGVyTGluaxAFAAAAAQAAAAYHAAAAAT8LHhBGaWx0ZXJPcGVyYXRpb25zMo0FAAEAAAD/////AQAAAAAAAAAEAQAAAJMCU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuRGljdGlvbmFyeWAyW1tTeXN0ZW0uU3RyaW5nLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldLFtNaWNyb3NvZnQuU2hhcmVQb2ludC5XZWJQYXJ0UGFnZXMuRmlsdGVyT3BlcmF0aW9uLCBNaWNyb3NvZnQuU2hhcmVQb2ludCwgVmVyc2lvbj0xNi4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj03MWU5YmNlMTExZTk0MjljXV0DAAAAB1ZlcnNpb24IQ29tcGFyZXIISGFzaFNpemUAAwAIkgFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5HZW5lcmljRXF1YWxpdHlDb21wYXJlcmAxW1tTeXN0ZW0uU3RyaW5nLCBtc2NvcmxpYiwgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODldXQgAAAAACQIAAAAAAAAABAIAAACSAVN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkdlbmVyaWNFcXVhbGl0eUNvbXBhcmVyYDFbW1N5c3RlbS5TdHJpbmcsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV1dAAAAAAtkZAITD2QWAgICD2QWAgIBD2QWAgIDDxYCHgdWaXNpYmxlaBYCZg9kFgQCAw9kFgYCAQ8WAh8DaGQCAw8WAh8DaGQCBQ8WAh8DaGQCBA8PFgIeCUFjY2Vzc0tleQUBL2RkAhUPZBYCAgEPDxYEHgtOYXZpZ2F0ZVVybAU6L2VuL0dvdmVybm1lbnQvR292ZXJubWVudCBvZiBNYWx0YS9NaW5pc3RyaWVzIGFuZCBFbnRpdGllcx4HVG9vbFRpcAUXTWluaXN0cmllcyBhbmQgRW50aXRpZXNkZAIdD2QWAgIBD2QWAgIBDzwrAAUBAA8WAh4VUGFyZW50TGV2ZWxzRGlzcGxheWVkZmRkAiEPZBYCAgEPZBYCAg0PDxYCHwNoZBYCAgMPZBYCZg9kFgICAw9kFgICBQ9kFgICAQ88KwAJAQAPFgQeDVBhdGhTZXBhcmF0b3IECB4NTmV2ZXJFeHBhbmRlZGdkZAIlD2QWAgICD2QWCgIBDxYCHwALKwQBZAIDDxYCHwALKwQBZAIHDxYCHwALKwQBZAILDxYCHwALKwQBZAIRDxYCHwALKwQBFgJmDw9kZGQYAQUsY3RsMDAkUGxhY2VIb2xkZXJUb3BOYXZCYXIkVG9wTmF2aWdhdGlvbk1lbnUPD2QFD01haW5cR292ZXJubWVudGSz2ThXV3BldXraGPD9FyqEgAwRBV8JD7PhV/MUBtVl9w==" />
 
 
 <script type="text/javascript">
@@ -185,27 +185,27 @@ var MSOWebPartPageFormName = 'aspnetForm';
 var g_presenceEnabled = true;
 var g_wsaEnabled = false;
 
-var g_correlationId = '9a8233a0-fb11-a0a7-6a55-a1eb83641c7f';
+var g_correlationId = 'f2d533a0-fb9e-a0a7-6a55-a844e6b9c239';
 var g_wsaQoSEnabled = false;
 var g_wsaQoSDataPoints = [];
 var g_wsaRUMEnabled = false;
 var g_wsaLCID = 1033;
 var g_wsaListTemplateId = 850;
 var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
-var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries 2022\u002fCulture.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2022-04-14T02:52:45.2468068Z") - new Date(), updateFormDigestPageLoaded: new Date("2022-04-14T02:52:45.2468068Z"), siteClientTag: "687$$16.0.5272.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:68, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/en\/Government\/Government of Malta\/Ministries and Entities"};
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries 2022\u002fCulture.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2022-04-15T03:09:19.7899082Z") - new Date(), updateFormDigestPageLoaded: new Date("2022-04-15T03:09:19.7899082Z"), siteClientTag: "687$$16.0.5272.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:68, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};
+                            function DoCallBack(filterText)
+                            {WebForm_DoCallback('ctl00$ctl72$g_54595f69_fc89_4380_b1a9_c7b584b05753$ctl01',filterText,UpdateFilterCallback,0,CallBackError,true)
+                            }
+                            function CallBackError(result, clientsideString)
+                            {                
+                            }
+                        document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/en\/Government\/Government of Malta\/Ministries and Entities"};
 function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type) {
 
     CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries 2022\u002fCulture.aspx");
 
 }
-
-                            function DoCallBack(filterText)
-                            {WebForm_DoCallback('ctl00$PlaceHolderMain$SummaryLinkFieldControl1$SummaryLinkFieldControl1',filterText,UpdateFilterCallback,0,CallBackError,true)
-                            }
-                            function CallBackError(result, clientsideString)
-                            {                
-                            }
-                        Flighting.ExpFeatures = [480215056,1880287568,1561350208,302071836,3212816,69472768,4194310,-2113396707,268502022,-872284160,1049232,-2147421952,65536,65536,2097472,917504,-2147474174,1372324107,67108882,0,0,-2147483648,2097152,0,0,32768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32768]; (function()
+Flighting.ExpFeatures = [480215056,1880287568,1561350208,302071836,3212816,69472768,4194310,-2113396707,268502022,-872284160,1049232,-2147421952,65536,65536,2097472,917504,-2147474174,1372324107,67108882,0,0,-2147483648,2097152,0,0,32768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32768]; (function()
 {
     if(typeof(window.SP) == "undefined") window.SP = {};
     if(typeof(window.SP.YammerSwitch) == "undefined") window.SP.YammerSwitch = {};
@@ -213,7 +213,7 @@ function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContex
     var ysObj = window.SP.YammerSwitch;
     ysObj.IsEnabled = false;
     ysObj.TargetYammerHostName = "www.yammer.com";
-} )(); //]]>
+} )(); var _spWebPartComponents = new Object();//]]>
 </script>
 
 <script src="/_layouts/15/blank.js?rev=nLAehj77f5urJYOdP4%2FYbg%3D%3DTAG0" type="text/javascript"></script>
@@ -579,7 +579,25 @@ $.noConflict();(function(){
                 </div>
                 
                 <div id="ctl00_PlaceHolderMain_ctl03_label" style='display:none'>Main Content</div><div id="ctl00_PlaceHolderMain_ctl03__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl03_label"><p><strong>​​​​MINISTRY FOR THE NATIONAL HERITAGE, THE ARTS AND LOCAL GOVERNMENT</strong><br><strong>Minister&#58; Dr Owen Bonnici, BA, LLD, MP</strong></p><p style="text-align&#58;justify;">Cultural Heritage<br><span style="font-size&#58;1rem;">Restoration<br></span><span style="font-size&#58;1rem;">The Arts<br></span><span style="font-size&#58;1rem;">Theatres<br></span><span style="font-size&#58;1rem;">The Maltese Language<br></span><span style="font-size&#58;1rem;">The National Archives<br></span><span style="font-size&#58;1rem;">The National Library<br></span><span style="font-size&#58;1rem;">​Public Broadcasting</span></p><p><strong></strong><strong>PARLIAMENTARY SECRETARIAT FOR LOCAL GOVERNMENT</strong><br><strong>Parliamentary Secretary&#58; Ms Alison Zerafa Civelli, M.Ed, B.Ed, MP​</strong>​</p></div>
-                
+                <div class="ms-webpart-zone ms-fullWidth">
+		<div id="MSOZoneCell_WebPartWPQ3" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div class="ms-webpart-chrome-title" id="WebPartWPQ3_ChromeTitle">
+					<span title="Officially Appointed Bodies under MHAL - The &quot;OAB Rollup&quot; Web Part is based on the SharePoint OOTB &quot;Content Search&quot; Web Part. It comes pre-packaged with a KQL query specifically designed for Officially Appointed Body pages. Add this Web Part to any page and configure as necessary to retrieve Officially Appointed Body pages filtered by Ministry, Body Type or both." id="WebPartTitleWPQ3" class="js-webpart-titleCell"><h2 style="text-align:justify;" class="ms-webpart-titleText">&nbsp;<span>Officially Appointed Bodies under MHAL</span><span id="WebPartCaptionWPQ3"></span></h2></span>
+				</div><div WebPartID="54595f69-fc89-4380-b1a9-c7b584b05753" HasPers="false" id="WebPartWPQ3" width="100%" class="ms-WPBody ms-wpContentDivSpace " allowDelete="false" style="" ><div class="ms-webpart-chrome ms-webpart-chrome-fullWidth ">
+					<div class="ms-webpart-chrome-title" id="WebPartWPQ4_ChromeTitle">
+						<span title="" id="WebPartTitleWPQ4" class="js-webpart-titleCell"><h2 style="text-align:justify;" class="ms-webpart-titleText">&nbsp;<span></span><span id="WebPartCaptionWPQ4"></span></h2></span>
+					</div><div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ4" width="100%" class="ms-WPBody ms-WPBorder ms-wpContentDivSpace " OnlyForMePart="true" allowDelete="false" style="" ><noscript><div id="ctl00_ctl72_g_54595f69_fc89_4380_b1a9_c7b584b05753_ctl00_noscript">It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.</div></noscript><div id="ctl00_ctl72_g_54595f69_fc89_4380_b1a9_c7b584b05753_ctl00">
+
+					</div><div class="ms-clear"></div></div>
+				</div><div class="ms-webpart-chrome ms-webpart-chrome-fullWidth ">
+					<div class="ms-webpart-chrome-title" id="WebPartWPQ5_ChromeTitle">
+						<span title="" id="WebPartTitleWPQ5" class="js-webpart-titleCell"><h2 style="text-align:justify;" class="ms-webpart-titleText">&nbsp;<span></span><span id="WebPartCaptionWPQ5"></span></h2></span>
+					</div><div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ5" width="100%" class="ms-WPBody ms-WPBorder ms-wpContentDivSpace " OnlyForMePart="true" allowDelete="false" style="" ><?xml version="1.0" encoding="utf-8"?><p><table><tr><td><a href="https://www.gov.mt/en/Government/Government of Malta/Ministries and Entities/Officially Appointed Bodies/Pages/Foundations/Fondazzjoni-għac-Ċelebrazzjonijiet-Nazzjonali-Maltin.aspx">Foundation for Maltese National Festivities</a></td><td>https://www.gov.mt/en/Government/Government of Malta/Ministries and Entities/Officially Appointed Bodies/Pages/Foundations/Fondazzjoni-għac-Ċelebrazzjonijiet-Nazzjonali-Maltin.aspx</td><td>Foundation for Maltese National Festivities</td><td></td><td></td></tr></table></p><div class="ms-clear"></div></div>
+				</div><div class="ms-clear"></div></div>
+			</div>
+		</div>
+	</div>
             </div>
             <div class="right-column large-4 medium-4 columns sidebar genericPageRight mt50 mb50">
                 
@@ -601,7 +619,7 @@ $.noConflict();(function(){
         if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
             (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
         {
-            formDigestElement.value = '0xCF9E18B5B5515FF0C1DEAC39E93E250D24A4193F7769F4674B6229466DDD31DA29DEAA666425EB5AFE821B9931B318087697B43383F55E4F4DAF84E28B8F7758,14 Apr 2022 02:52:45 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+            formDigestElement.value = '0x2249960A423E3D88886A38EB6F8FAA9A937C975F418C21B86DE4B4CEA9FE9B7449E4EC74B862BA87A58E5CF3A98F5F402AECDCE3A822686F581C4A4F3E9663D0,15 Apr 2022 03:09:20 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
         }
         //]]>
         </script>
@@ -644,7 +662,13 @@ $.noConflict();(function(){
 
 <script type="text/javascript">
 //<![CDATA[
-var _spFormDigestRefreshInterval = 1440000;function loadMDN2() { EnsureScript('MDN.js', typeof(loadFilterFn), null); }
+var _spFormDigestRefreshInterval = 1440000;var sdpWPQ4=$get('WebPartWPQ4');
+                            if (sdpWPQ4 != null) { // webpart body div
+                                sdpWPQ4 = sdpWPQ4.parentNode;
+                                if (sdpWPQ4 != null) { // webpart div
+                                    sdpWPQ4.className='display-none';
+                                }
+                            }function loadMDN2() { EnsureScript('MDN.js', typeof(loadFilterFn), null); }
 function loadMDN1() { ExecuteOrDelayUntilScriptLoaded(loadMDN2, 'sp.ribbon.js'); }
 _spBodyOnLoadFunctionNames.push('loadMDN1');
 function _spNavigateHierarchyEx(nodeDiv, dataSourceId, dataPath, url, listInContext, type, additionalQString) {
@@ -709,7 +733,7 @@ g_QuickLaunchControlIds.push("zz1_TopNavigationMenu");_spBodyOnLoadFunctionNames
                         {
                             if ($isNull($find('ctl00_PlaceHolderSearchArea_SmallSearchInputBoxMobile_csr')))
                             {
-                                var sb = $create(Srch.SearchBox, {"delayLoadTemplateScripts":true,"initialPrompt":"Search...","messages":[],"queryGroupNames":["Default"],"renderTemplateId":"~sitecollection/_catalogs/masterpage/Display Templates/Search/Control_SearchBox.js","resultsPageAddress":"/en/Search/Pages/default.aspx","serverInitialRender":true,"showDataErrors":true,"states":{},"tryInplaceQuery":false}, null, null, $get("ctl00_PlaceHolderSearchArea_SmallSearchInputBoxMobile_csr"));
+                                var sb = $create(Srch.SearchBox, {"delayLoadTemplateScripts":true,"initialPrompt":"Search...","messages":[],"queryGroupNames":["Default"],"renderTemplateId":"~sitecollection/_catalogs/masterpage/Display Templates/Search/Control_SearchBox.js","resultsPageAddress":"/en/Search/Pages/default.aspx","serverInitialRender":true,"states":{},"tryInplaceQuery":false}, null, null, $get("ctl00_PlaceHolderSearchArea_SmallSearchInputBoxMobile_csr"));
                                 sb.activate('Search...', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBoxMobile_csr_sbox', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBoxMobile_csr_sboxdiv', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBoxMobile_csr_NavButton', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBoxMobile_csr_AutoCompList', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBoxMobile_csr_NavDropdownList', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBoxMobile_csr_SearchLink', 'ms-srch-sbprogress', 'ms-srch-sb-prompt ms-helperText');
                             }
                         }, 'Search.ClientControls.js');g_QuickLaunchControlIds.push("zz3_V4QuickLaunchMenu");_spBodyOnLoadFunctionNames.push('QuickLaunchInitDroppable'); var g_zz3_V4QuickLaunchMenu = null; function init_zz3_V4QuickLaunchMenu() { if (g_zz3_V4QuickLaunchMenu == null) g_zz3_V4QuickLaunchMenu = $create(SP.UI.AspMenu, null, null, null, $get('zz3_V4QuickLaunchMenu')); } ExecuteOrDelayUntilScriptLoaded(init_zz3_V4QuickLaunchMenu, 'SP.Core.js');
