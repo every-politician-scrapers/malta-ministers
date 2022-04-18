@@ -185,14 +185,14 @@ var MSOWebPartPageFormName = 'aspnetForm';
 var g_presenceEnabled = true;
 var g_wsaEnabled = false;
 
-var g_correlationId = '467934a0-1b13-a0a7-6a55-aa27f64de8ee';
+var g_correlationId = 'c0cc34a0-ab00-a0a7-6a55-a60ebc15022f';
 var g_wsaQoSEnabled = false;
 var g_wsaQoSDataPoints = [];
 var g_wsaRUMEnabled = false;
 var g_wsaLCID = 1033;
 var g_wsaListTemplateId = 850;
 var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
-var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries 2022\u002fEnvironment.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2022-04-17T02:43:39.4570474Z") - new Date(), updateFormDigestPageLoaded: new Date("2022-04-17T02:43:39.4570474Z"), siteClientTag: "687$$16.0.5272.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:79, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries 2022\u002fEnvironment.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2022-04-18T03:02:30.6817248Z") - new Date(), updateFormDigestPageLoaded: new Date("2022-04-18T03:02:30.6817248Z"), siteClientTag: "687$$16.0.5272.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:79, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};
                             function DoCallBack(filterText)
                             {WebForm_DoCallback('ctl00$ctl72$g_ebed3138_0be3_4bd7_809a_a92cbb015561$ctl01',filterText,UpdateFilterCallback,0,CallBackError,true)
                             }
@@ -619,7 +619,7 @@ $.noConflict();(function(){
         if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
             (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
         {
-            formDigestElement.value = '0x7641860F24F66E2D46CC0C3A258230B94050F82885823C54DAA6B4530E8CBA735F2DB6538178CD70EB39052D44DF80D4066218F08A2800F49A91790D79696C5E,17 Apr 2022 02:43:39 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+            formDigestElement.value = '0x692723640BBF538D60A8F2DE67EB20E9E23E782F278B7E770782FDBA4DB08E226066FFAFB2C561B567B032E162359917234436A175A209015B2C725CC7B83A0F,18 Apr 2022 03:02:30 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
         }
         //]]>
         </script>

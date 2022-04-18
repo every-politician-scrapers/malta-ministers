@@ -166,14 +166,14 @@ var MSOWebPartPageFormName = 'aspnetForm';
 var g_presenceEnabled = true;
 var g_wsaEnabled = false;
 
-var g_correlationId = '427934a0-eb85-a0a7-4c12-3235cfdab28e';
+var g_correlationId = 'bccc34a0-3b43-a0a7-4c12-37b7f58e5a02';
 var g_wsaQoSEnabled = false;
 var g_wsaQoSDataPoints = [];
 var g_wsaRUMEnabled = false;
 var g_wsaLCID = 1033;
 var g_wsaListTemplateId = 850;
 var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
-var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fdefault.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2022-04-17T02:43:24.9574259Z") - new Date(), updateFormDigestPageLoaded: new Date("2022-04-17T02:43:24.9574259Z"), siteClientTag: "687$$16.0.5272.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:21, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/en\/Government\/Government of Malta\/Ministries and Entities"};
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fdefault.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2022-04-18T03:02:15.4097564Z") - new Date(), updateFormDigestPageLoaded: new Date("2022-04-18T03:02:15.4097564Z"), siteClientTag: "687$$16.0.5272.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:21, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/en\/Government\/Government of Malta\/Ministries and Entities"};
 function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type) {
 
     CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fdefault.aspx");
@@ -691,7 +691,7 @@ $.noConflict();(function(){
         if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
             (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
         {
-            formDigestElement.value = '0x2720FB7F779A478D1E5FB2FAE9D4589F52779A710BFEDA9EAA46124B6EB95135CCA6512F9EC7635C76E906A3B3C028D729550C4077385588CBBAF3C3E3E16FEF,17 Apr 2022 02:43:24 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+            formDigestElement.value = '0xF499996D508042703E5FB639A0FBF85285A472B4FB48D24C3AA2BD19B1B607EC73A668F39CC813D5FB249E29491E8F273C5C2EC3C0C32F8F6EF44AA4E09FB076,18 Apr 2022 03:02:15 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
         }
         //]]>
         </script>
