@@ -185,14 +185,14 @@ var MSOWebPartPageFormName = 'aspnetForm';
 var g_presenceEnabled = true;
 var g_wsaEnabled = false;
 
-var g_correlationId = 'afc73ea0-6b41-a0a7-6a55-abd4cc2e664f';
+var g_correlationId = '90193fa0-3ba9-a0a7-4c12-3c061bf634c1';
 var g_wsaQoSEnabled = false;
 var g_wsaQoSDataPoints = [];
 var g_wsaRUMEnabled = false;
 var g_wsaLCID = 1033;
 var g_wsaListTemplateId = 850;
 var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
-var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries 2022\u002fTransport.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2022-05-19T03:13:13.7660180Z") - new Date(), updateFormDigestPageLoaded: new Date("2022-05-19T03:13:13.7660180Z"), siteClientTag: "688$$16.0.5272.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:75, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries 2022\u002fTransport.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2022-05-20T03:04:11.6982705Z") - new Date(), updateFormDigestPageLoaded: new Date("2022-05-20T03:04:11.6982705Z"), siteClientTag: "688$$16.0.5272.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:75, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};
                             function DoCallBack(filterText)
                             {WebForm_DoCallback('ctl00$ctl72$g_04d6da9f_2c38_4808_b316_b96eeb67c471$ctl01',filterText,UpdateFilterCallback,0,CallBackError,true)
                             }
@@ -578,7 +578,7 @@ $.noConflict();(function(){
                     </div>
                 </div>
                 
-                <div id="ctl00_PlaceHolderMain_ctl03_label" style='display:none'>Main Content</div><div id="ctl00_PlaceHolderMain_ctl03__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl03_label"><p><strong>​​​​​​​MINISTRY FOR TRANSPORT, INFRASTRUCTURE AND CAPITAL PROJECTS</strong><br><strong>Minister&#58; Dr Aaron Farrugia, BCom (Hons) Finance, MA (European), LLD, MP​</strong></p><p><strong></strong></p><p style="text-align&#58;justify;">Ports<br><span style="font-size&#58;1rem;">Maritime Affairs<br></span><span style="font-size&#58;1rem;">Coordination of Major Government Projects<br></span><span style="font-size&#58;1rem;">Aviation<br></span><span style="font-size&#58;1rem;">Internal Transport<br></span><span style="font-size&#58;1rem;">​Roads</span><span style="font-size&#58;1rem;">​</span></p><p>​</p></div>
+                <div id="ctl00_PlaceHolderMain_ctl03_label" style='display:none'>Main Content</div><div id="ctl00_PlaceHolderMain_ctl03__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl03_label"><p><strong>​​​​​​​​​​MINISTRY FOR TRANSPORT, INFRASTRUCTURE AND CAPITAL PROJECTS</strong><br><strong>Minister&#58; Dr Aaron Farrugia, BCom (Hons) Finance, MA (European), LLD, MP​</strong></p><p><strong></strong></p><p style="text-align&#58;justify;">Ports<br><span style="font-size&#58;1rem;">Maritime Affairs<br></span><span style="font-size&#58;1rem;">Coordination of Major Government Projects<br></span><span style="font-size&#58;1rem;">Aviation<br></span><span style="font-size&#58;1rem;">Internal Transport<br></span><span style="font-size&#58;1rem;">​Roads</span><span style="font-size&#58;1rem;">​</span></p><p>​</p></div>
                 <div class="ms-webpart-zone ms-fullWidth">
 		<div id="MSOZoneCell_WebPartWPQ3" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
 			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
@@ -601,7 +601,7 @@ $.noConflict();(function(){
             </div>
             <div class="right-column large-4 medium-4 columns sidebar genericPageRight mt50 mb50">
                 
-				<div id="ctl00_PlaceHolderMain_SummaryLinkFieldControl1__ControlWrapper_SummaryLinkFieldControl" style="display:inline"><div id="slwp_ctl00_PlaceHolderMain_SummaryLinkFieldControl1_SummaryLinkFieldControl1" class="slm-layout-main slwpmarker" xmlns:pcm="urn:PageContentManager"><!--empty--></div></div>
+				<div id="ctl00_PlaceHolderMain_SummaryLinkFieldControl1__ControlWrapper_SummaryLinkFieldControl" style="display:inline"><div id="slwp_ctl00_PlaceHolderMain_SummaryLinkFieldControl1_SummaryLinkFieldControl1" class="slm-layout-main slwpmarker" xmlns:pcm="urn:PageContentManager"><div class="dfwp-column" style="width:100%" ><div class="slm-layout-main groupmarker"><ul class="dfwp-list"><li><div class="item"><div class="link-item"><a href="https://mtip.gov.mt/en/Pages/Organizational-Structure.aspx" title="" onclick="javascript:this.target=&quot;_blank&quot;">Contact Details</a><div class="description"></div></div></div></li ><li><div class="item"><div class="link-item"><a href="https://mtip.gov.mt/en/Pages/Main%20en.aspx" title="" onclick="javascript:this.target=&quot;_blank&quot;">infrastructure.gov.mt</a><div class="description"></div></div></div></li ></ul><div class="footermarker"><!--empty--></div></div></div></div></div>
             </div>
         </div>
         
@@ -619,7 +619,7 @@ $.noConflict();(function(){
         if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
             (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
         {
-            formDigestElement.value = '0x37543CAB72821EFA03B5BF0ADD08A59541E9B05B4D8427842459337B036E19A8617FD753D919ADEF05CB5780C307814B5DD44F553BDAA5DBA7B25B23450745A1,19 May 2022 03:13:13 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+            formDigestElement.value = '0xD88A3E05A173E23974CB2E72DE10863CA4B9B5096064B847366509BF5AC3260BC7EEBE3D329C0EF4463EE9477E49A62F2C5836E70332BFB084FE7F12FD8DA2A1,20 May 2022 03:04:11 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
         }
         //]]>
         </script>

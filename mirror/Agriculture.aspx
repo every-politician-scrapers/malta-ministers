@@ -185,14 +185,14 @@ var MSOWebPartPageFormName = 'aspnetForm';
 var g_presenceEnabled = true;
 var g_wsaEnabled = false;
 
-var g_correlationId = 'aec73ea0-ab13-a0a7-6a55-a8c5a13f3417';
+var g_correlationId = '8f193fa0-cb63-a0a7-4c12-3027ac183661';
 var g_wsaQoSEnabled = false;
 var g_wsaQoSDataPoints = [];
 var g_wsaRUMEnabled = false;
 var g_wsaLCID = 1033;
 var g_wsaListTemplateId = 850;
 var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
-var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries 2022\u002fAgriculture.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2022-05-19T03:13:08.9534489Z") - new Date(), updateFormDigestPageLoaded: new Date("2022-05-19T03:13:08.9534489Z"), siteClientTag: "688$$16.0.5272.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:71, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries 2022\u002fAgriculture.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2022-05-20T03:04:06.4920107Z") - new Date(), updateFormDigestPageLoaded: new Date("2022-05-20T03:04:06.4920107Z"), siteClientTag: "688$$16.0.5272.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:71, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};
                             function DoCallBack(filterText)
                             {WebForm_DoCallback('ctl00$ctl72$g_c9324ac5_63ea_4073_8d47_96d2910bf606$ctl01',filterText,UpdateFilterCallback,0,CallBackError,true)
                             }
@@ -578,7 +578,7 @@ $.noConflict();(function(){
                     </div>
                 </div>
                 
-                <div id="ctl00_PlaceHolderMain_ctl03_label" style='display:none'>Main Content</div><div id="ctl00_PlaceHolderMain_ctl03__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl03_label"><p><strong>​​​​​​​​​​​​​​​​​MINISTRY FOR AGRICULTURE, FISHERIES AND ANIMAL RIGHTS</strong><br><strong>Minister&#58; Dr Anton Refalo, LLD, MP</strong></p><p><strong></strong></p><p style="text-align&#58;justify;">Rural Development<br><span style="font-size&#58;1rem;">Agriculture<br></span><span style="font-size&#58;1rem;">Horticulture​<br></span><span style="font-size&#58;1rem;">Plant Protection<br></span><span style="font-size&#58;1rem;">Fisheries<br></span><span style="font-size&#58;1rem;">Aquaculture<br></span><span style="font-size&#58;1rem;">Food<br></span><span style="font-size&#58;1rem;">Animal Welfare<br></span><span style="font-size&#58;1rem;">​Veterinary Services</span></p><p style="text-align&#58;justify;"><span style="font-size&#58;1rem;"><br></span></p><p style="text-align&#58;justify;"><span style="font-size&#58;1rem;"></span><span style="font-size&#58;1rem;"><strong>PARLIAMENTARY SECRETARIAT FOR&#160;FISHERIES, AQUACULTURE AND ANIMAL RIGHTS</strong><br><strong>Parliamentary Secretary&#58; Ms A​licia Bugeja ​Said</strong>​​</span></p><p>​</p></div>
+                <div id="ctl00_PlaceHolderMain_ctl03_label" style='display:none'>Main Content</div><div id="ctl00_PlaceHolderMain_ctl03__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl03_label"><p><strong>​​​​​​​​​​​​​​​​​​​​​MINISTRY FOR AGRICULTURE, FISHERIES AND ANIMAL RIGHTS</strong><br><strong>Minister&#58; Dr Anton Refalo, LLD, MP</strong></p><p><strong></strong></p><p style="text-align&#58;justify;">Rural Development<br><span style="font-size&#58;1rem;">Agriculture<br></span><span style="font-size&#58;1rem;">Horticulture​<br></span><span style="font-size&#58;1rem;">Plant Protection<br></span><span style="font-size&#58;1rem;">Fisheries<br></span><span style="font-size&#58;1rem;">Aquaculture<br></span><span style="font-size&#58;1rem;">Food<br></span><span style="font-size&#58;1rem;">Animal Welfare<br></span><span style="font-size&#58;1rem;">​Veterinary Services</span></p><p style="text-align&#58;justify;"><span style="font-size&#58;1rem;"><br></span></p><p style="text-align&#58;justify;"><span style="font-size&#58;1rem;"></span><span style="font-size&#58;1rem;"><strong>PARLIAMENTARY SECRETARIAT FOR&#160;FISHERIES, AQUACULTURE AND ANIMAL RIGHTS</strong><br><strong>Parliamentary Secretary&#58; Ms A​licia Bugeja ​Said</strong>​​</span></p><p>​</p></div>
                 <div class="ms-webpart-zone ms-fullWidth">
 		<div id="MSOZoneCell_WebPartWPQ4" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
 			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
@@ -617,7 +617,7 @@ $.noConflict();(function(){
             </div>
             <div class="right-column large-4 medium-4 columns sidebar genericPageRight mt50 mb50">
                 
-				<div id="ctl00_PlaceHolderMain_SummaryLinkFieldControl1__ControlWrapper_SummaryLinkFieldControl" style="display:inline"><div id="slwp_ctl00_PlaceHolderMain_SummaryLinkFieldControl1_SummaryLinkFieldControl1" class="slm-layout-main slwpmarker" xmlns:pcm="urn:PageContentManager"><!--empty--></div></div>
+				<div id="ctl00_PlaceHolderMain_SummaryLinkFieldControl1__ControlWrapper_SummaryLinkFieldControl" style="display:inline"><div id="slwp_ctl00_PlaceHolderMain_SummaryLinkFieldControl1_SummaryLinkFieldControl1" class="slm-layout-main slwpmarker" xmlns:pcm="urn:PageContentManager"><div class="dfwp-column" style="width:100%" ><div class="slm-layout-main groupmarker"><ul class="dfwp-list"><li><div class="item"><div class="link-item"><a href="https://agrikoltura.gov.mt/en/Pages/Contact-Details.aspx" title="" onclick="javascript:this.target=&quot;_blank&quot;">Contact Details</a><div class="description"></div></div></div></li ><li><div class="item"><div class="link-item"><a href="https://agrikoltura.gov.mt/en/Pages/Index.aspx" title="" onclick="javascript:this.target=&quot;_blank&quot;">agrikoltura.gov.mt</a><div class="description"></div></div></div></li ></ul><div class="footermarker"><!--empty--></div></div></div></div></div>
             </div>
         </div>
         
@@ -635,7 +635,7 @@ $.noConflict();(function(){
         if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
             (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
         {
-            formDigestElement.value = '0x89AA384AE10A1AC40B1029540C700DB193847E996552FBF25E9ABD7B79938A58FBB35891B140C9F5E94182C462F7FB8772435013F374AA7D899A7794EEC01760,19 May 2022 03:13:09 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+            formDigestElement.value = '0x3579DF7791FDC2F3EC383C49C9331EB5C3672E378EC7EB7BDDA6577C48CD1861BD60DFAFEA3815BF6CA38125427183CE0335FD21EE43E0E78E451D185F398851,20 May 2022 03:04:06 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
         }
         //]]>
         </script>

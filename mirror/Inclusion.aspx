@@ -185,14 +185,14 @@ var MSOWebPartPageFormName = 'aspnetForm';
 var g_presenceEnabled = true;
 var g_wsaEnabled = false;
 
-var g_correlationId = 'aec73ea0-1bfa-a0a7-6a55-a6ac580873fb';
+var g_correlationId = '90193fa0-1b59-a0a7-4c12-302e39051810';
 var g_wsaQoSEnabled = false;
 var g_wsaQoSDataPoints = [];
 var g_wsaRUMEnabled = false;
 var g_wsaLCID = 1033;
 var g_wsaListTemplateId = 850;
 var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
-var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries 2022\u002fInclusion.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2022-05-19T03:13:12.6253776Z") - new Date(), updateFormDigestPageLoaded: new Date("2022-05-19T03:13:12.6253776Z"), siteClientTag: "688$$16.0.5272.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:74, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries 2022\u002fInclusion.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2022-05-20T03:04:10.4170454Z") - new Date(), updateFormDigestPageLoaded: new Date("2022-05-20T03:04:10.4170454Z"), siteClientTag: "688$$16.0.5272.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:74, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};
                             function DoCallBack(filterText)
                             {WebForm_DoCallback('ctl00$ctl72$g_c2349422_c877_4da0_8d87_2b9b2977f607$ctl01',filterText,UpdateFilterCallback,0,CallBackError,true)
                             }
@@ -578,7 +578,7 @@ $.noConflict();(function(){
                     </div>
                 </div>
                 
-                <div id="ctl00_PlaceHolderMain_ctl03_label" style='display:none'>Main Content</div><div id="ctl00_PlaceHolderMain_ctl03__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl03_label"><p><strong>​​​​​​​​​​MINISTRY FOR INCLUSION, VOLUNTARY ORGANISATIONS AND CONSUMER RIGHTS</strong><br><strong>Minister&#58; Ms Julia Farrugia Portelli, MP​</strong></p><p><strong></strong></p><p style="text-align&#58;justify;">Inclusion<br><span style="font-size&#58;1rem;">Persons with Disability<br></span><span style="font-size&#58;1rem;">Care for Persons with Disability<br></span><span style="font-size&#58;1rem;">Non Governmental and Voluntary Organisations<br></span><span style="font-size&#58;1rem;">​Consumer Rights</span><span style="font-size&#58;1rem;">​</span></p><p>​</p></div>
+                <div id="ctl00_PlaceHolderMain_ctl03_label" style='display:none'>Main Content</div><div id="ctl00_PlaceHolderMain_ctl03__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl03_label"><p><strong>​​​​​​​​​​​​​​​​​​MINISTRY FOR INCLUSION, VOLUNTARY ORGANISATIONS AND CONSUMER RIGHTS</strong><br><strong>Minister&#58; Ms Julia Farrugia Portelli, MP​</strong></p><p><strong></strong></p><p style="text-align&#58;justify;">Inclusion<br><span style="font-size&#58;1rem;">Persons with Disability<br></span><span style="font-size&#58;1rem;">Care for Persons with Disability<br></span><span style="font-size&#58;1rem;">Non Governmental and Voluntary Organisations<br></span><span style="font-size&#58;1rem;">​Consumer Rights</span><span style="font-size&#58;1rem;">​</span></p><p>​</p></div>
                 <div class="ms-webpart-zone ms-fullWidth">
 		<div id="MSOZoneCell_WebPartWPQ3" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
 			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
@@ -601,7 +601,7 @@ $.noConflict();(function(){
             </div>
             <div class="right-column large-4 medium-4 columns sidebar genericPageRight mt50 mb50">
                 
-				<div id="ctl00_PlaceHolderMain_SummaryLinkFieldControl1__ControlWrapper_SummaryLinkFieldControl" style="display:inline"><div id="slwp_ctl00_PlaceHolderMain_SummaryLinkFieldControl1_SummaryLinkFieldControl1" class="slm-layout-main slwpmarker" xmlns:pcm="urn:PageContentManager"><div class="dfwp-column" style="width:100%" ><div class="slm-layout-main groupmarker"><ul class="dfwp-list"><li><div class="item"><div class="link-item"><a href="http://www.inclusion.gov.mt" title="" onclick="javascript:this.target=&quot;_blank&quot;">inclusion.gov.mt</a><div class="description"></div></div></div></li ></ul><div class="footermarker"><!--empty--></div></div></div></div></div>
+				<div id="ctl00_PlaceHolderMain_SummaryLinkFieldControl1__ControlWrapper_SummaryLinkFieldControl" style="display:inline"><div id="slwp_ctl00_PlaceHolderMain_SummaryLinkFieldControl1_SummaryLinkFieldControl1" class="slm-layout-main slwpmarker" xmlns:pcm="urn:PageContentManager"><div class="dfwp-column" style="width:100%" ><div class="slm-layout-main groupmarker"><ul class="dfwp-list"><li><div class="item"><div class="link-item"><a href="https://inclusion.gov.mt/contacts/?lang=en" title="" onclick="javascript:this.target=&quot;_blank&quot;">Contact Details</a><div class="description"></div></div></div></li ><li><div class="item"><div class="link-item"><a href="https://inclusion.gov.mt/?lang=en" title="" onclick="javascript:this.target=&quot;_blank&quot;">inclusion.gov.mt</a><div class="description"></div></div></div></li ></ul><div class="footermarker"><!--empty--></div></div></div></div></div>
             </div>
         </div>
         
@@ -619,7 +619,7 @@ $.noConflict();(function(){
         if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
             (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
         {
-            formDigestElement.value = '0x4FAE0EB8296C2C9972812AD9DCC4437467522CE69239BF86B76912825270CCB1B41DCCAC8B84576DF8C580E43E5C6157F6D7A41101E812FAC4A159A654943A2A,19 May 2022 03:13:12 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+            formDigestElement.value = '0x8652273F96A75BBC6609D53A30D26CA0B319D666DEFD93EEF08661D7DEA0368BB367B10ACD9C423028925D29E0D5ACDBF54E0F4F2764793716BF5CF531D2EDBB,20 May 2022 03:04:10 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
         }
         //]]>
         </script>
