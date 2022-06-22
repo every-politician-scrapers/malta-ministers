@@ -185,14 +185,14 @@ var MSOWebPartPageFormName = 'aspnetForm';
 var g_presenceEnabled = true;
 var g_wsaEnabled = false;
 
-var g_correlationId = '4f6749a0-7b5f-a0a7-6a55-a0e139a3c107';
+var g_correlationId = '9eb949a0-7bc4-a0a7-4c12-3083fa531494';
 var g_wsaQoSEnabled = false;
 var g_wsaQoSDataPoints = [];
 var g_wsaRUMEnabled = false;
 var g_wsaLCID = 1033;
 var g_wsaListTemplateId = 850;
 var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
-var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries 2022\u002fEconomy.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2022-06-21T03:22:07.7668676Z") - new Date(), updateFormDigestPageLoaded: new Date("2022-06-21T03:22:07.7668676Z"), siteClientTag: "688$$16.0.5317.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:73, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", webAbsoluteUrl: "https:\u002f\u002fwww.gov.mt\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities", siteAbsoluteUrl: "https:\u002f\u002fwww.gov.mt", serverRequestPath: "\u002fen\u002fGovernment\u002fGovernment of Malta\u002fMinistries and Entities\u002fPages\u002fMinistries 2022\u002fEconomy.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Ministries and Entities", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002fStyle Library\u002fGOV\u002fvendor\u002fimages\u002fgov-emblem.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-GB", clientServerTimeDelta: new Date("2022-06-22T03:20:36.1988745Z") - new Date(), updateFormDigestPageLoaded: new Date("2022-06-22T03:20:36.1988745Z"), siteClientTag: "688$$16.0.5317.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{ee3e00c8-7d07-47f9-819e-773ebc33d54b}",pageItemId:73, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};
                             function DoCallBack(filterText)
                             {WebForm_DoCallback('ctl00$ctl72$g_6626161a_da4a_459d_ba95_6f7bdeedf9b3$ctl01',filterText,UpdateFilterCallback,0,CallBackError,true)
                             }
@@ -636,7 +636,7 @@ BCom(Hons), MA(Econ), MP<br>​<br></strong></div><p style="text-align&#58;justi
         if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
             (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
         {
-            formDigestElement.value = '0x8088D0F2CB7CF499A9F1D1656EA2479AD43501F8311684B803E3A61C6C808C299D06AC73A20FD3E25761D31466E29534102DE86CD0C1A0E9A03B5FEC5D55D2E5,21 Jun 2022 03:22:07 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+            formDigestElement.value = '0x8D88DCC263BA08B47A5FC231C634A42BD9C3BB8C8BBF465A78B8D5478A7731214D74E2A76A7C61D648DC505309446064B17C406DE086FEC0A0BBD4DE956CE424,22 Jun 2022 03:20:36 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
         }
         //]]>
         </script>
