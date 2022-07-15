@@ -39,7 +39,7 @@ class Member < Scraped::HTML
   end
 end
 
-dir = Pathname.new '../../mirror'
+dir = Pathname.new 'mirror'
 data = dir.children.reject { |file| file.to_s.include? 'default.aspx' }.sort.flat_map do |file|
   request = Scraped::Request.new(url: file, strategies: [LocalFileRequest])
   data = Member.new(response: request.response).to_h
