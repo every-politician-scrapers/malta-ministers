@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of Malta Labour Party leaders"
+      ],
+      "stated_as": "Leader of the Labour Party"
+    },
+    "P580": "2020-01-12",
+    "P1365": {
+      "links": [
+        "Joseph Muscat"
+      ],
+      "stated_as": "Joseph Muscat"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Malta"
+      ],
+      "stated_as": "14th Prime Minister of Malta"
+    },
+    "P580": "2020-01-13",
+    "P1365": {
+      "links": [
+        "Joseph Muscat"
+      ],
+      "stated_as": "Joseph Muscat"
+    }
+  }
+]

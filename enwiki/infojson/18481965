@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Representatives of Malta"
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "1996-10-27",
+    "P582": "2013-03-09"
+  },
+  {
+    "office": {
+      "links": [
+        "Labour Party (Malta)"
+      ],
+      "stated_as": "Deputy Leader of the Labour Party"
+    },
+    "P580": "2008-06-13",
+    "P1365": {
+      "links": [
+        "Charles Mangion"
+      ],
+      "stated_as": "Charles Mangion"
+    },
+    "P582": "2012-12-20",
+    "P1366": {
+      "links": [
+        "Louis Grech"
+      ],
+      "stated_as": "Louis Grech"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the House of Representatives of Malta"
+      ],
+      "stated_as": "Speaker of the House of Representatives"
+    },
+    "P580": "2013-04-06",
+    "P1365": {
+      "links": [
+        "Michael Frendo"
+      ],
+      "stated_as": "Michael Frendo"
+    }
+  }
+]

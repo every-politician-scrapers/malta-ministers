@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "Parliament of Malta"
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "2013-03"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for the Economy, EU Funds and Lands"
+    },
+    "P580": "2020-01-15",
+    "P1365": {
+      "links": [
+        "Chris Cardona"
+      ],
+      "stated_as": "Chris Cardona"
+    }
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "office": {
+      "links": [
+        "European Parliament",
+        "Malta (European Parliament constituency)"
+      ],
+      "stated_as": "Member of the European Parliament for Malta"
+    },
+    "P580": "2014-07-01",
+    "P582": "2020-10-18"
+  },
+  {
+    "office": {
+      "links": [
+        "Maltese Parliament"
+      ],
+      "stated_as": "Member of the Maltese Parliament"
+    },
+    "P580": "2020-10-19"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Energy, Enterprise and Sustainable Development"
+    },
+    "P580": "2020-11-21",
+    "P582": "2022-03-26"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for the Environment, Energy and Enterprise"
+    },
+    "P580": "2022-03-30"
+  }
+]
