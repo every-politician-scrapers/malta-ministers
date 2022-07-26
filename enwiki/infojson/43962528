@@ -1,0 +1,78 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of Parliament"
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "2013-03-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet of Malta"
+      ],
+      "stated_as": "Parliamentary Secretary for Health"
+    },
+    "P580": "2014-04-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2016-04-28",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Position abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet of Malta"
+      ],
+      "stated_as": "Minister of Health"
+    },
+    "P580": "2016-04-28",
+    "P1365": {
+      "links": [
+        "Konrad Mizzi"
+      ],
+      "stated_as": "Konrad Mizzi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Labour Party (Malta)"
+      ],
+      "stated_as": "Deputy Leader of the Labour Party Parliamentary Affairs"
+    },
+    "P580": "2017-07-15",
+    "P1365": {
+      "links": [
+        "Louis Grech"
+      ],
+      "stated_as": "Louis Grech"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Malta"
+      ],
+      "stated_as": "Deputy Prime Minister of Malta"
+    },
+    "P580": "2017-07-17",
+    "P1365": {
+      "links": [
+        "Louis Grech"
+      ],
+      "stated_as": "Louis Grech"
+    }
+  }
+]

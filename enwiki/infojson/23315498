@@ -1,0 +1,105 @@
+[
+  {
+    "office": {
+      "links": [
+        "Labour Party (Malta)"
+      ],
+      "stated_as": "Deputy Leader of the Labour Party"
+    },
+    "P580": "1992-03-26",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Joseph Brincat"
+    },
+    "P582": "2003-05-23",
+    "P1366": {
+      "links": [
+        "Charles Mangion"
+      ],
+      "stated_as": "Charles Mangion"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Malta"
+      ],
+      "stated_as": "Deputy Prime Minister of Malta"
+    },
+    "P580": "1996-10-28",
+    "P1365": {
+      "links": [
+        "Guido de Marco"
+      ],
+      "stated_as": "Guido de Marco"
+    },
+    "P582": "1998-09-06",
+    "P1366": {
+      "links": [
+        "Guido de Marco"
+      ],
+      "stated_as": "Guido de Marco"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Ministers for Foreign Affairs of Malta"
+      ],
+      "stated_as": "Minister for Foreign Affairs"
+    },
+    "P580": "1996-10-28",
+    "P1365": {
+      "links": [
+        "Guido de Marco"
+      ],
+      "stated_as": "Guido de Marco"
+    },
+    "P582": "1998-09-06",
+    "P1366": {
+      "links": [
+        "Guido de Marco"
+      ],
+      "stated_as": "Guido de Marco"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Ministers for Foreign Affairs of Malta"
+      ],
+      "stated_as": "Minister for Foreign Affairs"
+    },
+    "P580": "2013-03-13",
+    "P1365": {
+      "links": [
+        "Francis Zammit Dimech"
+      ],
+      "stated_as": "Francis Zammit Dimech"
+    },
+    "P582": "2017-06-09",
+    "P1366": {
+      "links": [
+        "Carmelo Abela"
+      ],
+      "stated_as": "Carmelo Abela"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Malta"
+      ],
+      "stated_as": "10th President of Malta"
+    },
+    "P580": "2019-04-04",
+    "P1365": {
+      "links": [
+        "Marie-Louise Coleiro Preca"
+      ],
+      "stated_as": "Marie-Louise Coleiro Preca"
+    }
+  }
+]

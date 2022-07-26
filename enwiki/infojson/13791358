@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "Labour Party (Malta)"
+      ],
+      "stated_as": "Deputy Leader of the Labour Party Party Affairs"
+    },
+    "P580": "2003",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Joseph Brincat"
+    },
+    "P582": "2008-06-13",
+    "P1366": {
+      "links": [
+        "Toni Abela"
+      ],
+      "stated_as": "Toni Abela"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of Malta"
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "2008-03-09"
+  }
+]

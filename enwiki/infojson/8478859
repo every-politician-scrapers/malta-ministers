@@ -1,0 +1,169 @@
+[
+  {
+    "office": {
+      "links": [
+        "Electoral district of Blacktown"
+      ],
+      "stated_as": "Member for Blacktown"
+    },
+    "P580": "1981-09-19",
+    "P1365": {
+      "links": [
+        "Gordon Barnier"
+      ],
+      "stated_as": "Gordon Barnier"
+    },
+    "P582": "1991-05-03",
+    "P1366": {
+      "links": [
+        "Pam Allan"
+      ],
+      "stated_as": "Pam Allan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Natural Resources"
+    },
+    "P580": "1986-02-06",
+    "P1365": {
+      "links": [
+        "Janice Crosio"
+      ],
+      "stated_as": "Janice Crosio"
+    },
+    "P582": "1986-07-04",
+    "P1366": {
+      "links": [
+        "Jack Hallam (politician)"
+      ],
+      "stated_as": "Janice Crosio\n(Water Resources)\nJack Hallam (Forests)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Youth and Community Services and\nAssistant Minister for Ethnic Affairs"
+    },
+    "P580": "1986-07-04",
+    "P1365": {
+      "links": [
+        "Peter Anderson (politician)"
+      ],
+      "stated_as": "Peter Anderson"
+    },
+    "P582": "1988-03-21",
+    "P1366": {
+      "links": [
+        "Terry Metherell"
+      ],
+      "stated_as": "Virginia Chadwick\n(Family and Community Services)\nTerry Metherell (Education and Youth Affairs)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Electoral district of Riverstone"
+      ],
+      "stated_as": "Member for Riverstone"
+    },
+    "P580": "1991-05-25",
+    "P1365": {
+      "links": [
+        "Richard Amery"
+      ],
+      "stated_as": "Richard Amery"
+    },
+    "P582": "2011-03-26",
+    "P1366": {
+      "links": [
+        "Kevin Conolly"
+      ],
+      "stated_as": "Kevin Conolly"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister Assisting the Premier on Youth Affairs"
+    },
+    "P580": "1995-04-04",
+    "P582": "1999-04-08"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Education and Training"
+    },
+    "P580": "1995-04-04",
+    "P1365": {
+      "links": [
+        "Virginia Chadwick"
+      ],
+      "stated_as": "Virginia Chadwick (Education, Training and Youth Affairs)"
+    },
+    "P582": "2001-11-21",
+    "P1366": {
+      "links": [
+        "John Watkins (Australian politician)"
+      ],
+      "stated_as": "John Watkins"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Fair Trading and\nMinister for Land and Water Conservation"
+    },
+    "P580": "2001-11-21",
+    "P1365": {
+      "links": [
+        "John Watkins (Australian politician)",
+        "Richard Amery"
+      ],
+      "stated_as": "John Watkins\n(Fair Trading)\nRichard Amery\n(Land and Water Conservation)"
+    },
+    "P582": "2003-04-02",
+    "P1366": {
+      "links": [
+        "Reba Meagher",
+        "Craig Knowles"
+      ],
+      "stated_as": "Reba Meagher\n(Fair Trading)\nCraig Knowles\n(Natural Resources)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the New South Wales Legislative Assembly"
+      ],
+      "stated_as": "28th Speaker of the New South Wales Legislative Assembly"
+    },
+    "P1545": "28",
+    "P580": "2003-04-29",
+    "P1365": {
+      "links": [
+        "John Murray (New South Wales politician)"
+      ],
+      "stated_as": "John Murray"
+    },
+    "P582": "2007-05-07",
+    "P1366": {
+      "links": [
+        "Richard Torbay"
+      ],
+      "stated_as": "Richard Torbay"
+    }
+  }
+]
