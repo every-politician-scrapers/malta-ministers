@@ -1,12 +1,16 @@
 {
   "name": "Ian Borg",
-  "office": "Minister for European and Foreign Affairs",
-  "primeminister": "Robert Abela",
-  "term_start": "30 March 2022",
-  "predecessor": "Evarist Bartolo",
+  "office": "Minister for Foreign and European Affairs and Trade",
+  "country": "Malta",
+  "minister": "Minister for Foreign and European Affairs and Trade",
+  "parliamentarygroup": "Partit Laburista",
+  "birth_date": "28th February 1986",
+  "birth_place": "Pieta', Malta",
   "nationality": "Maltese",
-  "alma_mater": "University of Malta",
-  "birth_date": "February 28, 1986",
-  "birth_place": "Malta",
-  "party": "Labour (PL)"
+  "spouse": "Rachelle Borg Dingli",
+  "children": "Eve",
+  "profession": "Lawyer",
+  "education": "University of Malta",
+  "awards": "Forbes Under 30 Law & Policy honoree",
+  "parliament": "Member of Parliament"
 }
