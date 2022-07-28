@@ -18,27 +18,17 @@
         {
           "sentences": [
             {
-              "text": "Ian Borg (born 28 February 1986) is a Maltese politician and Minister of Foreign Affairs, European Affairs and Trade.",
+              "text": "Ian Borg (born 28 February 1986) is a Maltese politician who serves as Minister for Foreign and European Affairs and Trade.",
               "formatting": {
                 "bold": [
                   "Ian Borg"
                 ]
               }
+            },
+            {
+              "text": "Ian Borg has been serving as a Member of Parliament since 2013."
             }
           ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Maltese politician",
-          "template": "short description"
-        },
-        {
-          "df": "yes",
-          "year": "1986",
-          "month": "02",
-          "day": "28",
-          "template": "birth date and age"
         }
       ],
       "infoboxes": [
@@ -46,75 +36,100 @@
           "name": {
             "text": "Ian Borg"
           },
-          "image": {
-            "text": "Ian Borg (cropped).jpg"
-          },
           "office": {
-            "text": "Minister for European and Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister for European and Foreign Affairs",
-                "type": "internal",
-                "page": "List of Ministers for Foreign Affairs of Malta"
-              }
-            ]
+            "text": "Minister for Foreign and European Affairs and Trade"
           },
-          "primeminister": {
-            "text": "Robert Abela",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Robert Abela"
-              }
-            ]
+          "image": {
+            "text": "Minister Ian Borg.png"
           },
-          "term_start": {
-            "text": "30 March 2022"
+          "caption": {
+            "text": "Minister for Foreign and European Affairs and Trade"
           },
-          "predecessor": {
-            "text": "Evarist Bartolo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Evarist Bartolo"
-              }
-            ]
+          "country": {
+            "text": "Malta"
+          },
+          "minister": {
+            "text": "Minister for Foreign and European Affairs and Trade"
+          },
+          "parliamentarygroup": {
+            "text": "Partit Laburista"
+          },
+          "birth_date": {
+            "text": "28th February 1986"
+          },
+          "birth_place": {
+            "text": "Pieta', Malta"
           },
           "nationality": {
             "text": "Maltese",
             "links": [
               {
-                "text": "Maltese",
                 "type": "internal",
-                "page": "Malta"
+                "page": "Maltese"
               }
             ]
           },
-          "alma_mater": {
-            "text": "University of Malta",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Malta"
-              }
-            ]
+          "spouse": {
+            "text": "Rachelle Borg Dingli"
           },
-          "birth_date": {
-            "text": "February 28, 1986"
+          "children": {
+            "text": "Eve"
           },
-          "birth_place": {
-            "text": "Malta"
+          "profession": {
+            "text": "Lawyer"
           },
-          "party": {
-            "text": "Labour (PL)",
-            "links": [
-              {
-                "text": "Labour",
-                "type": "internal",
-                "page": "Labour Party (Malta)"
-              }
-            ]
+          "education": {
+            "text": "University of Malta"
+          },
+          "awards": {
+            "text": "Forbes Under 30 Law & Policy honoree"
+          },
+          "parliament": {
+            "text": "Member of Parliament"
           }
+        }
+      ]
+    },
+    {
+      "title": "Early Life & Family",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Borg was born on 28 February 1986, in Pieta', Malta, to a Dingli family.",
+              "links": [
+                {
+                  "text": "Pieta'",
+                  "type": "internal",
+                  "page": "Pietà, Malta"
+                },
+                {
+                  "type": "internal",
+                  "page": "Malta"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dingli"
+                }
+              ]
+            },
+            {
+              "text": "He has a sister."
+            },
+            {
+              "text": "At a young age, Ian Borg participated actively in local NGOs and practiced football with his hometown football club Dingli Swallows F.C..",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dingli Swallows F.C."
+                }
+              ]
+            },
+            {
+              "text": "Ian Borg is married to Rachelle Borg Dingli and are parents to Eve."
+            }
+          ]
         }
       ]
     },
@@ -125,7 +140,10 @@
         {
           "sentences": [
             {
-              "text": "Borg holds a doctor of laws degree from the University of Malta.",
+              "text": "Ian Borg is a lawyer by profession."
+            },
+            {
+              "text": "He graduated as a Doctor of Laws from the University of Malta in 2012, after successfully reading a Doctoral degree in Laws, a Diploma in Public Notarial Practice and a Bachelor’s Degree in Law.",
               "links": [
                 {
                   "type": "internal",
@@ -152,84 +170,100 @@
       "depth": 0,
       "paragraphs": [
         {
+          "sentences": []
+        }
+      ],
+      "images": [
+        {
+          "file": "File:IANBORG_DINGLI.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/IANBORG_DINGLI.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/IANBORG_DINGLI.jpg",
+          "caption": "Ian Borg as Mayor of his hometown Dingli in 2009",
+          "links": []
+        }
+      ]
+    },
+    {
+      "title": "Mayor of Dingli",
+      "depth": 1,
+      "paragraphs": [
+        {
           "sentences": [
             {
-              "text": "He started his political career elected as mayor of Dingli, his native town in 2005, and was re-elected in 2008.",
+              "text": "Ian Borg started his political career started in 2005 with his election as Mayor of his hometown Dingli, which was reaffirmed in 2008 and 2012.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Dingli"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "images": [
+        {
+          "file": "File:IANBORG_EP.png",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/IANBORG_EP.png?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/IANBORG_EP.png",
+          "caption": "Ian Borg addressing the European Parliament during the Maltese Presidency for the Council of the European Union in 2017",
+          "links": []
+        }
+      ]
+    },
+    {
+      "title": "Parliamentary Secretary for the EU Presidency 2017 and EU Funds",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
             {
-              "text": "There, he was also elected as executive member of Local Councils Association serving in the North Regional Committee and Users Committee of the Malta Environment and Planning Authority till 2010.",
+              "text": "In 2013, he contested for the first time for a General Election under the Partit Laburista ticket.",
               "links": [
                 {
-                  "type": "internal",
-                  "page": "Malta"
-                }
-              ]
-            },
-            {
-              "text": "Soon after, he was elected member of the Maltese delegation to the Committee of the Regions together with being President of the Labour Party Councillors Sectors and in 2012 he was reelected as mayor of his home town as member of Labour Party.",
-              "links": [
-                {
-                  "text": "Maltese",
-                  "type": "internal",
-                  "page": "Maltese people"
-                },
-                {
-                  "text": "Labour Party",
+                  "text": "Partit Laburista",
                   "type": "internal",
                   "page": "Labour Party (Malta)"
                 }
               ]
             },
             {
-              "text": "Borg was Parliamentary Secretary of the EU Presidency in 2017 and EU Funds.",
+              "text": "He was elected with the most number of votes on the 7th District with 4,186 votes."
+            },
+            {
+              "text": "He was appointed to the Cabinet of Ministers by former Prime Minister Joseph Muscat and served as Parliamentary Secretary for the EU Presidency 2017 and EU Funds.",
               "links": [
                 {
-                  "text": "EU Presidency",
                   "type": "internal",
-                  "page": "EU presidency"
+                  "page": "Joseph Muscat"
                 }
               ]
             },
             {
-              "text": "Thereafter he served as a Minister of Transport, Infrastructure, and Capital Projects."
+              "text": "During the 12th."
+            },
+            {
+              "text": "legislature, as the youngest member of the Cabinet, he was responsible for the national preparations for the successful 2017 Maltese Presidency of the Council of the EU, together with the strengthening of the EU Funds absorption process towards a more efficient and transparent practice."
+            },
+            {
+              "text": "In fact, in 2016, Malta recorded a 100% absorption rate in EU Funds for the programming period 2007-2013.",
+              "links": [
+                {
+                  "text": "100% absorption rate",
+                  "type": "external",
+                  "site": "https://eufundscms.gov.mt/en/Information/Press%20Releases/Pages/PRESS-RELEASE-BY-THE-MINISTRY-FOR-EUROPEAN-AFFAIRS-AND-IMPLEMENTATION-OF-THE-ELECTORAL-MANIFESTO.aspx"
+                }
+              ]
             }
           ]
         }
       ],
-      "references": [
+      "templates": [
         {
-          "title": "Ian Borg, 29",
-          "url": "https://www.forbes.com/pictures/edhd45llg/ian-borg-29/",
-          "access-date": "2020-07-14",
-          "website": "Forbes",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Ian Borg marries, month after becoming minister",
-          "url": "https://timesofmalta.com/articles/view/ian-borg-marries-month-after-becoming-minister.652783",
-          "access-date": "2020-07-14",
-          "website": "Times of Malta",
-          "language": "en-gb",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2017-07-06",
-          "title": "borg ian",
-          "url": "https://parlament.mt/13th-leg/political-groups/partit-laburista/borg-ian/",
-          "access-date": "2020-07-14",
-          "website": "Parliament of Malta",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
+          "template": "reflist"
         }
       ]
     },
@@ -237,9 +271,6 @@
       "title": "References",
       "depth": 0,
       "templates": [
-        {
-          "template": "reflist"
-        },
         {
           "template": "s-start"
         },
