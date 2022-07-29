@@ -8,7 +8,8 @@
     "Government ministers of Malta",
     "Labour Party (Malta) politicians",
     "Alumni of the University of Malta",
-    "21st-century Maltese politicians"
+    "21st-century Maltese politicians",
+    "Maltese Politician"
   ],
   "sections": [
     {
@@ -18,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Ian Borg (born 28 February 1986) is a Maltese politician who serves as Minister for Foreign and European Affairs and Trade.",
+              "text": "Ian Borg (born 28 February 1986) is a Lawyer and Maltese politician who serves as Minister for Foreign and European Affairs and Trade.",
               "formatting": {
                 "bold": [
                   "Ian Borg"
@@ -41,9 +42,6 @@
           },
           "image": {
             "text": "Minister Ian Borg.png"
-          },
-          "caption": {
-            "text": "Minister for Foreign and European Affairs and Trade"
           },
           "country": {
             "text": "Malta"
@@ -199,18 +197,6 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": []
-        }
-      ],
-      "images": [
-        {
-          "file": "File:IANBORG_EP.png",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/IANBORG_EP.png?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/IANBORG_EP.png",
-          "caption": "Ian Borg addressing the European Parliament during the Maltese Presidency for the Council of the European Union in 2017",
-          "links": []
         }
       ]
     },
@@ -261,15 +247,168 @@
           ]
         }
       ],
-      "templates": [
+      "images": [
         {
-          "template": "reflist"
+          "file": "File:IANBORG_EP.png",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/IANBORG_EP.png?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/IANBORG_EP.png",
+          "caption": "Ian Borg addressing the European Parliament during the Maltese Presidency for the Council of the European Union in 2017",
+          "links": []
         }
       ]
     },
     {
-      "title": "References",
+      "title": "Minister for Transport, Infrastructure and Capital Projects",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In June 2017, Dr Ian Borg was entrusted with a wide portfolio ranging from major infrastructural projects to the construction and maintenance of the country’s infrastructure, land, air and maritime transport and property."
+            },
+            {
+              "text": "Minister Borg’s portfolio commitment towards a radical improvement in the country’s infrastructure is visible in the continuous and persistent work being undertaken by the Ministry and the authorities falling within its remit."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the five years since his appointment of Minister for Transport, Infrastructure and Capital Projects, Dr Ian Borg has overseen an abundance of great projects, including the completion of the Kappara Junction, the completion of the ambitious Marsa Junction Project and Central Link Project, several extensive projects on main arteries and junctions all around the island, and the implementation of the unprecedented €700 million residential roads project.",
+              "links": [
+                {
+                  "text": "Marsa Junction Project",
+                  "type": "external",
+                  "site": "https://www.gov.mt/en/Government/DOI/Press%20Releases/Press%20Photos/Pages/2021/April/15/Marsa-Junction-Project-Official-Inauguration.aspx"
+                },
+                {
+                  "text": "Central Link Project",
+                  "type": "external",
+                  "site": "https://tvmnews.mt/en/news/watch-pm-inaugurates-central-link-project/"
+                }
+              ]
+            },
+            {
+              "text": "During the last legislature, Minister Borg has also seen to the setting up of the roads agency Infrastructure Malta, which has forever changed the way infrastructural projects are planned and implemented."
+            },
+            {
+              "text": "Minister Ian Borg has also undertaken several initiatives that aim to start creating a culture shift moving from the use of the personal vehicle to the use of alternative means of transport."
+            },
+            {
+              "text": "His work in the transport scenario has included the enabling of initiatives that seek to incentivise the use of means including public transport, shared transport and cycling."
+            },
+            {
+              "text": "This is being complemented by the infrastructural work that is being undertaken which also includes new infrastructure for the alternative means being promoted."
+            },
+            {
+              "text": "The maritime and aviation sectors also formed part of the Minister’s portfolio."
+            },
+            {
+              "text": "Both sectors have undergone a rapid growth with the maritime industry reaching new heights both with respect to the amount of ships and superyachts, reaching more than a thousand, that have been registered under the Maltese flag, thus making it the largest register in Europe and the 6th in the world."
+            },
+            {
+              "text": "The aviation sector has also picked up its momentum with the latest figure showing over 600 aircrafts registered under the Maltese aviation register 9H."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Community projects have also taken centre stage as part of the Ministry’s portfolio."
+            },
+            {
+              "text": "Dr Ian Borg managed to implement a more cultural approach in our communities by regenerating and creating new open spaces in various localities and introducing the Malta National Park, coined as a national dream, of which two out of five phases have now been completed."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:AY5I0200_copy.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/AY5I0200_copy.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/AY5I0200_copy.jpg",
+          "caption": "228x228px",
+          "links": []
+        },
+        {
+          "file": "File:MJPDRONE.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/MJPDRONE.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/MJPDRONE.jpg",
+          "caption": "The Marsa Junction Project",
+          "links": []
+        },
+        {
+          "file": "File:CLP1.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/CLP1.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/CLP1.jpg",
+          "caption": "The Central Link Project",
+          "links": []
+        }
+      ]
+    },
+    {
+      "title": "Minister for Foreign and European Affairs and Trade",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dr Ian Borg was appointed Minister for Foreign and European Affairs and Trade in March 2022, at the start of the 14th legislature."
+            },
+            {
+              "text": "His current role encompasses the responsibility for maintaining Malta's external relations and the management of its international diplomatic missions."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In June 2022, under his leadership as Foreign Affairs Minister, Malta was elected on the United Nations Security Council as part of the United Nations.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Nations Security Council"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Nations"
+                }
+              ]
+            },
+            {
+              "text": "Following that Malta was also elected to the Commonwealth Ministerial Action Group during the CHOGM 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Commonwealth"
+                },
+                {
+                  "type": "internal",
+                  "page": "CHOGM 2022"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:UNSC.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/UNSC.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/UNSC.jpg",
+          "caption": "225x225px",
+          "links": []
+        }
+      ]
+    },
+    {
+      "title": "Honours",
       "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
       "templates": [
         {
           "template": "s-start"
@@ -292,6 +431,19 @@
         {
           "template": "foreign ministers of the european union member states"
         }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Forbes Under 30 Law & Policy Honoree",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Forbes"
+              }
+            ]
+          }
+        ]
       ]
     }
   ]
